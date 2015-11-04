@@ -5,9 +5,13 @@ This database provides statistics for words and nonwords of Mandarin, Chinese. L
 
 The database is made of 28 files, organized according to words with tone, words without tone,
 nonwords with tone, and nonwords without tone.
+
 Words with tone files: C_V_C_T, C_V_V_X_T, C_V_VX_T, C_VVX_T, CV_V_X_T, CV_VX_T, CVVX_T
+
 Words without tone files: C_V_C, C_V_V_X, C_V_VX, C_VVX, CV_V_X, CV_VX, CVVX
+
 Nonwords with tone files: Same as words with tone plus "nonword_"
+
 Nonwords without tone files: Same as words without tone plus "nonword_"
 
 The contents of each file are structured by columns with the titles defined below:
