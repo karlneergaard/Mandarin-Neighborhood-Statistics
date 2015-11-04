@@ -74,7 +74,7 @@ IPA to sampa conversion chart with examples
 
 IPA -> Sampa -> Pinyin -> Sampa -> Character
 
-a -> a -> ba3 -> ba3 -> 把
+a -> a -> ba3 -> pa3 -> 把
 
 ə -> @ -> she4 -> S@4 -> 蛇
 
@@ -98,7 +98,7 @@ y -> y -> yuan2 -> yEn2 -> 元
 
 m -> m -> ma1 -> ma1 -> 妈
 
-n -> n -> neng2 -> neN2 -> 能
+n -> n -> neng2 -> n@N2 -> 能
 
 ŋ -> N -> xiang3 -> XiaN3 -> 想
 
@@ -108,11 +108,11 @@ r -> r -> rang4 -> raN4 -> 让
 
 p -> p -> bu4 -> pu4 -> 不
 
-pʰ -> P -> pao3 -> Pao3 -> 跑
+pʰ -> P -> pao3 -> PaU3 -> 跑
 
 k -> k -> ge0 -> k@0 -> 个
 
-kʰ -> K -> ke4 -> k’@4 -> 课
+kʰ -> K -> ke4 -> K@4 -> 课
 
 t -> t -> dou1 -> toU1 -> 都
 
