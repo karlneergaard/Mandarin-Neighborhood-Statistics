@@ -19,8 +19,8 @@ The contents of each file are structured by columns with the titles defined belo
 Key: The database was made according to phonological words. Therefore, in each file the "Key" 
 column features the phonological words from which all phonologically related manipulations 
 were made. Thus, each of the following column titles are in reference to the phonological word 
-presented in "Key". The phonological words are in sampa. See the Dictionary.txt for help in 
-translating Sampa-IPA-Pinyin. 
+presented in "Key". The phonological words are in sampa. For translations of IPA and their 
+corresponding sampa and pinyin, go below the column name definitions.
 
 PY+T: Pinyin plus tone
 
@@ -68,3 +68,41 @@ S-Neighbors: Number of substitution neighbors
 Neighbors: All phonological neighbors presented in sampa
 
 Freq-Neighbors: The summed raw frequency of all of the phonological neighbors
+
+_____________________________________________
+IPA to sampa conversion chart with examples
+
+IPA		Sampa	Pinyin	Sampa	Character
+a		  a		  ba3		  ba3		  把
+ə		  @		  she4	  S@4	  	蛇
+e		  e		  gei3	  keI3	  给
+ɛ		  E		  ye3		  iE3		  也
+ɨ		  1		  zhi1	  Z11		  之
+i		  i		  di4		  ti4		  第
+ɪ		  I		  sui4	  sueI4	  岁
+o		  o		  ruo		  ruo		  若
+ʊ		  U		  chou3	  CoU		  丑
+u		  u		  wo3		  uo3		  我
+y		  y		  yuan2	  yEn2	  元
+m		  m		  ma1		  ma1		  妈
+n		  n		  neng2	  neN2	  能
+ŋ		  N		  xiang3	XiaN3	  想
+l		  l		  lie4	  liE4	  列
+r		  r		  rang4	  raN4	  让
+p		  p		  bu4		  pu4		  不
+pʰ	 	P		  pao3	  Pao3	  跑
+k		  k		  ge0		  k@0		  个
+kʰ		K		  ke4		  k’@4	  课
+t		  t		  dou1	  toU1	  都
+tʰ		T		  ta1		  Ta1		  他
+s		  s		  suo3	  suo3	  所
+f		  f		  fang4	  faN4	  放
+x		  x		  hui4	  xueI4	  会
+ʂ		  S		  shi4	  S14		  是
+ɕ		  X		  xia4	  Xia4	  下
+tɕ		J		  jiu4	  JioU4	  就
+tɕʰ		Q		  qing3	  QiN3	  请
+tsʰ		c		  cong2	  coN2	  从
+tʂʰ		C		  chu1	  Cu1		  出
+ts		z		  zi4		  z14		  字
+tʂ		Z		  zhe		  Z@4		  这
