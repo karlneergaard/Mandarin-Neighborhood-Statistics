@@ -1,0 +1,1125 @@
+Key	PY+T	Pho+T	IPA+T	PY-T	Pho-T	IPA-T	Tone	SyStruct	SyLen	OrthLen	PhoLen	FreqPM	Words	HomoDensity	Dominate-POS	Freq-Dominate-POS	Percent-Dominate-POS	Other-POSes	Num-Neighbors	R-Neighbors	A-Neighbors	S-Neighbors	Neighbors	Freq-Neighbors
+J u a N									0.000	0	0	0.0		0		0	0.000		11	10	0	1	J i a N, Z u a N, C u a N, S u a N, k u a N, K u a N, x u a N, i u a N, y u a N, u u a N, u a N	85747
+J u e I									0.000	0	0	0.0		0		0	0.000		16	14	1	1	x u e I, t u e I, z u e I, i u e I, S u e I, s u e I, T u e I, k u e I, Z u e I, C u e I, r u e I, c u e I, K u e I, u u e I, J i u e I, u e I	661991
+J u n									0.000	0	0	0.0		0		0	0.000		15	15	0	0	J i n, x u n, t u n, k u n, C u n, l u n, J y n, Z u n, c u n, K u n, T u n, S u n, z u n, s u n, r u n	65816
+J u N									0.000	0	0	0.0		0		0	0.000		1	1	0	0	J i N	44044
+J u o									0.000	0	0	0.0		0		0	0.000		19	18	0	1	S u o, x u o, z u o, k u o, Z u o, t u o, c u o, s u o, m u o, l u o, T u o, p u o, P u o, r u o, n u o, C u o, K u o, i u o, u o	2602029
+J y									0.000	0	0	0.0		0		0	0.000		15	8	6	1	Q y, J i, n y, X y, l y, @ y, i y, y y, J y n, J y E, J i y, i J y, J y @, y J y, y	290223
+J y E									0.000	0	0	0.0		0		0	0.000		15	10	3	2	J i E, Q y E, X y E, J y n, y y E, l y E, n y E, u y E, J y @, i y E, J y E n, J y E i, J y E u, y E, J y	97800
+J y E n									0.000	0	0	0.0		0		0	0.000		12	7	2	3	J i E n, Q y E n, X y E n, i y E n, J y E i, u y E n, J y E u, J y y E n, J i y E n, y E n, J y n, J y E	122258
+J y E N									0.000	0	0	0.0		0		0	0.000		4	3	0	1	J y E n, J y E i, J y E u, J y E	5029
+J y n									0.000	0	0	0.0		0		0	0.000		11	7	2	2	J i n, Q y n, J y E, X y n, @ y n, J y @, u y n, J y E n, J y n i, J y, y n	65551
+J y N									0.000	0	0	0.0		0		0	0.000		5	4	0	1	J i N, J y n, J y E, J y @, J y	68295
+K @									0.000	0	0	0.0		0		0	0.000		24	16	7	1	t @, Z @, k @, n @, C @, x @, K u, S @, r @, T @, K a, s @, l @, z @, c @, y @, K @ i, K @ n, i K @, K @ u, K @ N, u K @, y K @, @	2447796
+k @ n									0.000	0	0	0.0		0		0	0.000		22	18	2	2	x @ n, r @ n, Z @ n, m @ n, u @ n, f @ n, k a n, S @ n, p @ n, k u n, K @ n, C @ n, z @ n, P @ n, s @ n, n @ n, k @ u, k @ N, k @ i n, k @ a n, k @, @ n	884224
+k @ N									0.000	0	0	0.0		0		0	0.000		24	22	1	1	n @ N, k @ n, t @ N, Z @ N, C @ N, S @ N, f @ N, k a N, r @ N, m @ N, k o N, z @ N, P @ N, T @ N, l @ N, c @ N, x @ N, p @ N, K @ N, k @ u, u @ N, s @ N, k @ N i, k @	585976
+K @ n									0.000	0	0	0.0		0		0	0.000		21	19	0	2	x @ n, r @ n, Z @ n, K a n, K @ i, k @ n, m @ n, u @ n, f @ n, S @ n, p @ n, K u n, C @ n, z @ n, P @ n, s @ n, K @ u, K @ N, n @ n, K @, @ n	987770
+K @ N									0.000	0	0	0.0		0		0	0.000		24	23	0	1	n @ N, K @ i, t @ N, Z @ N, C @ N, S @ N, f @ N, r @ N, m @ N, z @ N, P @ N, K o N, T @ N, l @ N, K @ n, c @ N, x @ N, p @ N, K a N, K @ u, k @ N, u @ N, s @ N, K @	462927
+k @ r									0.000	0	0	0.0		0		0	0.000		10	5	3	2	k @ n, y @ r, k @ u, k @ N, i @ r, k u @ r, k @ @ r, k @ r @, k @, @ r	309569
+K @ r									0.000	0	0	0.0		0		0	0.000		8	6	0	2	K @ i, K @ n, K @ u, K @ N, y @ r, i @ r, K @, @ r	198788
+k 1									0.000	0	0	0.0		0		0	0.000		10	10	0	0	S 1, k @, Z 1, s 1, c 1, C 1, z 1, k u, r 1, k a	1581947
+K 1									0.000	0	0	0.0		0		0	0.000		10	10	0	0	S 1, Z 1, s 1, K @, c 1, C 1, z 1, K u, r 1, K a	1463376
+k a									0.000	0	0	0.0		0		0	0.000		27	21	5	1	T a, p a, m a, n a, k @, t a, S a, l a, i a, C a, u a, f a, P a, k u, x a, z a, K a, Z a, s a, c a, a a, k a I, k a U, k a n, k a N, k u a, a	2193142
+K a									0.000	0	0	0.0		0		0	0.000		27	21	5	1	T a, p a, m a, n a, t a, K @, S a, l a, i a, C a, u a, f a, K u, P a, x a, z a, Z a, s a, c a, a a, k a, K a n, K a I, K a U, K u a, K a N, a	2112946
+k a I									0.000	0	0	0.0		0		0	0.000		23	20	1	2	z a I, l a I, k e I, T a I, t a I, c a I, x a I, K a I, k a U, m a I, P a I, k a n, k a N, p a I, u a I, s a I, n a I, C a I, Z a I, S a I, k u a I, a I, k a	1175790
+K a I									0.000	0	0	0.0		0		0	0.000		23	19	2	2	z a I, l a I, K a n, T a I, t a I, c a I, k a I, x a I, m a I, P a I, K a U, p a I, u a I, s a I, n a I, C a I, K a N, Z a I, S a I, K u a I, K @ a I, a I, K a	1192995
+k a n									0.000	0	0	0.0		0		0	0.000		31	24	5	2	K a n, t a n, k @ n, u a n, k a I, k a U, p a n, T a n, s a n, n a n, Z a n, f a n, k a N, S a n, m a n, l a n, k u n, x a n, P a n, c a n, C a n, z a n, r a n, i a n, k u a n, y k a n, k a n y, @ k a n, k @ a n, a n, k a	536029
+k a N									0.000	0	0	0.0		0		0	0.000		28	24	2	2	r a N, S a N, p a N, k a I, t a N, k a U, Z a N, f a N, C a N, u a N, k a n, m a N, T a N, i a N, k o N, c a N, l a N, P a N, z a N, K a N, s a N, x a N, n a N, k @ N, k u a N, y k a N, a N, k a	546682
+K a n									0.000	0	0	0.0		0		0	0.000		28	24	2	2	t a n, u a n, K a I, p a n, T a n, s a n, n a n, k a n, Z a n, f a n, K a U, S a n, m a n, l a n, x a n, P a n, K @ n, c a n, K u n, C a n, z a n, r a n, K a N, i a n, K u a n, K a n u, a n, K a	327919
+K a N									0.000	0	0	0.0		0		0	0.000		28	24	2	2	r a N, S a N, K a n, p a N, t a N, K a I, Z a N, f a N, C a N, u a N, k a N, K a U, m a N, T a N, i a N, c a N, K o N, l a N, P a N, z a N, s a N, x a N, K @ N, n a N, K u a N, K a N i, K a, a N	618609
+k a r									0.000	0	0	0.0		0		0	0.000		5	4	0	1	k a I, k a U, k a n, k a N, k a	92685
+K a r									0.000	0	0	0.0		0		0	0.000		5	4	0	1	K a n, K a I, K a U, K a N, K a	145433
+k a U									0.000	0	0	0.0		0		0	0.000		26	21	3	2	x a U, i a U, t a U, Z a U, k a I, k o U, z a U, l a U, k a n, P a U, k a N, p a U, S a U, K a U, T a U, C a U, m a U, c a U, n a U, r a U, s a U, y k a U, k a U y, k a U @, a U, k a	1057837
+K a U									0.000	0	0	0.0		0		0	0.000		24	21	1	2	x a U, i a U, t a U, K a n, Z a U, K a I, k a U, z a U, l a U, P a U, p a U, S a U, T a U, C a U, m a U, K o U, c a U, n a U, r a U, K a N, s a U, i K a U, K a, a U	1127430
+k E									0.000	0	0	0.0		0		0	0.000		5	5	0	0	k @, i E, y E, k u, k a	357230
+K E									0.000	0	0	0.0		0		0	0.000		5	5	0	0	i E, K @, y E, K u, K a	238659
+k e I									0.000	0	0	0.0		0		0	0.000		15	12	2	1	m e I, t e I, u e I, p e I, S e I, x e I, k a I, f e I, l e I, n e I, P e I, z e I, k u e I, k e I y, e I	623020
+K e I									0.000	0	0	0.0		0		0	0.000		15	13	1	1	m e I, k e I, t e I, u e I, p e I, S e I, x e I, K a I, f e I, l e I, n e I, P e I, z e I, K u e I, e I	723063
+k E n									0.000	0	0	0.0		0		0	0.000		5	5	0	0	k @ n, y E n, k a n, i E n, k u n	121065
+K E n									0.000	0	0	0.0		0		0	0.000		5	5	0	0	K a n, y E n, i E n, K @ n, K u n	142837
+k i									0.000	0	0	0.0		0		0	0.000		20	18	1	1	n i, k @, l i, J i, Q i, p i, t i, X i, T i, m i, P i, k u, i i, u i, a i, @ i, y i, k a, k u i, i	2070749
+K i									0.000	0	0	0.0		0		0	0.000		20	18	1	1	n i, l i, J i, K @, Q i, p i, t i, X i, T i, K u, m i, P i, i i, K a, u i, a i, @ i, y i, K @ i, i	2030270
+k i @									0.000	0	0	0.0		0		0	0.000		3	2	0	1	J i @, Q i @, k @	187837
+K i @									0.000	0	0	0.0		0		0	0.000		3	2	0	1	J i @, Q i @, K @	60956
+k i @ n									0.000	0	0	0.0		0		0	0.000		1	0	0	1	, k @ n	66451
+k i @ N									0.000	0	0	0.0		0		0	0.000		1	0	0	1	, k @ N	130
+K i @ n									0.000	0	0	0.0		0		0	0.000		1	0	0	1	, K @ n	2394
+K i @ N									0.000	0	0	0.0		0		0	0.000		1	0	0	1	, K @ N	348
+k i @ r									0.000	0	0	0.0		0		0	0.000		5	4	0	1	t i @ r, k u @ r, l i @ r, k @ @ r, i @ r	6991
+K i @ r									0.000	0	0	0.0		0		0	0.000		3	2	0	1	t i @ r, l i @ r, i @ r	6552
+k i a									0.000	0	0	0.0		0		0	0.000		9	7	0	2	X i a, J i a, k u a, Q i a, u i a, a i a, i i a, i a, k a	123548
+K i a									0.000	0	0	0.0		0		0	0.000		9	7	0	2	X i a, J i a, K u a, Q i a, u i a, a i a, i i a, i a, K a	123467
+k i a n									0.000	0	0	0.0		0		0	0.000		7	5	0	2	k u a n, T i a n, l i a n, X i a n, k @ a n, k a n, i a n	34968
+k i a N									0.000	0	0	0.0		0		0	0.000		10	8	0	2	X i a N, l i a N, J i a N, i i a N, Q i a N, k u a N, n i a N, u i a N, k a N, i a N	457930
+K i a n									0.000	0	0	0.0		0		0	0.000		6	4	0	2	K u a n, T i a n, l i a n, X i a n, K a n, i a n	105898
+K i a N									0.000	0	0	0.0		0		0	0.000		10	8	0	2	X i a N, l i a N, J i a N, i i a N, Q i a N, K u a N, n i a N, u i a N, i a N, K a N	444693
+k i a r									0.000	0	0	0.0		0		0	0.000		0	0	0	0		0
+K i a r									0.000	0	0	0.0		0		0	0.000		0	0	0	0		0
+k i a U									0.000	0	0	0.0		0		0	0.000		13	11	0	2	l i a U, J i a U, X i a U, T i a U, t i a U, Q i a U, m i a U, P i a U, n i a U, p i a U, i i a U, i a U, k a U	1426266
+K i a U									0.000	0	0	0.0		0		0	0.000		13	11	0	2	l i a U, J i a U, X i a U, T i a U, t i a U, Q i a U, m i a U, P i a U, n i a U, p i a U, i i a U, i a U, K a U	1407986
+k i E									0.000	0	0	0.0		0		0	0.000		12	11	0	1	p i E, X i E, J i E, Q i E, T i E, l i E, t i E, u i E, m i E, n i E, P i E, i E	297293
+K i E									0.000	0	0	0.0		0		0	0.000		12	11	0	1	p i E, X i E, J i E, Q i E, T i E, l i E, t i E, u i E, m i E, n i E, P i E, i E	297293
+k i E n									0.000	0	0	0.0		0		0	0.000		15	13	1	1	Q i E n, t i E n, J i E n, T i E n, n i E n, X i E n, p i E n, l i E n, P i E n, m i E n, y i E n, i i E n, u i E n, k @ i E n, i E n	438017
+K i E n									0.000	0	0	0.0		0		0	0.000		15	13	1	1	Q i E n, t i E n, J i E n, T i E n, n i E n, X i E n, p i E n, l i E n, P i E n, m i E n, y i E n, i i E n, u i E n, K @ i E n, i E n	438233
+k i n									0.000	0	0	0.0		0		0	0.000		14	12	1	1	k @ n, X i n, J i n, n i n, k a n, k u n, Q i n, P i n, l i n, m i n, p i n, y i n, k @ i n, i n	187119
+k i N									0.000	0	0	0.0		0		0	0.000		14	13	0	1	T i N, J i N, X i N, Q i N, p i N, l i N, m i N, t i N, k a N, k o N, P i N, n i N, k @ N, i N	313450
+K i n									0.000	0	0	0.0		0		0	0.000		13	12	0	1	K a n, X i n, J i n, n i n, Q i n, K @ n, P i n, K u n, l i n, m i n, p i n, y i n, i n	208832
+K i N									0.000	0	0	0.0		0		0	0.000		14	13	0	1	T i N, J i N, X i N, Q i N, p i N, l i N, m i N, t i N, P i N, K o N, K a N, n i N, K @ N, i N	301398
+k i o n									0.000	0	0	0.0		0		0	0.000		0	0	0	0		0
+k i o N									0.000	0	0	0.0		0		0	0.000		9	6	1	2	X i o N, Q i o N, u i o N, J i o N, i i o N, y i o N, k u i o N, i o N, k o N	63986
+K i o n									0.000	0	0	0.0		0		0	0.000		0	0	0	0		0
+K i o N									0.000	0	0	0.0		0		0	0.000		9	6	1	2	X i o N, Q i o N, u i o N, J i o N, i i o N, y i o N, K @ i o N, i o N, K o N	61925
+k i o U									0.000	0	0	0.0		0		0	0.000		10	7	1	2	J i o U, Q i o U, l i o U, X i o U, t i o U, n i o U, m i o U, k u i o U, i o U, k o U	712367
+K i o U									0.000	0	0	0.0		0		0	0.000		9	7	0	2	J i o U, Q i o U, l i o U, X i o U, t i o U, n i o U, m i o U, i o U, K o U	692329
+k o n									0.000	0	0	0.0		0		0	0.000		5	5	0	0	k @ n, k o U, k a n, k o N, k u n	117478
+k o N									0.000	0	0	0.0		0		0	0.000		21	16	5	0	Z o N, i o N, c o N, k o U, t o N, s o N, n o N, T o N, k a N, z o N, C o N, K o N, x o N, l o N, r o N, k @ N, k o N y, i k o N, k o N u, k o N i, u k o N	288887
+K o n									0.000	0	0	0.0		0		0	0.000		5	5	0	0	K a n, K o U, K o N, K @ n, K u n	118093
+K o N									0.000	0	0	0.0		0		0	0.000		17	16	1	0	Z o N, i o N, c o N, t o N, s o N, n o N, T o N, z o N, C o N, k o N, K o U, x o N, l o N, r o N, K a N, K @ N, K o N y	255562
+l i o n									0.000	0	0	0.0		0		0	0.000		4	3	0	1	l i o U, l i E n, l i a n, l i n	34074
+l i o N									0.000	0	0	0.0		0		0	0.000		15	9	3	3	l i a N, l i o U, X i o N, Q i o N, u i o N, l i i N, J i o N, i i o N, y i o N, l i i o N, l i l o N, l u i o N, i o N, l i N, l o N	153167
+l i o U									0.000	0	0	0.0		0		0	0.000		16	7	7	2	l i a U, J i o U, Q i o U, X i o U, t i o U, n i o U, m i o U, l i i o U, l y i o U, i l i o U, l i o U i, l i T o U, u l i o U, y l i o U, i o U, l o U	1630335
+l o n									0.000	0	0	0.0		0		0	0.000		5	5	0	0	l a n, l o U, l u n, l o N, l i n	19344
+l o N									0.000	0	0	0.0		0		0	0.000		17	17	0	0	Z o N, i o N, c o N, t o N, l i N, s o N, n o N, T o N, z o N, C o N, k o N, l o U, K o N, x o N, l a N, l @ N, r o N	281046
+l o U									0.000	0	0	0.0		0		0	0.000		21	18	2	1	i o U, t o U, z o U, S o U, k o U, x o U, T o U, l a U, Z o U, C o U, K o U, m o U, r o U, s o U, l o N, c o U, f o U, P o U, l i o U, i l o U, o U	863644
+l u									0.000	0	0	0.0		0		0	0.000		29	23	5	1	p u, l i, C u, Z u, l a, S u, f u, t u, K u, r u, z u, k u, T u, x u, m u, l @, l y, s u, P u, i u, n u, c u, u u, l u o, l i u, l u n, i l u, l u y, u	1039092
+l u a									0.000	0	0	0.0		0		0	0.000		13	8	2	3	x u a, Z u a, l u o, k u a, l u n, S u a, K u a, l u y, l u a n, l u K a, l a, u a, l u	134895
+l u a I									0.000	0	0	0.0		0		0	0.000		16	12	2	2	K u a I, x u a I, k u a I, S u a I, l u a n, i u a I, @ u a I, Z u a I, z u a I, C u a I, f u a I, m u a I, l i u a I, l u P a I, l a I, u a I	281709
+l u a n									0.000	0	0	0.0		0		0	0.000		23	19	1	3	x u a n, C u a n, k u a n, s u a n, t u a n, Z u a n, T u a n, K u a n, z u a n, p u a n, i u a n, l u i n, r u a n, n u a n, S u a n, c u a n, u u a n, l i a n, l @ a n, l u Z a n, u a n, l a n, l u n	269349
+l u a N									0.000	0	0	0.0		0		0	0.000		18	12	4	2	l i a N, Z u a N, C u a N, S u a N, k u a N, l u a n, K u a N, x u a N, i u a N, y u a N, l u i N, u u a N, l u S a N, l u Z a N, l u m a N, l a u a N, u a N, l a N	114713
+l u e I									0.000	0	0	0.0		0		0	0.000		18	14	2	2	x u e I, t u e I, z u e I, i u e I, S u e I, s u e I, T u e I, k u e I, Z u e I, C u e I, r u e I, c u e I, K u e I, u u e I, l u f e I, l a u e I, u e I, l e I	670490
+l u n									0.000	0	0	0.0		0		0	0.000		23	16	6	1	l a n, l u o, x u n, t u n, k u n, C u n, Z u n, c u n, K u n, l i n, T u n, S u n, z u n, s u n, r u n, l u y, l u a n, u l u n, l u i n, l u n i, i l u n, y l u n, l u	61461
+l u N									0.000	0	0	0.0		0		0	0.000		9	7	1	1	l i N, l u o, l u n, l a N, l @ N, l o N, l u y, l u i N, l u	49027
+l u o									0.000	0	0	0.0		0		0	0.000		22	19	1	2	S u o, x u o, z u o, k u o, Z u o, t u o, c u o, s u o, m u o, T u o, p u o, P u o, l u n, r u o, n u o, C u o, K u o, i u o, l u y, l u o u, u o, l u	2610376
+l y									0.000	0	0	0.0		0		0	0.000		17	11	5	1	Q y, l i, l a, J y, l u, n y, X y, l @, @ y, i y, y y, l y E, l i y, i l y, l @ y, l u y, y	356283
+l y E									0.000	0	0	0.0		0		0	0.000		11	8	1	2	Q y E, X y E, J y E, l i E, y y E, n y E, u y E, i y E, l y i E, y E, l y	52121
+l y E n									0.000	0	0	0.0		0		0	0.000		9	6	1	2	l i E n, Q y E n, X y E n, i y E n, J y E n, u y E n, l @ y E n, y E n, l y E	69896
+l y E N									0.000	0	0	0.0		0		0	0.000		1	0	0	1	, l y E	268
+l y n									0.000	0	0	0.0		0		0	0.000		11	9	0	2	l a n, l u n, Q y n, J y n, X y n, l i n, l y E, @ y n, u y n, y n, l y	26121
+l y N									0.000	0	0	0.0		0		0	0.000		6	5	0	1	l i N, l a N, l @ N, l o N, l y E, l y	28989
+m @									0.000	0	0	0.0		0		0	0.000		21	18	2	1	t @, Z @, m a, k @, n @, K @, C @, x @, m i, S @, r @, T @, m u, s @, l @, z @, c @, y @, m @ n, m @ N, @	2767465
+m @ n									0.000	0	0	0.0		0		0	0.000		19	17	1	1	x @ n, r @ n, Z @ n, k @ n, u @ n, f @ n, S @ n, p @ n, m a n, m @ N, K @ n, C @ n, z @ n, P @ n, s @ n, m i n, n @ n, y m @ n, @ n	708620
+m @ N									0.000	0	0	0.0		0		0	0.000		22	21	1	0	n @ N, m @ n, t @ N, Z @ N, C @ N, S @ N, m i N, f @ N, m a N, r @ N, z @ N, P @ N, T @ N, l @ N, c @ N, x @ N, p @ N, K @ N, k @ N, u @ N, s @ N, @ m @ N	383886
+m a									0.000	0	0	0.0		0		0	0.000		28	21	6	1	T a, p a, n a, t a, S a, l a, i a, C a, u a, f a, m i, P a, x a, z a, K a, m u, Z a, s a, c a, a a, k a, m a I, m a N, m a n, m a U, i m a, m a i, a	1672652
+m a I									0.000	0	0	0.0		0		0	0.000		25	21	2	2	z a I, l a I, m e I, T a I, t a I, c a I, k a I, x a I, K a I, P a I, m a N, m a n, p a I, m a U, u a I, s a I, n a I, C a I, Z a I, S a I, m a i, i m a I, m u a I, m a, a I	1504979
+m a n									0.000	0	0	0.0		0		0	0.000		31	25	4	2	K a n, t a n, m @ n, u a n, m a I, p a n, T a n, s a n, n a n, k a n, Z a n, f a n, S a n, m a N, l a n, m a U, x a n, P a n, c a n, C a n, z a n, r a n, m i n, m a i, i a n, m a n i, a m a n, m a a n, m a n y, m a, a n	762480
+m a N									0.000	0	0	0.0		0		0	0.000		28	25	1	2	r a N, S a N, p a N, t a N, Z a N, m a I, f a N, C a N, u a N, m i N, k a N, m a n, T a N, i a N, m a U, m @ N, c a N, l a N, P a N, z a N, K a N, s a N, x a N, m a i, n a N, m a N y, m a, a N	813194
+m a r									0.000	0	0	0.0		0		0	0.000		6	5	0	1	m a I, m a N, m a n, m a U, m a i, m a	341651
+m a U									0.000	0	0	0.0		0		0	0.000		28	22	4	2	x a U, i a U, t a U, Z a U, k a U, m a I, z a U, l a U, P a U, p a U, S a U, K a U, m a N, m a n, T a U, C a U, c a U, n a U, m o U, r a U, s a U, m a i, m i a U, m a U i, y m a U, m a U u, m a, a U	1330144
+m E									0.000	0	0	0.0		0		0	0.000		6	5	1	0	m a, i E, y E, m i, m u, m i E	468339
+m e I									0.000	0	0	0.0		0		0	0.000		14	12	1	1	k e I, t e I, u e I, p e I, S e I, x e I, m a I, f e I, l e I, n e I, P e I, z e I, y m e I, e I	540685
+m E n									0.000	0	0	0.0		0		0	0.000		6	5	1	0	m @ n, y E n, i E n, m a n, m i n, m i E n	97506
+m e r									0.000	0	0	0.0		0		0	0.000		1	1	0	0	m e I	179951
+m i									0.000	0	0	0.0		0		0	0.000		24	16	7	1	n i, m a, l i, J i, Q i, p i, t i, X i, T i, P i, i i, m u, u i, a i, @ i, y i, m i N, m i n, y m i, m i E, m a i, m i y, m i u, i	2181269
+m i @									0.000	0	0	0.0		0		0	0.000		10	7	2	1	m i N, m i n, m i E, J i @, Q i @, m i y, m i u, m i N @, m i k @, m i	25890
+m i @ n									0.000	0	0	0.0		0		0	0.000		4	1	1	2	m i E n, m i r @ n, m @ n, m i n	55900
+m i @ N									0.000	0	0	0.0		0		0	0.000		3	0	1	2	, m i f @ N, m i N, m @ N	21941
+m i @ r									0.000	0	0	0.0		0		0	0.000		3	2	0	1	t i @ r, l i @ r, i @ r	6552
+m i a									0.000	0	0	0.0		0		0	0.000		17	11	3	3	X i a, J i a, m i N, m i n, m i E, Q i a, u i a, m i y, a i a, i i a, m i u, m i a U, m i m a, m i s a, m a, i a, m i	442065
+m i a n									0.000	0	0	0.0		0		0	0.000		14	6	5	3	m i E n, m i a U, T i a n, l i a n, X i a n, m a a n, m i T a n, m i f a n, m i N a n, m i l a n, m i m a n, m a n, m i n, i a n	19707
+m i a N									0.000	0	0	0.0		0		0	0.000		17	8	6	3	X i a N, l i a N, J i a N, i i a N, Q i a N, m i a U, n i a N, u i a N, m i f a N, m i m a N, m i T a N, m i x a N, m i u a N, m u i a N, m i N, m a N, i a N	470770
+m i a r									0.000	0	0	0.0		0		0	0.000		1	1	0	0	m i a U	4454
+m i a U									0.000	0	0	0.0		0		0	0.000		19	11	6	2	l i a U, J i a U, X i a U, T i a U, t i a U, Q i a U, P i a U, n i a U, p i a U, i i a U, m i o U, i m i a U, m a i a U, u m i a U, m i k a U, m i T a U, m i a U y, i a U, m a U	1402250
+m i E									0.000	0	0	0.0		0		0	0.000		19	14	3	2	p i E, X i E, J i E, m i N, Q i E, T i E, l i E, t i E, u i E, m i n, n i E, P i E, m i y, m i u, m i E n, m i y E, u m i E, i E, m i	326575
+m i E n									0.000	0	0	0.0		0		0	0.000		18	12	3	3	Q i E n, t i E n, J i E n, T i E n, n i E n, X i E n, p i E n, l i E n, P i E n, y i E n, i i E n, u i E n, i m i E n, m i E n i, m i E n y, i E n, m i n, m i E	435950
+m i n									0.000	0	0	0.0		0		0	0.000		20	14	4	2	m @ n, X i n, J i n, n i n, m i N, m a n, Q i n, P i n, l i n, m i E, p i n, y i n, m i y, m i u, m i E n, i m i n, m i n i, y m i n, m i, i n	187280
+m i N									0.000	0	0	0.0		0		0	0.000		23	15	6	2	T i N, J i N, X i N, Q i N, p i N, l i N, t i N, m a N, m @ N, P i N, m i n, m i E, n i N, m i y, m i u, m i N i, m i N y, u m i N, m i N @, i m i N, @ m i N, i N, m i	305289
+m i o n									0.000	0	0	0.0		0		0	0.000		3	2	0	1	m i E n, m i o U, m i n	5673
+m i o N									0.000	0	0	0.0		0		0	0.000		10	7	1	2	X i o N, Q i o N, u i o N, m i o U, J i o N, i i o N, y i o N, m i k o N, i o N, m i N	73424
+m i o U									0.000	0	0	0.0		0		0	0.000		12	8	2	2	J i o U, Q i o U, l i o U, X i o U, m i a U, t i o U, n i o U, m u o U, m i m o U, m i i o U, i o U, m o U	694750
+m o n									0.000	0	0	0.0		0		0	0.000		4	4	0	0	m @ n, m a n, m o U, m i n	61250
+m o N									0.000	0	0	0.0		0		0	0.000		18	18	0	0	Z o N, i o N, c o N, t o N, m i N, s o N, n o N, T o N, z o N, C o N, m a N, m @ N, k o N, K o N, x o N, m o U, l o N, r o N	285997
+m o U									0.000	0	0	0.0		0		0	0.000		21	17	3	1	i o U, t o U, z o U, S o U, k o U, x o U, T o U, Z o U, m a U, C o U, K o U, l o U, r o U, s o U, c o U, f o U, P o U, m u o U, y m o U, m i o U, o U	835331
+m u									0.000	0	0	0.0		0		0	0.000		26	21	4	1	p u, m a, C u, Z u, S u, f u, t u, l u, K u, r u, m i, z u, k u, T u, x u, s u, P u, i u, n u, c u, u u, m u o, m u u, m u y, m i u, u	1231303
+m u a									0.000	0	0	0.0		0		0	0.000		14	8	3	3	x u a, Z u a, m u o, k u a, S u a, K u a, m u u, m u y, m u m a, m u a I, m u f a, m a, u a, m u	388768
+m u a I									0.000	0	0	0.0		0		0	0.000		14	10	2	2	K u a I, x u a I, k u a I, S u a I, i u a I, @ u a I, Z u a I, z u a I, C u a I, f u a I, m u c a I, m u o a I, m a I, u a I	116684
+m u a n									0.000	0	0	0.0		0		0	0.000		22	19	1	2	x u a n, C u a n, k u a n, s u a n, t u a n, Z u a n, l u a n, T u a n, K u a n, z u a n, p u a n, i u a n, r u a n, n u a n, S u a n, c u a n, u u a n, m a a n, m u a I, m u p a n, u a n, m a n	269791
+m u a N									0.000	0	0	0.0		0		0	0.000		16	10	4	2	Z u a N, C u a N, S u a N, k u a N, K u a N, x u a N, i u a N, y u a N, u u a N, m u a I, m u C a N, m i u a N, m u i a N, m u p a N, u a N, m a N	59711
+m u e I									0.000	0	0	0.0		0		0	0.000		19	15	2	2	x u e I, t u e I, z u e I, i u e I, S u e I, s u e I, T u e I, k u e I, Z u e I, C u e I, r u e I, c u e I, K u e I, u u e I, m u a I, m u p e I, m a u e I, m e I, u e I	841949
+m u n									0.000	0	0	0.0		0		0	0.000		21	19	1	1	m @ n, m a n, m u o, x u n, t u n, k u n, C u n, l u n, Z u n, c u n, K u n, T u n, S u n, m i n, z u n, m u u, s u n, m u y, r u n, m u n y, m u	99730
+m u N									0.000	0	0	0.0		0		0	0.000		7	6	0	1	m i N, m a N, m u o, m @ N, m u u, m u y, m u	40927
+m u o									0.000	0	0	0.0		0		0	0.000		23	19	2	2	S u o, x u o, z u o, k u o, Z u o, t u o, c u o, s u o, l u o, T u o, p u o, P u o, r u o, n u o, C u o, m u u, m u y, K u o, i u o, @ m u o, m u o U, u o, m u	2600784
+m y									0.000	0	0	0.0		0		0	0.000		14	11	2	1	m a, Q y, J y, n y, m i, X y, m u, l y, @ y, i y, y y, m u y, m i y, y	544213
+m y E									0.000	0	0	0.0		0		0	0.000		11	9	1	1	Q y E, X y E, J y E, y y E, m i E, l y E, n y E, u y E, i y E, m i y E, y E	49305
+m y E n									0.000	0	0	0.0		0		0	0.000		8	6	1	1	Q y E n, X y E n, i y E n, m i E n, J y E n, u y E n, m u y E n, y E n	58325
+m y E N									0.000	0	0	0.0		0		0	0.000		0	0	0	0		0
+m y n									0.000	0	0	0.0		0		0	0.000		9	8	0	1	m @ n, m a n, Q y n, J y n, X y n, m i n, @ y n, u y n, y n	69631
+m y N									0.000	0	0	0.0		0		0	0.000		3	3	0	0	m i N, m a N, m @ N	29760
+n @									0.000	0	0	0.0		0		0	0.000		21	18	2	1	t @, n i, Z @, n a, k @, K @, C @, x @, n y, S @, r @, T @, s @, l @, z @, c @, n u, y @, n @ N, n @ n, @	4094574
+n @ n									0.000	0	0	0.0		0		0	0.000		19	17	0	2	x @ n, r @ n, n @ N, Z @ n, k @ n, m @ n, u @ n, n i n, n a n, f @ n, S @ n, p @ n, K @ n, C @ n, z @ n, P @ n, s @ n, n @, @ n	1020365
+n @ N									0.000	0	0	0.0		0		0	0.000		25	22	2	1	t @ N, Z @ N, C @ N, S @ N, n o N, f @ N, r @ N, m @ N, z @ N, P @ N, T @ N, l @ N, c @ N, x @ N, p @ N, n i N, K @ N, n @ n, n a N, k @ N, u @ N, s @ N, u n @ N, i n @ N, n @	240259
+n @ r									0.000	0	0	0.0		0		0	0.000		9	4	3	2	n @ N, n @ n, y @ r, i @ r, n a @ r, n y @ r, i n @ r, n @, @ r	332318
+n a									0.000	0	0	0.0		0		0	0.000		28	23	4	1	n i, T a, p a, m a, t a, n @, S a, l a, i a, C a, u a, f a, n y, P a, x a, z a, K a, Z a, s a, c a, n u, a a, k a, n a n, n a U, n a I, n a N, a	3094749
+n a I									0.000	0	0	0.0		0		0	0.000		25	20	3	2	z a I, l a I, T a I, t a I, c a I, k a I, x a I, K a I, m a I, P a I, n a n, p a I, n e I, u a I, n a U, s a I, C a I, Z a I, S a I, n a N, u n a I, @ n a I, n i a I, n a, a I	1311710
+n a n									0.000	0	0	0.0		0		0	0.000		31	24	5	2	K a n, t a n, u a n, p a n, T a n, s a n, n i n, k a n, Z a n, f a n, S a n, m a n, l a n, x a n, n a U, P a n, c a n, n a I, C a n, z a n, r a n, i a n, n @ n, n a N, n a n i, n u a n, i n a n, y n a n, n a n y, n a, a n	644510
+n a N									0.000	0	0	0.0		0		0	0.000		28	25	1	2	n @ N, r a N, S a N, p a N, t a N, Z a N, f a N, C a N, n a n, u a N, n o N, k a N, m a N, T a N, i a N, c a N, n a U, l a N, P a N, n a I, z a N, K a N, n i N, s a N, x a N, n i a N, n a, a N	923987
+n a r									0.000	0	0	0.0		0		0	0.000		7	4	2	1	n a n, n a U, n a I, n a N, n a @ r, n a r u, n a	298820
+n a U									0.000	0	0	0.0		0		0	0.000		23	20	1	2	x a U, i a U, t a U, Z a U, k a U, z a U, l a U, n a n, P a U, p a U, S a U, K a U, T a U, C a U, m a U, c a U, n a I, r a U, s a U, n a N, n i a U, n a, a U	1264768
+n E									0.000	0	0	0.0		0		0	0.000		9	7	2	0	n i, n a, i E, n @, y E, n y, n u, n i E, n y E	1837092
+n e I									0.000	0	0	0.0		0		0	0.000		17	12	4	1	m e I, k e I, t e I, u e I, p e I, S e I, x e I, f e I, l e I, P e I, n a I, z e I, n e I i, i n e I, u n e I, n e I u, e I	690847
+n E n									0.000	0	0	0.0		0		0	0.000		6	5	1	0	y E n, n i n, n a n, i E n, n @ n, n i E n	102006
+n i									0.000	0	0	0.0		0		0	0.000		25	18	6	1	n a, l i, n @, J i, Q i, p i, t i, X i, T i, n y, m i, P i, i i, u i, a i, n u, @ i, y i, n i n, n i E, n i N, n u i, a n i, y n i, i	896483
+n i @									0.000	0	0	0.0		0		0	0.000		7	5	0	2	n i n, n i E, n i N, J i @, Q i @, n i, n @	1430708
+n i @ n									0.000	0	0	0.0		0		0	0.000		4	1	1	2	n i E n, n i m @ n, n i n, n @ n	163464
+n i @ N									0.000	0	0	0.0		0		0	0.000		3	1	0	2	n i a N, n @ N, n i N	169103
+n i @ r									0.000	0	0	0.0		0		0	0.000		5	4	0	1	n a @ r, n y @ r, t i @ r, l i @ r, i @ r	40130
+n i a									0.000	0	0	0.0		0		0	0.000		16	9	4	3	X i a, J i a, n i n, n i E, n i N, Q i a, u i a, a i a, i i a, n i a U, n i a N, n i p a, n i a I, n i, n a, i a	1729633
+n i a n									0.000	0	0	0.0		0		0	0.000		12	8	1	3	n i E n, n i a U, n i a N, n u a n, T i a n, l i a n, X i a n, n i a I, n i T a n, n i n, n a n, i a n	74509
+n i a N									0.000	0	0	0.0		0		0	0.000		14	8	3	3	X i a N, l i a N, J i a N, i i a N, Q i a N, n i a U, u i a N, n i a I, n a i a N, i n i a N, n i C a N, i a N, n i N, n a N	461899
+n i a r									0.000	0	0	0.0		0		0	0.000		3	3	0	0	n i a U, n i a N, n i a I	5936
+n i a U									0.000	0	0	0.0		0		0	0.000		18	13	3	2	l i a U, J i a U, X i a U, T i a U, t i a U, Q i a U, m i a U, P i a U, n i o U, p i a U, n i a N, i i a U, n i a I, n i x a U, n i p a U, n i Z a U, i a U, n a U	1405224
+n i E									0.000	0	0	0.0		0		0	0.000		16	13	1	2	p i E, X i E, J i E, n i n, Q i E, T i E, l i E, t i E, u i E, m i E, n i N, n y E, P i E, n i E n, n i, i E	1682745
+n i E n									0.000	0	0	0.0		0		0	0.000		18	12	3	3	Q i E n, t i E n, J i E n, T i E n, X i E n, p i E n, l i E n, P i E n, m i E n, y i E n, i i E n, u i E n, i n i E n, n i E n i, n i E n y, n i n, i E n, n i E	423039
+n i n									0.000	0	0	0.0		0		0	0.000		15	12	1	2	X i n, J i n, n a n, Q i n, P i n, l i n, m i n, n i E, n i N, p i n, y i n, n @ n, n i E n, n i, i n	1469590
+n i N									0.000	0	0	0.0		0		0	0.000		20	14	4	2	n @ N, T i N, J i N, X i N, Q i N, p i N, l i N, n i n, m i N, t i N, n o N, P i N, n i E, n a N, n i a N, i n i N, y n i N, a n i N, n i, i N	1831893
+n i o n									0.000	0	0	0.0		0		0	0.000		3	2	0	1	n i E n, n i o U, n i n	53759
+n i o N									0.000	0	0	0.0		0		0	0.000		15	8	4	3	n i o U, X i o N, n i a N, Q i o N, u i o N, J i o N, i i o N, y i o N, y n i o N, i n i o N, n y i o N, n i l o N, i o N, n o N, n i N	78638
+n i o U									0.000	0	0	0.0		0		0	0.000		10	7	2	1	J i o U, Q i o U, l i o U, X i o U, t i o U, n i a U, m i o U, n y i o U, i n i o U, i o U	689040
+n o n									0.000	0	0	0.0		0		0	0.000		4	4	0	0	n i n, n a n, n o N, n @ n	48814
+n o N									0.000	0	0	0.0		0		0	0.000		17	16	1	0	n @ N, Z o N, i o N, c o N, t o N, s o N, T o N, z o N, C o N, k o N, K o N, x o N, l o N, r o N, n i N, n a N, y n o N	406647
+n o U									0.000	0	0	0.0		0		0	0.000		21	19	1	1	i o U, t o U, z o U, S o U, k o U, x o U, T o U, n o N, Z o U, C o U, K o U, l o U, n a U, m o U, r o U, s o U, c o U, f o U, P o U, n i o U, o U	851944
+n u									0.000	0	0	0.0		0		0	0.000		27	23	3	1	n i, p u, n a, n @, C u, Z u, S u, f u, t u, l u, K u, r u, n y, z u, k u, T u, x u, m u, s u, P u, i u, c u, u u, n u o, n y u, n u i, u	2599932
+n u a									0.000	0	0	0.0		0		0	0.000		11	7	1	3	x u a, Z u a, k u a, S u a, n u o, K u a, n u i, n u a n, n a, u a, n u	339505
+n u a I									0.000	0	0	0.0		0		0	0.000		15	13	0	2	K u a I, x u a I, k u a I, S u a I, i u a I, @ u a I, Z u a I, n u a n, z u a I, C u a I, f u a I, m u a I, n i a I, u a I, n a I	92924
+n u a n									0.000	0	0	0.0		0		0	0.000		18	16	0	2	x u a n, C u a n, k u a n, s u a n, t u a n, Z u a n, l u a n, T u a n, K u a n, z u a n, p u a n, i u a n, r u a n, S u a n, c u a n, u u a n, u a n, n a n	277952
+n u a N									0.000	0	0	0.0		0		0	0.000		15	11	2	2	Z u a N, C u a N, S u a N, k u a N, K u a N, x u a N, n i a N, i u a N, y u a N, n u a n, u u a N, n y u a N, y n u a N, u a N, n a N	54518
+n u e I									0.000	0	0	0.0		0		0	0.000		19	14	3	2	x u e I, t u e I, z u e I, i u e I, S u e I, s u e I, T u e I, k u e I, Z u e I, C u e I, r u e I, c u e I, K u e I, u u e I, i n u e I, a n u e I, n a u e I, u e I, n e I	729227
+n u n									0.000	0	0	0.0		0		0	0.000		20	18	1	1	n i n, n a n, x u n, t u n, k u n, C u n, l u n, Z u n, c u n, K u n, n u o, T u n, S u n, z u n, n @ n, s u n, r u n, n u i, n u a n, n u	67435
+n u N									0.000	0	0	0.0		0		0	0.000		7	6	0	1	n @ N, n o N, n u o, n i N, n a N, n u i, n u	183762
+n u o									0.000	0	0	0.0		0		0	0.000		20	18	0	2	S u o, x u o, z u o, k u o, Z u o, t u o, c u o, s u o, m u o, l u o, T u o, p u o, P u o, r u o, C u o, K u o, n u i, i u o, u o, n u	2601328
+n y									0.000	0	0	0.0		0		0	0.000		18	11	6	1	n i, n a, Q y, n @, J y, X y, l y, n u, @ y, i y, y y, n y u, n y E, u n y, i n y, a n y, y n y, y	1897071
+n y E									0.000	0	0	0.0		0		0	0.000		12	9	1	2	Q y E, X y E, J y E, y y E, n i E, n y u, l y E, u y E, i y E, i n y E, y E, n y	62207
+n y E n									0.000	0	0	0.0		0		0	0.000		10	6	2	2	n i E n, Q y E n, X y E n, i y E n, J y E n, u y E n, @ n y E n, i n y E n, y E n, n y E	86961
+n y n									0.000	0	0	0.0		0		0	0.000		12	10	0	2	n i n, n a n, Q y n, J y n, X y n, n y u, n @ n, n y E, @ y n, u y n, n y, y n	54902
+n y N									0.000	0	0	0.0		0		0	0.000		7	6	0	1	n @ N, n o N, n i N, n y u, n y E, n a N, n y	190460
+o n									0.000	0	0	0.0		0		0	0.000		5	5	0	0	o U, @ n, a n, i n, y n	167475
+o N									0.000	0	0	0.0		0		0	0.000		17	3	14	0	o U, i N, a N, Z o N, i o N, c o N, t o N, s o N, n o N, T o N, z o N, C o N, k o N, K o N, x o N, l o N, r o N	374166
+o U									0.000	0	0	0.0		0		0	0.000		19	1	18	0	a U, i o U, t o U, z o U, S o U, k o U, x o U, T o U, Z o U, C o U, K o U, l o U, m o U, r o U, s o U, c o U, f o U, o U y, P o U	726911
+p @									0.000	0	0	0.0		0		0	0.000		21	18	2	1	t @, p u, p a, Z @, k @, n @, K @, p i, C @, x @, S @, r @, T @, s @, l @, z @, c @, y @, p @ n, p @ N, @	3495343
+P @									0.000	0	0	0.0		0		0	0.000		21	18	2	1	t @, Z @, k @, n @, K @, C @, x @, P i, P a, S @, r @, T @, s @, l @, P u, z @, c @, y @, P @ N, P @ n, @	2432899
+p @ n									0.000	0	0	0.0		0		0	0.000		20	17	2	1	x @ n, r @ n, Z @ n, k @ n, m @ n, u @ n, p a n, f @ n, S @ n, K @ n, C @ n, z @ n, p @ N, P @ n, s @ n, p i n, n @ n, p @ n i, y p @ n, @ n	753987
+p @ N									0.000	0	0	0.0		0		0	0.000		21	21	0	0	n @ N, p a N, t @ N, Z @ N, p i N, C @ N, S @ N, f @ N, p @ n, r @ N, m @ N, z @ N, P @ N, T @ N, l @ N, c @ N, x @ N, K @ N, k @ N, u @ N, s @ N	406687
+P @ n									0.000	0	0	0.0		0		0	0.000		19	17	1	1	x @ n, r @ n, Z @ n, k @ n, m @ n, u @ n, f @ n, S @ n, p @ n, P @ N, P a n, K @ n, P i n, C @ n, z @ n, s @ n, n @ n, y P @ n, @ n	751564
+P @ N									0.000	0	0	0.0		0		0	0.000		22	21	1	0	n @ N, t @ N, Z @ N, C @ N, S @ N, f @ N, r @ N, m @ N, z @ N, P i N, T @ N, l @ N, P a N, c @ N, x @ N, p @ N, P @ n, K @ N, k @ N, u @ N, s @ N, P @ N u	317490
+p @ r									0.000	0	0	0.0		0		0	0.000		6	4	1	1	p @ n, p @ N, y @ r, i @ r, p u @ r, @ r	68437
+P @ r									0.000	0	0	0.0		0		0	0.000		6	4	1	1	P @ N, P @ n, y @ r, i @ r, P u @ r, @ r	61325
+P a									0.000	0	0	0.0		0		0	0.000		26	21	4	1	T a, p a, m a, n a, t a, S a, l a, i a, C a, u a, f a, P i, x a, z a, K a, Z a, s a, P u, c a, a a, k a, P a I, P a U, P a n, P a N, a	1942456
+p a I									0.000	0	0	0.0		0		0	0.000		25	20	3	2	z a I, l a I, p e I, T a I, p a N, t a I, c a I, k a I, x a I, K a I, m a I, p a n, P a I, p a U, u a I, s a I, n a I, C a I, Z a I, S a I, i p a I, u p a I, p a I i, p a, a I	1528091
+P a I									0.000	0	0	0.0		0		0	0.000		23	20	1	2	z a I, l a I, T a I, t a I, c a I, k a I, x a I, K a I, m a I, P a U, p a I, P e I, u a I, P a n, s a I, P a N, n a I, C a I, Z a I, S a I, i P a I, a I, P a	1050555
+p a n									0.000	0	0	0.0		0		0	0.000		30	24	4	2	K a n, t a n, p a N, u a n, T a n, s a n, n a n, k a n, Z a n, f a n, p @ n, p a U, S a n, m a n, l a n, p a I, x a n, P a n, c a n, C a n, z a n, r a n, p i n, i a n, i p a n, p u a n, u p a n, p a n u, p a, a n	788202
+p a N									0.000	0	0	0.0		0		0	0.000		26	24	0	2	r a N, S a N, t a N, p i N, Z a N, f a N, p a n, C a N, u a N, k a N, p a U, m a N, T a N, i a N, p a I, c a N, l a N, P a N, z a N, p @ N, K a N, s a N, x a N, n a N, p a, a N	816208
+P a n									0.000	0	0	0.0		0		0	0.000		26	24	0	2	K a n, t a n, u a n, p a n, T a n, s a n, P a I, n a n, k a n, P a U, Z a n, f a n, S a n, m a n, l a n, x a n, c a n, P a N, P i n, C a n, z a n, r a n, P @ n, i a n, a n, P a	427578
+P a N									0.000	0	0	0.0		0		0	0.000		27	24	1	2	r a N, S a N, p a N, t a N, Z a N, f a N, C a N, P a I, u a N, P a U, k a N, m a N, T a N, i a N, P @ N, P i N, c a N, P a n, l a N, z a N, K a N, s a N, x a N, n a N, i P a N, P a, a N	517615
+p a r									0.000	0	0	0.0		0		0	0.000		5	4	0	1	p a N, p a n, p a U, p a I, p a	426853
+P a r									0.000	0	0	0.0		0		0	0.000		5	4	0	1	P a I, P a U, P a n, P a N, P a	44359
+p a U									0.000	0	0	0.0		0		0	0.000		27	20	5	2	x a U, i a U, t a U, Z a U, p a N, k a U, p a n, z a U, l a U, P a U, S a U, K a U, T a U, C a U, p a I, m a U, c a U, n a U, r a U, s a U, p i a U, y p a U, p a U y, p a U u, @ p a U, p a, a U	1399500
+P a U									0.000	0	0	0.0		0		0	0.000		24	21	1	2	x a U, i a U, t a U, Z a U, k a U, z a U, l a U, P a I, p a U, S a U, K a U, T a U, C a U, m a U, c a U, n a U, P a n, P a N, r a U, s a U, P o U, P i a U, P a, a U	1012693
+p E									0.000	0	0	0.0		0		0	0.000		6	5	1	0	p u, p a, i E, p i, y E, p i E	1307242
+P E									0.000	0	0	0.0		0		0	0.000		6	5	1	0	i E, y E, P i, P a, P u, P i E	181915
+p e I									0.000	0	0	0.0		0		0	0.000		15	12	2	1	m e I, k e I, t e I, u e I, S e I, x e I, f e I, l e I, p a I, n e I, P e I, z e I, y p e I, i p e I, e I	623033
+P e I									0.000	0	0	0.0		0		0	0.000		14	12	1	1	m e I, k e I, t e I, u e I, p e I, S e I, x e I, P a I, f e I, l e I, n e I, z e I, P e I y, e I	706358
+p E n									0.000	0	0	0.0		0		0	0.000		6	5	1	0	y E n, p a n, p @ n, i E n, p i n, p i E n	88194
+P E n									0.000	0	0	0.0		0		0	0.000		6	5	1	0	y E n, i E n, P a n, P i n, P @ n, P i E n	54056
+p i									0.000	0	0	0.0		0		0	0.000		24	16	7	1	n i, p u, p a, l i, J i, Q i, t i, X i, T i, m i, P i, i i, u i, a i, @ i, y i, p i E, p i N, u p i, p i n, p u i, p i y, p i u, i	2971307
+P i									0.000	0	0	0.0		0		0	0.000		21	16	4	1	n i, l i, J i, Q i, p i, t i, X i, T i, m i, P a, i i, P u, u i, a i, @ i, y i, P i N, P i n, P i E, P i i, i	1884246
+p i @									0.000	0	0	0.0		0		0	0.000		10	7	2	1	p i E, p i N, p i n, J i @, p i y, Q i @, p i u, p i T @, p i x @, p i	137842
+P i @									0.000	0	0	0.0		0		0	0.000		8	6	1	1	P i N, P i n, J i @, Q i @, P i E, P i i, P i k @, P i	15562
+p i @ n									0.000	0	0	0.0		0		0	0.000		7	2	3	2	p i E n, p i y n, p i f @ n, p i Z @ n, p i r @ n, p @ n, p i n	32567
+p i @ N									0.000	0	0	0.0		0		0	0.000		4	0	2	2	, p i S @ N, p i f @ N, p i N, p @ N	28920
+P i @ n									0.000	0	0	0.0		0		0	0.000		4	1	1	2	P i E n, P i Z @ n, P i n, P @ n	17073
+P i @ N									0.000	0	0	0.0		0		0	0.000		4	0	2	2	, P i f @ N, P i c @ N, P @ N, P i N	9951
+p i @ r									0.000	0	0	0.0		0		0	0.000		4	3	0	1	t i @ r, l i @ r, p u @ r, i @ r	6595
+P i @ r									0.000	0	0	0.0		0		0	0.000		4	3	0	1	t i @ r, l i @ r, P u @ r, i @ r	6621
+p i a									0.000	0	0	0.0		0		0	0.000		16	11	2	3	p i E, X i a, J i a, p i N, Q i a, p i n, p i y, u i a, p i u, a i a, i i a, p i a U, p i s a, p a, p i, i a	591580
+P i a									0.000	0	0	0.0		0		0	0.000		17	10	4	3	X i a, J i a, P i N, P i n, Q i a, u i a, P i E, a i a, P i i, i i a, P i a U, P i P a, P i f a, P i C a, i a, P i, P a	145546
+p i a n									0.000	0	0	0.0		0		0	0.000		12	7	2	3	p i E n, p i a U, p u a n, T i a n, l i a n, X i a n, p i y n, p i r a n, p i n a n, p a n, p i n, i a n	45883
+p i a N									0.000	0	0	0.0		0		0	0.000		13	8	2	3	X i a N, l i a N, J i a N, i i a N, Q i a N, p i a U, n i a N, u i a N, p i f a N, p i p a N, p a N, p i N, i a N	525163
+P i a n									0.000	0	0	0.0		0		0	0.000		10	5	2	3	P i E n, P i a U, T i a n, l i a n, X i a n, P i N a n, P i P a n, P a n, P i n, i a n	24057
+P i a N									0.000	0	0	0.0		0		0	0.000		12	8	1	3	X i a N, l i a N, J i a N, i i a N, Q i a N, P i a U, n i a N, u i a N, P i z a N, i a N, P i N, P a N	452520
+p i a r									0.000	0	0	0.0		0		0	0.000		1	1	0	0	p i a U	2501
+P i a r									0.000	0	0	0.0		0		0	0.000		1	1	0	0	P i a U	4194
+p i a U									0.000	0	0	0.0		0		0	0.000		17	10	5	2	l i a U, J i a U, X i a U, T i a U, t i a U, Q i a U, m i a U, P i a U, n i a U, i i a U, p u i a U, p i i a U, p i a U y, i p i a U, p i S a U, i a U, p a U	1433269
+P i a U									0.000	0	0	0.0		0		0	0.000		17	10	5	2	l i a U, J i a U, X i a U, T i a U, t i a U, Q i a U, m i a U, n i a U, p i a U, i i a U, P i p a U, P i l a U, P i a U i, P i m a U, P i x a U, i a U, P a U	1410257
+p i E									0.000	0	0	0.0		0		0	0.000		18	14	2	2	X i E, J i E, p i N, Q i E, T i E, l i E, t i E, u i E, m i E, n i E, p i n, p i y, P i E, p i u, p i E n, p i i E, i E, p i	314997
+P i E									0.000	0	0	0.0		0		0	0.000		16	13	1	2	p i E, X i E, J i E, P i N, Q i E, T i E, P i n, l i E, t i E, u i E, m i E, n i E, P i i, P i E n, i E, P i	325841
+p i E n									0.000	0	0	0.0		0		0	0.000		21	13	5	3	Q i E n, t i E n, J i E n, T i E n, n i E n, X i E n, l i E n, P i E n, m i E n, y i E n, i i E n, u i E n, p i y n, i p i E n, p i E n i, p i i E n, u p i E n, p i E n y, p i E, i E n, p i n	492552
+P i E n									0.000	0	0	0.0		0		0	0.000		16	12	1	3	Q i E n, t i E n, J i E n, T i E n, n i E n, X i E n, p i E n, l i E n, m i E n, y i E n, i i E n, u i E n, P i E n i, i E n, P i n, P i E	427006
+p i n									0.000	0	0	0.0		0		0	0.000		19	14	3	2	p i E, X i n, J i n, p i N, p a n, n i n, p @ n, Q i n, P i n, l i n, m i n, y i n, p i y, p i u, p i E n, p i y n, p i n i, p i, i n	289885
+p i N									0.000	0	0	0.0		0		0	0.000		19	15	2	2	T i N, p i E, p a N, J i N, X i N, Q i N, l i N, m i N, t i N, P i N, p @ N, n i N, p i n, p i y, p i u, p i N i, i p i N, p i, i N	432468
+P i n									0.000	0	0	0.0		0		0	0.000		17	13	2	2	X i n, J i n, n i n, P i N, Q i n, P a n, l i n, P @ n, m i n, p i n, y i n, P i E, P i i, P i E n, u P i n, P i, i n	130069
+P i N									0.000	0	0	0.0		0		0	0.000		17	14	1	2	T i N, J i N, X i N, Q i N, p i N, l i N, m i N, t i N, P @ N, P a N, P i n, n i N, P i E, P i i, P i N y, i N, P i	308726
+p i o n									0.000	0	0	0.0		0		0	0.000		3	2	0	1	p i E n, p i y n, p i n	20045
+p i o N									0.000	0	0	0.0		0		0	0.000		11	6	3	2	X i o N, Q i o N, u i o N, J i o N, i i o N, y i o N, p u i o N, p i k o N, p i K o N, i o N, p i N	89136
+P i o n									0.000	0	0	0.0		0		0	0.000		2	1	0	1	P i E n, P i n	15932
+P i o N									0.000	0	0	0.0		0		0	0.000		8	6	0	2	X i o N, Q i o N, u i o N, J i o N, i i o N, y i o N, i o N, P i N	62292
+p i o U									0.000	0	0	0.0		0		0	0.000		11	8	2	1	J i o U, Q i o U, l i o U, X i o U, t i o U, n i o U, p i a U, m i o U, p i S o U, p u i o U, i o U	689682
+P i o U									0.000	0	0	0.0		0		0	0.000		12	8	2	2	J i o U, Q i o U, l i o U, X i o U, P i a U, t i o U, n i o U, m i o U, P i r o U, P i l o U, i o U, P o U	691317
+p o n									0.000	0	0	0.0		0		0	0.000		3	3	0	0	p a n, p @ n, p i n	34345
+p o N									0.000	0	0	0.0		0		0	0.000		17	17	0	0	Z o N, i o N, p a N, c o N, p i N, t o N, s o N, n o N, T o N, z o N, C o N, k o N, K o N, x o N, l o N, r o N, p @ N	335303
+P o n									0.000	0	0	0.0		0		0	0.000		4	4	0	0	P a n, P i n, P @ n, P o U	5770
+P o N									0.000	0	0	0.0		0		0	0.000		18	18	0	0	Z o N, i o N, c o N, t o N, s o N, n o N, T o N, z o N, C o N, k o N, P @ N, P i N, K o N, x o N, P a N, l o N, r o N, P o U	265247
+p o U									0.000	0	0	0.0		0		0	0.000		19	18	0	1	i o U, t o U, z o U, S o U, k o U, x o U, T o U, p a U, Z o U, C o U, K o U, l o U, m o U, r o U, s o U, c o U, f o U, P o U, o U	843006
+P o U									0.000	0	0	0.0		0		0	0.000		18	17	0	1	i o U, t o U, z o U, S o U, k o U, x o U, T o U, P a U, Z o U, C o U, K o U, l o U, m o U, r o U, s o U, c o U, f o U, o U	845821
+p u									0.000	0	0	0.0		0		0	0.000		27	21	5	1	p a, C u, p i, Z u, S u, f u, t u, l u, K u, r u, z u, k u, T u, x u, m u, s u, P u, i u, n u, c u, u u, p u o, u p u, p u i, p u y, p i u, u	604161
+P u									0.000	0	0	0.0		0		0	0.000		23	21	1	1	p u, C u, Z u, S u, f u, t u, l u, K u, r u, P i, P a, z u, k u, T u, x u, m u, s u, i u, n u, c u, u u, P u o, u	944944
+p u a									0.000	0	0	0.0		0		0	0.000		16	8	5	3	x u a, Z u a, p u o, k u a, S u a, K u a, p u i, p u y, p u a n, p u P a, p u f a, p u t a, p u S a, p u, p a, u a	1127841
+P u a									0.000	0	0	0.0		0		0	0.000		10	6	1	3	x u a, Z u a, k u a, P u o, S u a, K u a, P u s a, u a, P a, P u	99473
+p u a I									0.000	0	0	0.0		0		0	0.000		17	12	3	2	K u a I, x u a I, k u a I, S u a I, i u a I, p u a n, @ u a I, Z u a I, z u a I, C u a I, f u a I, m u a I, p u z a I, p u l a I, p u o a I, p a I, u a I	103149
+P u a I									0.000	0	0	0.0		0		0	0.000		14	11	1	2	K u a I, x u a I, k u a I, S u a I, i u a I, @ u a I, Z u a I, z u a I, C u a I, f u a I, m u a I, P u k a I, P a I, u a I	108141
+p u a n									0.000	0	0	0.0		0		0	0.000		25	17	6	2	x u a n, C u a n, k u a n, s u a n, t u a n, Z u a n, l u a n, T u a n, K u a n, z u a n, i u a n, r u a n, n u a n, S u a n, c u a n, u u a n, p u y n, p u r a n, p u m a n, p u t a n, p u K a n, p u f a n, p u S a n, u a n, p a n	285777
+p u a N									0.000	0	0	0.0		0		0	0.000		17	10	5	2	Z u a N, C u a N, S u a N, k u a N, K u a N, x u a N, p u a n, i u a N, y u a N, u u a N, p u C a N, p u Z a N, p u f a N, p u t a N, p a u a N, p a N, u a N	106403
+P u a n									0.000	0	0	0.0		0		0	0.000		20	17	1	2	x u a n, C u a n, k u a n, s u a n, t u a n, Z u a n, l u a n, T u a n, K u a n, z u a n, p u a n, i u a n, r u a n, n u a n, S u a n, c u a n, u u a n, P u o a n, u a n, P a n	264218
+P u a N									0.000	0	0	0.0		0		0	0.000		11	9	0	2	Z u a N, C u a N, S u a N, k u a N, K u a N, x u a N, i u a N, y u a N, u u a N, u a N, P a N	52805
+p u e I									0.000	0	0	0.0		0		0	0.000		20	14	4	2	x u e I, t u e I, z u e I, i u e I, S u e I, s u e I, T u e I, k u e I, Z u e I, C u e I, r u e I, c u e I, K u e I, u u e I, p u u e I, p u f e I, p u l e I, p u P e I, u e I, p e I	741288
+P u e I									0.000	0	0	0.0		0		0	0.000		16	14	0	2	x u e I, t u e I, z u e I, i u e I, S u e I, s u e I, T u e I, k u e I, Z u e I, C u e I, r u e I, c u e I, K u e I, u u e I, u e I, P e I	667547
+p u n									0.000	0	0	0.0		0		0	0.000		22	19	2	1	p a n, p @ n, p u o, x u n, t u n, k u n, C u n, l u n, Z u n, c u n, K u n, T u n, S u n, p i n, z u n, p u i, s u n, p u y, r u n, p u a n, p u y n, p u	773059
+p u N									0.000	0	0	0.0		0		0	0.000		7	6	0	1	p a N, p i N, p u o, p @ N, p u i, p u y, p u	789808
+P u n									0.000	0	0	0.0		0		0	0.000		18	17	0	1	x u n, P u o, t u n, k u n, C u n, l u n, P a n, Z u n, P i n, c u n, K u n, P @ n, T u n, S u n, z u n, s u n, r u n, P u	42329
+P u N									0.000	0	0	0.0		0		0	0.000		5	4	0	1	P @ N, P i N, P u o, P a N, P u	18365
+p u o									0.000	0	0	0.0		0		0	0.000		22	19	1	2	S u o, x u o, z u o, k u o, Z u o, t u o, c u o, s u o, m u o, l u o, T u o, P u o, r u o, n u o, C u o, p u i, p u y, K u o, i u o, p a u o, u o, p u	3298660
+P u o									0.000	0	0	0.0		0		0	0.000		21	17	2	2	S u o, x u o, z u o, k u o, Z u o, t u o, c u o, s u o, m u o, l u o, T u o, p u o, r u o, n u o, C u o, K u o, i u o, u P u o, P u o i, u o, P u	2600109
+p y									0.000	0	0	0.0		0		0	0.000		14	11	2	1	p u, p a, Q y, p i, J y, n y, X y, l y, @ y, i y, y y, p i y, p u y, y	1313713
+P y									0.000	0	0	0.0		0		0	0.000		12	11	0	1	Q y, J y, n y, P i, P a, X y, l y, P u, @ y, i y, y y, y	258002
+p y E									0.000	0	0	0.0		0		0	0.000		11	9	1	1	p i E, Q y E, X y E, J y E, y y E, l y E, n y E, u y E, i y E, p a y E, y E	118510
+P y E									0.000	0	0	0.0		0		0	0.000		10	9	0	1	Q y E, X y E, J y E, y y E, l y E, n y E, P i E, u y E, i y E, y E	48412
+p y E n									0.000	0	0	0.0		0		0	0.000		7	6	0	1	p i E n, Q y E n, X y E n, i y E n, J y E n, u y E n, y E n	72967
+P y E n									0.000	0	0	0.0		0		0	0.000		7	6	0	1	Q y E n, P i E n, X y E n, i y E n, J y E n, u y E n, y E n	67431
+P y E N									0.000	0	0	0.0		0		0	0.000		0	0	0	0		0
+p y n									0.000	0	0	0.0		0		0	0.000		11	8	2	1	p a n, p @ n, Q y n, J y n, X y n, p i n, @ y n, u y n, p i y n, p u y n, y n	45742
+P y n									0.000	0	0	0.0		0		0	0.000		9	8	0	1	Q y n, P a n, J y n, X y n, P i n, P @ n, @ y n, u y n, y n	17036
+P y N									0.000	0	0	0.0		0		0	0.000		3	3	0	0	P @ N, P i N, P a N	11895
+Q @									0.000	0	0	0.0		0		0	0.000		19	17	1	1	t @, Z @, k @, Q y, n @, K @, Q i, C @, x @, S @, r @, T @, s @, l @, z @, c @, y @, Q i @, @	2619851
+Q @ n									0.000	0	0	0.0		0		0	0.000		18	17	0	1	x @ n, r @ n, Z @ n, k @ n, m @ n, u @ n, f @ n, S @ n, p @ n, Q y n, Q i n, K @ n, C @ n, z @ n, P @ n, s @ n, n @ n, @ n	748901
+Q @ N									0.000	0	0	0.0		0		0	0.000		20	20	0	0	n @ N, Q i N, t @ N, Z @ N, C @ N, S @ N, f @ N, r @ N, m @ N, z @ N, P @ N, T @ N, l @ N, c @ N, x @ N, p @ N, K @ N, k @ N, u @ N, s @ N	354528
+Q @ r									0.000	0	0	0.0		0		0	0.000		3	2	0	1	y @ r, i @ r, @ r	55049
+Q a									0.000	0	0	0.0		0		0	0.000		24	22	1	1	T a, p a, m a, n a, Q y, t a, Q i, S a, l a, i a, C a, u a, f a, P a, x a, z a, K a, Z a, s a, c a, a a, k a, Q i a, a	2114165
+Q a I									0.000	0	0	0.0		0		0	0.000		18	17	0	1	z a I, l a I, T a I, t a I, c a I, k a I, x a I, K a I, m a I, P a I, p a I, u a I, s a I, n a I, C a I, Z a I, S a I, a I	1034822
+Q a n									0.000	0	0	0.0		0		0	0.000		23	22	0	1	K a n, t a n, u a n, p a n, T a n, s a n, n a n, k a n, Z a n, f a n, S a n, m a n, l a n, x a n, Q y n, Q i n, P a n, c a n, C a n, z a n, r a n, i a n, a n	391857
+Q a N									0.000	0	0	0.0		0		0	0.000		23	21	1	1	r a N, S a N, p a N, Q i N, t a N, Z a N, f a N, C a N, u a N, k a N, m a N, T a N, i a N, c a N, l a N, P a N, z a N, K a N, s a N, x a N, n a N, Q i a N, a N	527988
+Q a r									0.000	0	0	0.0		0		0	0.000		0	0	0	0		0
+Q a U									0.000	0	0	0.0		0		0	0.000		20	18	1	1	x a U, i a U, t a U, Z a U, k a U, z a U, l a U, P a U, p a U, S a U, K a U, T a U, C a U, m a U, c a U, n a U, r a U, s a U, Q i a U, a U	1003332
+Q E									0.000	0	0	0.0		0		0	0.000		6	4	2	0	Q y, i E, Q i, y E, Q y E, Q i E	392002
+Q e I									0.000	0	0	0.0		0		0	0.000		13	12	0	1	m e I, k e I, t e I, u e I, p e I, S e I, x e I, f e I, l e I, n e I, P e I, z e I, e I	694810
+Q E n									0.000	0	0	0.0		0		0	0.000		6	4	2	0	y E n, i E n, Q y n, Q i n, Q i E n, Q y E n	159969
+Q i									0.000	0	0	0.0		0		0	0.000		27	15	11	1	n i, Q y, l i, J i, p i, t i, X i, T i, m i, P i, i i, u i, a i, @ i, y i, Q i N, i Q i, u Q i, Q i n, Q i E, y Q i, Q i a, Q i y, Q i i, Q i @, Q i u, i	2093944
+Q i @									0.000	0	0	0.0		0		0	0.000		12	8	3	1	Q i N, Q i n, Q i E, Q i a, Q i y, Q i i, J i @, Q i u, Q i C @, Q i s @, Q i T @, Q i	88968
+Q i @ n									0.000	0	0	0.0		0		0	0.000		8	2	4	2	Q i E n, Q i i n, Q i f @ n, Q i S @ n, Q i u @ n, Q i r @ n, Q i n, Q i @	109379
+Q i @ N									0.000	0	0	0.0		0		0	0.000		5	2	1	2	Q i a N, Q i o N, Q i C @ N, Q i N, Q i @	61509
+Q i @ r									0.000	0	0	0.0		0		0	0.000		5	2	1	2	t i @ r, l i @ r, Q i n @ r, Q i @, i @ r	6840
+Q i a									0.000	0	0	0.0		0		0	0.000		22	12	8	2	X i a, J i a, Q i N, Q i n, Q i E, Q i y, Q i i, Q i @, u i a, Q i u, a i a, i i a, Q i a N, Q i T a, Q i a U, Q i m a, Q i Z a, Q i f a, Q i i a, Q i n a, Q i, i a	252384
+Q i a n									0.000	0	0	0.0		0		0	0.000		14	7	4	3	Q i E n, Q i a N, Q i a U, T i a n, l i a n, X i a n, Q i i n, Q i P a n, Q i K a n, Q i k a n, Q i c a n, Q i n, Q i a, i a n	140101
+Q i a N									0.000	0	0	0.0		0		0	0.000		16	8	5	3	X i a N, l i a N, J i a N, i i a N, Q i a U, n i a N, Q i o N, u i a N, Q i u a N, Q i x a N, Q i n a N, Q y i a N, Q i k a N, Q i N, i a N, Q i a	472213
+Q i a r									0.000	0	0	0.0		0		0	0.000		3	2	0	1	Q i a N, Q i a U, Q i a	31013
+Q i a U									0.000	0	0	0.0		0		0	0.000		19	12	5	2	l i a U, J i a U, X i a U, T i a U, Q i a N, t i a U, Q i o U, m i a U, P i a U, n i a U, p i a U, i i a U, Q i t a U, Q i P a U, Q i c a U, Q i T a U, Q i p a U, i a U, Q i a	1431742
+Q i E									0.000	0	0	0.0		0		0	0.000		25	18	5	2	p i E, X i E, Q i N, J i E, Q y E, Q i n, T i E, l i E, t i E, u i E, m i E, n i E, Q i a, Q i y, Q i i, Q i @, P i E, Q i u, Q i E n, i Q i E, Q i i E, Q i y E, Q i E i, i E, Q i	519888
+Q i E n									0.000	0	0	0.0		0		0	0.000		23	15	5	3	t i E n, J i E n, T i E n, n i E n, X i E n, p i E n, l i E n, Q y E n, P i E n, m i E n, y i E n, i i E n, u i E n, Q i E i, Q i i n, i Q i E n, Q i E n i, u Q i E n, Q i y E n, Q i E n @, i E n, Q i n, Q i E	366973
+Q i n									0.000	0	0	0.0		0		0	0.000		23	16	5	2	Q i N, X i n, J i n, n i n, Q y n, Q i E, P i n, l i n, m i n, Q i a, p i n, Q i y, Q i i, y i n, Q i @, Q i u, Q i E n, Q i i n, Q i n y, Q i n a, Q i n u, Q i, i n	288440
+Q i N									0.000	0	0	0.0		0		0	0.000		25	16	7	2	T i N, J i N, X i N, p i N, l i N, m i N, t i N, P i N, Q i n, Q i E, n i N, Q i a, Q i y, Q i i, Q i @, Q i u, Q i a N, Q i N i, Q i o N, u Q i N, Q i N u, Q i N y, i Q i N, Q i, i N	324780
+Q i o n									0.000	0	0	0.0		0		0	0.000		5	4	0	1	Q i E n, Q i o U, Q i o N, Q i i n, Q i n	127093
+Q i o N									0.000	0	0	0.0		0		0	0.000		13	7	4	2	Q i a N, Q i o U, X i o N, u i o N, J i o N, i i o N, y i o N, Q i Z o N, Q i t o N, u Q i o N, Q i i o N, i o N, Q i N	142214
+Q i o U									0.000	0	0	0.0		0		0	0.000		13	8	4	1	J i o U, l i o U, Q i a U, X i o U, t i o U, n i o U, Q i o N, m i o U, Q i i o U, Q i x o U, Q i S o U, Q i o U i, i o U	679500
+Q o n									0.000	0	0	0.0		0		0	0.000		2	2	0	0	Q y n, Q i n	6194
+Q o N									0.000	0	0	0.0		0		0	0.000		16	15	1	0	Z o N, i o N, c o N, Q i N, t o N, s o N, n o N, T o N, z o N, C o N, k o N, K o N, x o N, l o N, r o N, Q i o N	293595
+Q o U									0.000	0	0	0.0		0		0	0.000		19	17	1	1	i o U, t o U, z o U, S o U, k o U, x o U, T o U, Z o U, C o U, K o U, l o U, m o U, r o U, s o U, c o U, f o U, P o U, Q i o U, o U	849594
+Q u									0.000	0	0	0.0		0		0	0.000		24	22	1	1	p u, Q y, C u, Q i, Z u, S u, f u, t u, l u, K u, r u, z u, k u, T u, x u, m u, s u, P u, i u, n u, c u, u u, Q i u, u	1137835
+Q u a									0.000	0	0	0.0		0		0	0.000		7	6	0	1	x u a, Z u a, k u a, S u a, K u a, Q i a, u a	85921
+Q u a I									0.000	0	0	0.0		0		0	0.000		12	11	0	1	K u a I, x u a I, k u a I, S u a I, i u a I, @ u a I, Z u a I, z u a I, C u a I, f u a I, m u a I, u a I	90821
+Q u a N									0.000	0	0	0.0		0		0	0.000		12	10	1	1	Q i a N, Z u a N, C u a N, S u a N, k u a N, K u a N, x u a N, i u a N, y u a N, u u a N, Q i u a N, u a N	72529
+Q u e I									0.000	0	0	0.0		0		0	0.000		17	14	2	1	x u e I, t u e I, z u e I, i u e I, S u e I, s u e I, T u e I, k u e I, Z u e I, C u e I, r u e I, c u e I, K u e I, u u e I, Q i u e I, Q y u e I, u e I	662322
+Q u n									0.000	0	0	0.0		0		0	0.000		15	15	0	0	x u n, t u n, k u n, C u n, l u n, Q y n, Q i n, Z u n, c u n, K u n, T u n, S u n, z u n, s u n, r u n	36310
+Q u N									0.000	0	0	0.0		0		0	0.000		1	1	0	0	Q i N	39747
+Q u o									0.000	0	0	0.0		0		0	0.000		19	18	0	1	S u o, x u o, z u o, k u o, Z u o, t u o, c u o, s u o, m u o, l u o, T u o, p u o, P u o, r u o, n u o, C u o, K u o, i u o, u o	2602029
+Q y									0.000	0	0	0.0		0		0	0.000		14	8	5	1	Q i, J y, n y, X y, l y, @ y, i y, y y, Q y E, Q y n, Q y y, Q i y, u Q y, y	126612
+Q y E									0.000	0	0	0.0		0		0	0.000		15	10	3	2	X y E, Q y n, Q i E, J y E, Q y y, y y E, l y E, n y E, u y E, i y E, Q y E n, Q i y E, Q y y E, Q y, y E	227481
+Q y E n									0.000	0	0	0.0		0		0	0.000		13	5	5	3	Q i E n, X y E n, i y E n, J y E n, u y E n, u Q y E n, Q y E n y, Q i y E n, Q y E n i, Q y E n @, y E n, Q y E, Q y n	162537
+Q y E N									0.000	0	0	0.0		0		0	0.000		2	1	0	1	Q y E n, Q y E	29140
+Q y n									0.000	0	0	0.0		0		0	0.000		11	7	2	2	Q y E, Q i n, J y n, X y n, Q y y, @ y n, u y n, Q y E n, Q y n u, Q y, y n	213341
+Q y N									0.000	0	0	0.0		0		0	0.000		5	4	0	1	Q i N, Q y E, Q y n, Q y y, Q y	230673
+r @									0.000	0	0	0.0		0		0	0.000		19	16	2	1	t @, Z @, k @, n @, K @, C @, x @, r u, S @, T @, r 1, s @, l @, z @, c @, y @, r @ n, r @ N, @	2621182
+r @ n									0.000	0	0	0.0		0		0	0.000		26	17	7	2	x @ n, Z @ n, k @ n, m @ n, u @ n, f @ n, S @ n, p @ n, r @ N, K @ n, C @ n, z @ n, r a n, P @ n, s @ n, n @ n, r u n, r @ n u, r @ n i, i r @ n, @ r @ n, y r @ n, u r @ n, r @ n y, @ n, r @	564557
+r @ N									0.000	0	0	0.0		0		0	0.000		22	21	0	1	r @ n, n @ N, r a N, t @ N, Z @ N, C @ N, S @ N, f @ N, m @ N, z @ N, P @ N, T @ N, l @ N, c @ N, x @ N, r o N, p @ N, K @ N, k @ N, u @ N, s @ N, r @	637456
+r @ r									0.000	0	0	0.0		0		0	0.000		6	4	0	2	r @ n, r @ N, y @ r, i @ r, @ r, r @	264521
+r 1									0.000	0	0	0.0		0		0	0.000		11	8	3	0	S 1, Z 1, s 1, c 1, C 1, z 1, r u, r @, i r 1, r 1 y, r 1 i	1398908
+r a									0.000	0	0	0.0		0		0	0.000		27	23	3	1	T a, p a, m a, n a, t a, S a, l a, i a, C a, u a, f a, r u, P a, x a, r @, r 1, z a, K a, Z a, s a, c a, a a, k a, r a N, r a U, r a n, a	2047613
+r a I									0.000	0	0	0.0		0		0	0.000		22	20	1	1	z a I, l a I, r a N, T a I, t a I, c a I, k a I, x a I, K a I, m a I, P a I, p a I, u a I, s a I, n a I, r a U, r a n, C a I, Z a I, S a I, r @ a I, a I	1161875
+r a n									0.000	0	0	0.0		0		0	0.000		27	23	3	1	r @ n, r a N, K a n, t a n, u a n, p a n, T a n, s a n, n a n, k a n, Z a n, f a n, S a n, m a n, l a n, x a n, P a n, c a n, C a n, z a n, r a U, i a n, r u n, i r a n, r u a n, u r a n, a n	710080
+r a N									0.000	0	0	0.0		0		0	0.000		24	23	0	1	S a N, p a N, t a N, Z a N, f a N, C a N, u a N, k a N, m a N, T a N, i a N, r @ N, c a N, l a N, P a N, z a N, r a U, r o N, r a n, K a N, s a N, x a N, n a N, a N	353427
+r a r									0.000	0	0	0.0		0		0	0.000		3	3	0	0	r a N, r a U, r a n	126533
+r a U									0.000	0	0	0.0		0		0	0.000		21	20	0	1	x a U, i a U, t a U, r a N, Z a U, k a U, z a U, l a U, P a U, p a U, S a U, K a U, T a U, C a U, m a U, c a U, n a U, r o U, r a n, s a U, a U	1120198
+r E									0.000	0	0	0.0		0		0	0.000		5	5	0	0	i E, y E, r u, r @, r 1	182054
+r e I									0.000	0	0	0.0		0		0	0.000		14	12	1	1	m e I, k e I, t e I, u e I, p e I, S e I, x e I, f e I, l e I, n e I, P e I, z e I, r u e I, e I	696679
+r i @									0.000	0	0	0.0		0		0	0.000		3	2	0	1	J i @, Q i @, r @	5615
+r i @ n									0.000	0	0	0.0		0		0	0.000		1	0	0	1	, r @ n	198338
+r i @ N									0.000	0	0	0.0		0		0	0.000		1	0	0	1	, r @ N	6031
+r i @ r									0.000	0	0	0.0		0		0	0.000		3	2	0	1	t i @ r, l i @ r, i @ r	6552
+r i a									0.000	0	0	0.0		0		0	0.000		8	6	1	1	X i a, J i a, Q i a, u i a, a i a, i i a, r u i a, i a	118796
+r i a n									0.000	0	0	0.0		0		0	0.000		6	4	0	2	r u a n, T i a n, l i a n, X i a n, r a n, i a n	2440
+r i a N									0.000	0	0	0.0		0		0	0.000		9	7	0	2	X i a N, l i a N, J i a N, i i a N, Q i a N, n i a N, u i a N, r a N, i a N	565449
+r i a r									0.000	0	0	0.0		0		0	0.000		0	0	0	0		0
+r i a U									0.000	0	0	0.0		0		0	0.000		13	11	0	2	l i a U, J i a U, X i a U, T i a U, t i a U, Q i a U, m i a U, P i a U, n i a U, p i a U, i i a U, i a U, r a U	1400535
+r i E									0.000	0	0	0.0		0		0	0.000		13	11	1	1	p i E, X i E, J i E, Q i E, T i E, l i E, t i E, u i E, m i E, n i E, P i E, r 1 i E, i E	297378
+r i E n									0.000	0	0	0.0		0		0	0.000		15	13	1	1	Q i E n, t i E n, J i E n, T i E n, n i E n, X i E n, p i E n, l i E n, P i E n, m i E n, y i E n, i i E n, u i E n, @ r i E n, i E n	439448
+r i n									0.000	0	0	0.0		0		0	0.000		13	12	0	1	r @ n, X i n, J i n, n i n, Q i n, P i n, l i n, r a n, m i n, p i n, y i n, r u n, i n	300037
+r i N									0.000	0	0	0.0		0		0	0.000		14	13	0	1	r a N, T i N, J i N, X i N, Q i N, p i N, l i N, m i N, t i N, r @ N, P i N, r o N, n i N, i N	427243
+r i o n									0.000	0	0	0.0		0		0	0.000		0	0	0	0		0
+r i o N									0.000	0	0	0.0		0		0	0.000		8	6	0	2	X i o N, Q i o N, u i o N, J i o N, i i o N, y i o N, i o N, r o N	58927
+r i o U									0.000	0	0	0.0		0		0	0.000		9	7	0	2	J i o U, Q i o U, l i o U, X i o U, t i o U, n i o U, m i o U, i o U, r o U	689722
+r o n									0.000	0	0	0.0		0		0	0.000		5	5	0	0	r @ n, r o U, r o N, r a n, r u n	203750
+r o N									0.000	0	0	0.0		0		0	0.000		18	16	2	0	r a N, Z o N, i o N, c o N, t o N, s o N, n o N, T o N, z o N, C o N, r @ N, k o N, K o N, x o N, r o U, l o N, r o N i, r o N y	390653
+r o U									0.000	0	0	0.0		0		0	0.000		20	18	1	1	i o U, t o U, z o U, S o U, k o U, x o U, T o U, Z o U, C o U, K o U, l o U, m o U, s o U, r a U, r o N, c o U, f o U, P o U, y r o U, o U	831106
+r u									0.000	0	0	0.0		0		0	0.000		28	21	6	1	p u, C u, Z u, S u, f u, t u, l u, K u, z u, k u, T u, r @, x u, r 1, m u, s u, P u, i u, n u, c u, u u, r u o, u r u, r u y, r u n, r u u, r u i, u	930985
+r u a									0.000	0	0	0.0		0		0	0.000		15	10	3	2	x u a, Z u a, k u a, S u a, r u o, K u a, r u y, r u n, r u u, r u i, r u a n, r u m a, r u i a, u a, r u	97605
+r u a I									0.000	0	0	0.0		0		0	0.000		15	14	0	1	K u a I, x u a I, k u a I, S u a I, i u a I, r u e I, r u a n, r @ a I, @ u a I, Z u a I, z u a I, C u a I, f u a I, m u a I, u a I	93772
+r u a n									0.000	0	0	0.0		0		0	0.000		19	16	0	3	x u a n, C u a n, k u a n, s u a n, t u a n, Z u a n, l u a n, T u a n, K u a n, z u a n, p u a n, i u a n, n u a n, S u a n, c u a n, u u a n, u a n, r a n, r u n	262014
+r u a N									0.000	0	0	0.0		0		0	0.000		15	10	3	2	Z u a N, C u a N, S u a N, k u a N, K u a N, x u a N, i u a N, y u a N, r u a n, u u a N, r u f a N, r u C a N, r u T a N, r a N, u a N	175750
+r u e I									0.000	0	0	0.0		0		0	0.000		15	13	1	1	x u e I, t u e I, z u e I, i u e I, S u e I, s u e I, T u e I, k u e I, Z u e I, C u e I, c u e I, K u e I, u u e I, r u u e I, u e I	659977
+r u n									0.000	0	0	0.0		0		0	0.000		20	18	1	1	r @ n, x u n, t u n, k u n, C u n, l u n, Z u n, r u o, c u n, K u n, r a n, T u n, S u n, z u n, r u y, s u n, r u u, r u i, r u a n, r u	241563
+r u N									0.000	0	0	0.0		0		0	0.000		9	8	0	1	r a N, r @ N, r u o, r o N, r u y, r u n, r u u, r u i, r u	142845
+r u o									0.000	0	0	0.0		0		0	0.000		23	21	0	2	S u o, x u o, z u o, k u o, Z u o, t u o, c u o, s u o, m u o, l u o, T u o, p u o, P u o, n u o, C u o, r u y, r u n, K u o, r u u, r u i, i u o, u o, r u	2609272
+r y									0.000	0	0	0.0		0		0	0.000		15	11	3	1	Q y, J y, r u, n y, X y, r @, r 1, l y, @ y, i y, y y, r u y, r 1 y, @ r y, y	258771
+r y E									0.000	0	0	0.0		0		0	0.000		10	8	1	1	Q y E, X y E, J y E, y y E, l y E, n y E, u y E, i y E, @ r y E, y E	48299
+r y E n									0.000	0	0	0.0		0		0	0.000		9	5	3	1	Q y E n, X y E n, i y E n, J y E n, u y E n, r u y E n, r 1 y E n, r @ y E n, y E n	53751
+r y E N									0.000	0	0	0.0		0		0	0.000		0	0	0	0		0
+r y n									0.000	0	0	0.0		0		0	0.000		9	8	0	1	r @ n, Q y n, J y n, X y n, r a n, @ y n, r u n, u y n, y n	211004
+r y N									0.000	0	0	0.0		0		0	0.000		3	3	0	0	r a N, r @ N, r o N	131296
+s @									0.000	0	0	0.0		0		0	0.000		22	17	4	1	t @, Z @, k @, n @, s 1, K @, C @, x @, S @, r @, T @, s a, l @, s u, z @, c @, y @, s @ n, u s @, s u @, s @ N, @	2474115
+S @									0.000	0	0	0.0		0		0	0.000		21	17	3	1	t @, S 1, Z @, k @, n @, K @, S a, C @, x @, S u, r @, T @, s @, l @, z @, c @, y @, S @ N, S @ n, S u @, @	3594422
+s @ n									0.000	0	0	0.0		0		0	0.000		19	17	0	2	x @ n, r @ n, Z @ n, k @ n, m @ n, u @ n, s a n, f @ n, S @ n, p @ n, K @ n, C @ n, z @ n, P @ n, n @ n, s u n, s @ N, @ n, s @	762884
+s @ N									0.000	0	0	0.0		0		0	0.000		22	21	0	1	n @ N, t @ N, Z @ N, C @ N, S @ N, s o N, f @ N, r @ N, m @ N, z @ N, P @ N, T @ N, l @ N, c @ N, x @ N, p @ N, s @ n, s a N, K @ N, k @ N, u @ N, s @	333444
+S @ n									0.000	0	0	0.0		0		0	0.000		22	17	3	2	x @ n, r @ n, Z @ n, k @ n, m @ n, u @ n, S @ N, f @ n, p @ n, S a n, K @ n, C @ n, z @ n, P @ n, s @ n, S u n, n @ n, i S @ n, S @ n i, S @ a n, @ n, S @	763765
+S @ N									0.000	0	0	0.0		0		0	0.000		28	20	7	1	n @ N, S a N, t @ N, Z @ N, C @ N, f @ N, S @ n, r @ N, m @ N, z @ N, P @ N, T @ N, l @ N, c @ N, x @ N, p @ N, K @ N, k @ N, u @ N, s @ N, i S @ N, S @ N i, S @ N u, S @ N y, S @ i N, y S @ N, u S @ N, S @	459480
+s @ r									0.000	0	0	0.0		0		0	0.000		6	4	0	2	s @ n, y @ r, i @ r, s @ N, @ r, s @	58879
+S @ r									0.000	0	0	0.0		0		0	0.000		8	4	2	2	S @ N, S @ n, y @ r, i @ r, S 1 @ r, S @ r u, @ r, S @	95543
+s 1									0.000	0	0	0.0		0		0	0.000		15	9	6	0	S 1, Z 1, c 1, C 1, z 1, r 1, s @, s a, s u, i s 1, s 1 y, u s 1, s 1 i, s 1 u, @ s 1	1354717
+s a									0.000	0	0	0.0		0		0	0.000		27	22	4	1	T a, p a, m a, n a, t a, s 1, S a, l a, i a, C a, u a, f a, P a, x a, z a, K a, Z a, s @, s u, c a, a a, k a, s a n, s a I, s a U, s a N, a	1988714
+S a									0.000	0	0	0.0		0		0	0.000		31	22	8	1	S 1, T a, p a, m a, n a, t a, l a, S u, i a, C a, u a, f a, P a, S @, x a, z a, K a, Z a, s a, c a, a a, k a, S a N, S a U, S a n, S u a, S a y, S a I, @ S a, u S a, a	3145099
+s a I									0.000	0	0	0.0		0		0	0.000		21	19	0	2	z a I, l a I, T a I, t a I, c a I, k a I, x a I, K a I, m a I, s a n, P a I, p a I, u a I, n a I, C a I, s a U, Z a I, S a I, s a N, a I, s a	1054365
+S a I									0.000	0	0	0.0		0		0	0.000		24	21	1	2	z a I, l a I, S a N, T a I, S e I, t a I, c a I, k a I, x a I, K a I, m a I, P a I, S a U, S a n, p a I, u a I, s a I, n a I, C a I, Z a I, S a y, S u a I, a I, S a	1264000
+s a n									0.000	0	0	0.0		0		0	0.000		30	24	4	2	K a n, t a n, u a n, p a n, T a n, n a n, k a n, Z a n, f a n, S a n, m a n, l a n, x a n, P a n, s a I, c a n, C a n, z a n, r a n, s @ n, s a U, s a N, i a n, s u n, s u a n, y s a n, s 1 a n, s a n i, a n, s a	389035
+s a N									0.000	0	0	0.0		0		0	0.000		26	24	0	2	r a N, S a N, p a N, t a N, Z a N, f a N, C a N, s a n, u a N, s o N, k a N, m a N, T a N, i a N, c a N, l a N, s a I, P a N, z a N, K a N, s a U, x a N, n a N, s @ N, s a, a N	505122
+S a n									0.000	0	0	0.0		0		0	0.000		33	25	6	2	S a N, K a n, t a n, u a n, p a n, T a n, s a n, n a n, k a n, Z a n, S @ n, f a n, S a U, m a n, l a n, x a n, P a n, c a n, C a n, z a n, r a n, S u n, S a y, S a I, i a n, S u a n, S a n y, S a n i, S a n @, i S a n, S @ a n, S a, a n	555887
+S a N									0.000	0	0	0.0		0		0	0.000		32	24	6	2	r a N, p a N, t a N, Z a N, f a N, C a N, S @ N, u a N, k a N, S a U, S a n, m a N, T a N, i a N, c a N, l a N, P a N, z a N, K a N, S a y, S a I, s a N, x a N, n a N, S u a N, S a N u, i S a N, S a N i, u S a N, y S a N, S a, a N	426183
+s a r									0.000	0	0	0.0		0		0	0.000		5	4	0	1	s a n, s a I, s a U, s a N, s a	24047
+S a r									0.000	0	0	0.0		0		0	0.000		6	5	0	1	S a N, S a U, S a n, S a y, S a I, S a	173462
+s a U									0.000	0	0	0.0		0		0	0.000		23	21	0	2	x a U, i a U, t a U, Z a U, k a U, z a U, l a U, s a n, P a U, p a U, S a U, K a U, T a U, C a U, m a U, c a U, n a U, s o U, s a I, r a U, s a N, s a, a U	1018637
+S a U									0.000	0	0	0.0		0		0	0.000		25	22	1	2	x a U, i a U, t a U, S a N, Z a U, S o U, k a U, z a U, l a U, P a U, p a U, K a U, S a n, T a U, C a U, m a U, c a U, n a U, r a U, s a U, S a y, S a I, S a U y, S a, a U	1181263
+s E									0.000	0	0	0.0		0		0	0.000		6	6	0	0	i E, s 1, y E, s @, s a, s u	233963
+S E									0.000	0	0	0.0		0		0	0.000		6	6	0	0	S 1, i E, S a, y E, S u, S @	1329611
+s e I									0.000	0	0	0.0		0		0	0.000		15	13	1	1	m e I, k e I, t e I, u e I, p e I, S e I, x e I, f e I, l e I, n e I, P e I, s a I, z e I, s u e I, e I	712078
+S e I									0.000	0	0	0.0		0		0	0.000		14	12	1	1	m e I, k e I, t e I, u e I, p e I, x e I, f e I, l e I, n e I, P e I, z e I, S a I, S u e I, e I	658452
+s E n									0.000	0	0	0.0		0		0	0.000		5	5	0	0	y E n, s a n, i E n, s @ n, s u n	53294
+S E n									0.000	0	0	0.0		0		0	0.000		5	5	0	0	y E n, S @ n, i E n, S a n, S u n	56370
+s i @									0.000	0	0	0.0		0		0	0.000		4	3	0	1	J i @, Q i @, s u @, s @	3483
+S i @									0.000	0	0	0.0		0		0	0.000		4	3	0	1	J i @, Q i @, S u @, S @	6131
+s i @ n									0.000	0	0	0.0		0		0	0.000		1	0	0	1	, s @ n	872
+s i @ N									0.000	0	0	0.0		0		0	0.000		1	0	0	1	, s @ N	36
+S i @ n									0.000	0	0	0.0		0		0	0.000		1	0	0	1	, S @ n	12512
+S i @ N									0.000	0	0	0.0		0		0	0.000		1	0	0	1	, S @ N	18335
+s i @ r									0.000	0	0	0.0		0		0	0.000		3	2	0	1	t i @ r, l i @ r, i @ r	6552
+S i @ r									0.000	0	0	0.0		0		0	0.000		4	3	0	1	t i @ r, S 1 @ r, l i @ r, i @ r	10600
+s i a									0.000	0	0	0.0		0		0	0.000		8	6	0	2	X i a, J i a, Q i a, u i a, a i a, i i a, i a, s a	121541
+S i a									0.000	0	0	0.0		0		0	0.000		10	7	1	2	X i a, J i a, S u a, Q i a, u i a, a i a, i i a, S 1 i a, S a, i a	154441
+s i a n									0.000	0	0	0.0		0		0	0.000		7	5	0	2	s u a n, T i a n, l i a n, X i a n, s 1 a n, s a n, i a n	32569
+s i a N									0.000	0	0	0.0		0		0	0.000		10	7	1	2	X i a N, l i a N, J i a N, i i a N, Q i a N, n i a N, u i a N, s 1 i a N, i a N, s a N	441985
+S i a n									0.000	0	0	0.0		0		0	0.000		7	5	0	2	S u a n, T i a n, l i a n, X i a n, S @ a n, S a n, i a n	9787
+S i a N									0.000	0	0	0.0		0		0	0.000		11	8	1	2	X i a N, l i a N, J i a N, i i a N, Q i a N, S u a N, n i a N, u i a N, S 1 i a N, S a N, i a N	567561
+s i a r									0.000	0	0	0.0		0		0	0.000		0	0	0	0		0
+S i a r									0.000	0	0	0.0		0		0	0.000		0	0	0	0		0
+s i a U									0.000	0	0	0.0		0		0	0.000		13	11	0	2	l i a U, J i a U, X i a U, T i a U, t i a U, Q i a U, m i a U, P i a U, n i a U, p i a U, i i a U, i a U, s a U	1399858
+S i a U									0.000	0	0	0.0		0		0	0.000		13	11	0	2	l i a U, J i a U, X i a U, T i a U, t i a U, Q i a U, m i a U, P i a U, n i a U, p i a U, i i a U, i a U, S a U	1409343
+s i E									0.000	0	0	0.0		0		0	0.000		13	11	1	1	p i E, X i E, J i E, Q i E, T i E, l i E, t i E, u i E, m i E, n i E, P i E, s a i E, i E	297340
+S i E									0.000	0	0	0.0		0		0	0.000		14	11	2	1	p i E, X i E, J i E, Q i E, T i E, l i E, t i E, u i E, m i E, n i E, P i E, S 1 i E, S u i E, i E	299791
+s i E n									0.000	0	0	0.0		0		0	0.000		14	13	0	1	Q i E n, t i E n, J i E n, T i E n, n i E n, X i E n, p i E n, l i E n, P i E n, m i E n, y i E n, i i E n, u i E n, i E n	437979
+S i E n									0.000	0	0	0.0		0		0	0.000		16	13	2	1	Q i E n, t i E n, J i E n, T i E n, n i E n, X i E n, p i E n, l i E n, P i E n, m i E n, y i E n, i i E n, u i E n, S 1 i E n, S a i E n, i E n	440689
+s i n									0.000	0	0	0.0		0		0	0.000		14	12	1	1	X i n, J i n, s a n, n i n, Q i n, P i n, l i n, s @ n, m i n, p i n, y i n, s u n, s 1 i n, i n	119773
+s i N									0.000	0	0	0.0		0		0	0.000		15	13	1	1	T i N, J i N, X i N, Q i N, p i N, l i N, m i N, t i N, s o N, P i N, n i N, s a N, s @ N, s 1 i N, i N	310925
+S i n									0.000	0	0	0.0		0		0	0.000		13	12	0	1	X i n, J i n, n i n, S @ n, S a n, Q i n, P i n, l i n, S u n, m i n, p i n, y i n, i n	122365
+S i N									0.000	0	0	0.0		0		0	0.000		16	12	3	1	S a N, T i N, J i N, X i N, Q i N, p i N, l i N, S @ N, m i N, t i N, P i N, n i N, S 1 i N, S @ i N, S u i N, i N	436238
+s i o n									0.000	0	0	0.0		0		0	0.000		0	0	0	0		0
+s i o N									0.000	0	0	0.0		0		0	0.000		8	6	0	2	X i o N, Q i o N, u i o N, J i o N, i i o N, y i o N, i o N, s o N	72079
+S i o n									0.000	0	0	0.0		0		0	0.000		0	0	0	0		0
+S i o N									0.000	0	0	0.0		0		0	0.000		8	6	1	1	X i o N, Q i o N, u i o N, J i o N, i i o N, y i o N, S 1 i o N, i o N	61030
+s i o U									0.000	0	0	0.0		0		0	0.000		10	7	1	2	J i o U, Q i o U, l i o U, X i o U, t i o U, n i o U, m i o U, s 1 i o U, i o U, s o U	689337
+S i o U									0.000	0	0	0.0		0		0	0.000		10	7	1	2	J i o U, Q i o U, l i o U, X i o U, t i o U, n i o U, m i o U, S 1 i o U, i o U, S o U	722583
+s o n									0.000	0	0	0.0		0		0	0.000		5	5	0	0	s a n, s o N, s o U, s @ n, s u n	35725
+s o N									0.000	0	0	0.0		0		0	0.000		16	16	0	0	Z o N, i o N, c o N, t o N, n o N, T o N, z o N, C o N, k o N, K o N, x o N, s o U, l o N, r o N, s a N, s @ N	241561
+S o n									0.000	0	0	0.0		0		0	0.000		4	4	0	0	S o U, S @ n, S a n, S u n	56426
+S o N									0.000	0	0	0.0		0		0	0.000		17	17	0	0	S a N, Z o N, i o N, c o N, S o U, t o N, S @ N, s o N, n o N, T o N, z o N, C o N, k o N, K o N, x o N, l o N, r o N	426336
+s o U									0.000	0	0	0.0		0		0	0.000		19	18	0	1	i o U, t o U, z o U, S o U, k o U, x o U, T o U, s o N, Z o U, C o U, K o U, l o U, m o U, r o U, s a U, c o U, f o U, P o U, o U	843962
+S o U									0.000	0	0	0.0		0		0	0.000		21	17	3	1	i o U, t o U, z o U, k o U, x o U, T o U, S a U, Z o U, C o U, K o U, l o U, m o U, r o U, s o U, c o U, f o U, P o U, S o U i, S o U y, i S o U, o U	807871
+s u									0.000	0	0	0.0		0		0	0.000		28	22	5	1	p u, s 1, C u, Z u, S u, f u, t u, l u, K u, r u, z u, k u, T u, x u, m u, s @, s a, P u, i u, n u, c u, u u, s u o, s u n, s 1 u, s u @, s u y, u	1016763
+S u									0.000	0	0	0.0		0		0	0.000		33	22	10	1	S 1, p u, C u, S a, Z u, f u, t u, l u, K u, r u, z u, k u, T u, S @, x u, m u, s u, P u, i u, n u, c u, u u, S u o, S 1 u, S u y, S u a, i S u, u S u, S u n, S u @, S u i, y S u, u	2293258
+s u a									0.000	0	0	0.0		0		0	0.000		15	9	3	3	x u a, s u o, Z u a, k u a, S u a, K u a, s u n, s u @, s u y, s u a n, s u t a, s u u a, u a, s a, s u	128883
+S u a									0.000	0	0	0.0		0		0	0.000		17	9	5	3	S u o, x u a, Z u a, k u a, S u y, K u a, S u n, S u @, S u i, S u a N, S u a I, S u a n, S u m a, S u f a, S a, S u, u a	377326
+s u a I									0.000	0	0	0.0		0		0	0.000		16	13	1	2	K u a I, s u e I, s u a n, x u a I, k u a I, S u a I, i u a I, @ u a I, Z u a I, z u a I, C u a I, f u a I, m u a I, s u c a I, u a I, s a I	122147
+S u a I									0.000	0	0	0.0		0		0	0.000		19	13	3	3	K u a I, S u e I, x u a I, k u a I, S u a N, i u a I, @ u a I, Z u a I, S u a n, z u a I, C u a I, f u a I, m u a I, S u c a I, S u p a I, S 1 u a I, u a I, S u a, S a I	112391
+s u a n									0.000	0	0	0.0		0		0	0.000		23	17	3	3	x u a n, C u a n, k u a n, t u a n, Z u a n, l u a n, T u a n, K u a n, z u a n, p u a n, i u a n, r u a n, n u a n, S u a n, c u a n, u u a n, s 1 a n, y s u a n, s u t a n, s 1 u a n, u a n, s a n, s u n	266035
+s u a N									0.000	0	0	0.0		0		0	0.000		13	10	1	2	s u a n, Z u a N, C u a N, S u a N, k u a N, K u a N, x u a N, i u a N, y u a N, u u a N, s 1 u a N, u a N, s a N	69408
+S u a n									0.000	0	0	0.0		0		0	0.000		28	19	5	4	x u a n, C u a n, k u a n, s u a n, t u a n, Z u a n, S u a N, S u a I, l u a n, T u a n, K u a n, z u a n, p u a n, i u a n, r u a n, n u a n, c u a n, u u a n, S @ a n, S u s a n, S 1 u a n, S u Z a n, S u T a n, S u k a n, u a n, S a n, S u a, S u n	283034
+S u a N									0.000	0	0	0.0		0		0	0.000		22	11	8	3	Z u a N, C u a N, k u a N, S u a I, K u a N, x u a N, i u a N, y u a N, S u a n, S u i N, u u a N, S 1 u a N, S u S a N, S u f a N, i S u a N, S @ u a N, S u Z a N, S u a N y, S u C a N, S a N, u a N, S u a	175471
+s u e I									0.000	0	0	0.0		0		0	0.000		17	13	3	1	x u e I, t u e I, z u e I, i u e I, S u e I, T u e I, k u e I, Z u e I, C u e I, r u e I, c u e I, K u e I, u u e I, s u e I i, s 1 u e I, i s u e I, u e I	647783
+S u e I									0.000	0	0	0.0		0		0	0.000		24	14	8	2	x u e I, t u e I, z u e I, i u e I, s u e I, T u e I, k u e I, S u a I, Z u e I, C u e I, r u e I, c u e I, K u e I, u u e I, S u e I i, S 1 u e I, u S u e I, y S u e I, S u e I u, S u e I y, S u k e I, S u p e I, u e I, S e I	703660
+s u n									0.000	0	0	0.0		0		0	0.000		20	17	2	1	s u o, s a n, x u n, t u n, k u n, C u n, l u n, Z u n, c u n, K u n, T u n, s @ n, S u n, z u n, r u n, s u @, s u y, s u a n, u s u n, s u	89016
+s u N									0.000	0	0	0.0		0		0	0.000		8	7	0	1	s u o, s o N, s a N, s u n, s u @, s @ N, s u y, s u	41368
+1									0.000	0	0	0.0		0		0	0.000		12	5	7	0	i, a, y, @, u, S 1, Z 1, s 1, c 1, C 1, z 1, r 1	1844606
+@									0.000	0	0	0.0		0		0	0.000		23	4	19	0	i, a, y, u, t @, Z @, k @, n @, K @, @ r, @ n, C @, x @, S @, r @, T @, s @, l @, z @, c @, @ y, @ i, y @	2903926
+@ n									0.000	0	0	0.0		0		0	0.000		23	6	16	1	@ r, a n, i n, y n, @ y, @ i, x @ n, r @ n, Z @ n, k @ n, m @ n, u @ n, f @ n, S @ n, p @ n, K @ n, C @ n, z @ n, P @ n, s @ n, n @ n, @ y n, @	808052
+@ N									0.000	0	0	0.0		0		0	0.000		26	6	19	1	@ r, @ n, i N, @ y, a N, @ i, n @ N, t @ N, Z @ N, C @ N, S @ N, f @ N, r @ N, m @ N, z @ N, P @ N, T @ N, l @ N, c @ N, x @ N, p @ N, K @ N, k @ N, u @ N, s @ N, @	452425
+@ r									0.000	0	0	0.0		0		0	0.000		8	3	4	1	@ n, @ y, @ i, @ r i, y @ r, @ r y, i @ r, @	74352
+a									0.000	0	0	0.0		0		0	0.000		29	4	25	0	i, y, @, u, T a, p a, m a, n a, t a, a I, S a, l a, i a, C a, u a, f a, a n, P a, x a, z a, K a, Z a, s a, a U, c a, a i, a N, a a, k a	2139296
+a I									0.000	0	0	0.0		0		0	0.000		26	6	19	1	a n, a U, a i, a N, e I, a a, z a I, l a I, T a I, t a I, c a I, k a I, x a I, K a I, m a I, P a I, p a I, u a I, s a I, n a I, C a I, Z a I, S a I, a I i, a I @, a	1148904
+a n									0.000	0	0	0.0		0		0	0.000		31	8	22	1	@ n, a I, i n, y n, a U, a i, a N, a a, K a n, t a n, u a n, p a n, T a n, s a n, n a n, k a n, Z a n, f a n, S a n, m a n, l a n, x a n, P a n, c a n, C a n, z a n, r a n, i a n, a n y, a n i, a	598605
+a N									0.000	0	0	0.0		0		0	0.000		27	6	20	1	a I, i N, a n, a U, a i, a a, r a N, S a N, p a N, t a N, Z a N, f a N, C a N, u a N, k a N, m a N, T a N, i a N, c a N, l a N, P a N, z a N, K a N, s a N, x a N, n a N, a	662954
+a r									0.000	0	0	0.0		0		0	0.000		8	7	0	1	@ r, a I, a n, a U, a i, a N, a a, a	237451
+a U									0.000	0	0	0.0		0		0	0.000		25	6	18	1	o U, a I, a n, a i, a N, a a, x a U, i a U, t a U, Z a U, k a U, z a U, l a U, P a U, p a U, S a U, K a U, T a U, C a U, m a U, c a U, n a U, r a U, s a U, a	1278005
+c @									0.000	0	0	0.0		0		0	0.000		22	17	4	1	t @, Z @, k @, n @, K @, c 1, C @, x @, S @, r @, T @, s @, l @, z @, c a, c u, y @, c @ N, y c @, c @ i, i c @, @	2469130
+C @									0.000	0	0	0.0		0		0	0.000		20	17	2	1	t @, Z @, k @, n @, K @, C u, C 1, x @, C a, S @, r @, T @, s @, l @, z @, c @, y @, C @ N, C @ n, @	2500027
+c @ n									0.000	0	0	0.0		0		0	0.000		21	19	0	2	x @ n, r @ n, Z @ n, k @ n, m @ n, u @ n, f @ n, S @ n, p @ n, K @ n, c a n, c u n, c @ N, C @ n, z @ n, P @ n, s @ n, n @ n, c @ i, @ n, c @	750127
+c @ N									0.000	0	0	0.0		0		0	0.000		22	21	0	1	n @ N, c o N, t @ N, Z @ N, C @ N, S @ N, f @ N, r @ N, m @ N, z @ N, P @ N, c a N, T @ N, l @ N, x @ N, p @ N, K @ N, k @ N, u @ N, c @ i, s @ N, c @	366494
+C @ n									0.000	0	0	0.0		0		0	0.000		20	17	1	2	x @ n, r @ n, Z @ n, k @ n, m @ n, u @ n, C @ N, f @ n, S @ n, p @ n, C u n, K @ n, C a n, z @ n, P @ n, s @ n, n @ n, C @ n i, @ n, C @	791973
+C @ N									0.000	0	0	0.0		0		0	0.000		24	21	2	1	n @ N, t @ N, Z @ N, C a N, S @ N, f @ N, C o N, r @ N, m @ N, z @ N, P @ N, T @ N, l @ N, c @ N, C @ n, x @ N, p @ N, K @ N, k @ N, u @ N, s @ N, C @ N i, i C @ N, C @	354188
+c @ r									0.000	0	0	0.0		0		0	0.000		7	4	1	2	c @ N, y @ r, i @ r, c @ i, c 1 @ r, @ r, c @	58372
+C @ r									0.000	0	0	0.0		0		0	0.000		6	4	0	2	C @ N, C @ n, y @ r, i @ r, @ r, C @	102321
+c 1									0.000	0	0	0.0		0		0	0.000		12	9	3	0	S 1, Z 1, s 1, C 1, z 1, r 1, c a, c @, c u, i c 1, c 1 y, y c 1	1335616
+C 1									0.000	0	0	0.0		0		0	0.000		12	9	3	0	S 1, Z 1, s 1, c 1, C u, C @, C a, z 1, r 1, u C 1, y C 1, C 1 i	1448724
+c a									0.000	0	0	0.0		0		0	0.000		27	22	4	1	T a, p a, m a, n a, t a, c 1, S a, l a, i a, C a, u a, f a, P a, x a, z a, K a, Z a, s a, c @, c u, a a, k a, c a I, c a U, c a N, c a n, a	2019290
+C a									0.000	0	0	0.0		0		0	0.000		30	22	7	1	T a, p a, m a, n a, t a, C u, S a, C 1, C @, l a, i a, u a, f a, P a, x a, z a, K a, Z a, s a, c a, a a, k a, C a N, C a U, C a n, C a I, C a i, y C a, u C a, a	2030722
+c a I									0.000	0	0	0.0		0		0	0.000		24	19	3	2	z a I, l a I, T a I, t a I, k a I, x a I, K a I, m a I, P a I, p a I, c a U, c a N, u a I, s a I, c a n, n a I, C a I, Z a I, S a I, c a I u, c 1 a I, c a I i, a I, c a	1001099
+C a I									0.000	0	0	0.0		0		0	0.000		23	20	1	2	z a I, l a I, T a I, t a I, c a I, k a I, x a I, K a I, m a I, C a N, P a I, C a U, p a I, u a I, s a I, n a I, C a n, Z a I, S a I, C a i, C u a I, a I, C a	1077296
+c a n									0.000	0	0	0.0		0		0	0.000		29	23	4	2	K a n, t a n, c a I, u a n, p a n, T a n, s a n, n a n, k a n, Z a n, f a n, S a n, m a n, l a n, c a U, c a N, x a n, P a n, c u n, C a n, z a n, r a n, i a n, c a n y, u c a n, c 1 a n, c u a n, a n, c a	447190
+c a N									0.000	0	0	0.0		0		0	0.000		26	24	0	2	r a N, S a N, p a N, c o N, c a I, t a N, Z a N, f a N, C a N, u a N, k a N, m a N, T a N, i a N, c a U, l a N, c a n, P a N, c @ N, z a N, K a N, s a N, x a N, n a N, c a, a N	567825
+C a n									0.000	0	0	0.0		0		0	0.000		31	25	4	2	K a n, t a n, u a n, p a n, C a N, T a n, s a n, n a n, k a n, Z a n, f a n, S a n, m a n, C a U, l a n, C u n, x a n, P a n, c a n, C @ n, z a n, r a n, C a I, i a n, C a i, C u a n, i C a n, C a n u, C a a n, C a, a n	454137
+C a N									0.000	0	0	0.0		0		0	0.000		32	25	5	2	r a N, S a N, p a N, t a N, Z a N, f a N, C @ N, u a N, k a N, C o N, m a N, T a N, C a U, i a N, c a N, l a N, P a N, z a N, C a n, C a I, K a N, s a N, x a N, n a N, C a i, C u a N, i C a N, u C a N, C a N i, y C a N, C a, a N	507219
+c a r									0.000	0	0	0.0		0		0	0.000		5	4	0	1	c a I, c a U, c a N, c a n, c a	60293
+C a r									0.000	0	0	0.0		0		0	0.000		7	5	1	1	C a N, C a U, C a n, C a I, C a i, C a r u, C a	44153
+c a U									0.000	0	0	0.0		0		0	0.000		23	21	0	2	x a U, i a U, t a U, Z a U, c a I, k a U, z a U, l a U, P a U, p a U, S a U, K a U, T a U, C a U, m a U, c a N, n a U, c a n, r a U, s a U, c o U, a U, c a	1044943
+C a U									0.000	0	0	0.0		0		0	0.000		24	22	0	2	x a U, i a U, t a U, Z a U, k a U, C a N, z a U, l a U, P a U, p a U, S a U, K a U, T a U, m a U, C o U, c a U, n a U, C a n, r a U, C a I, s a U, C a i, C a, a U	1028942
+c E									0.000	0	0	0.0		0		0	0.000		6	6	0	0	i E, c 1, y E, c a, c @, c u	224399
+C E									0.000	0	0	0.0		0		0	0.000		6	6	0	0	i E, C u, C 1, C @, y E, C a	286642
+c e I									0.000	0	0	0.0		0		0	0.000		15	13	1	1	m e I, k e I, t e I, u e I, p e I, S e I, c a I, x e I, f e I, l e I, n e I, P e I, z e I, c u e I, e I	742826
+C e I									0.000	0	0	0.0		0		0	0.000		15	13	1	1	m e I, k e I, t e I, u e I, p e I, S e I, x e I, f e I, l e I, n e I, P e I, C a I, z e I, C u e I, e I	697924
+c E n									0.000	0	0	0.0		0		0	0.000		4	4	0	0	y E n, i E n, c a n, c u n	38486
+C E n									0.000	0	0	0.0		0		0	0.000		5	5	0	0	y E n, i E n, C u n, C @ n, C a n	41392
+c i									0.000	0	0	0.0		0		0	0.000		21	19	1	1	n i, l i, J i, c 1, Q i, p i, t i, X i, T i, m i, P i, i i, c a, c @, u i, a i, c u, @ i, y i, c @ i, i	1936163
+C i									0.000	0	0	0.0		0		0	0.000		23	19	3	1	n i, l i, J i, C u, Q i, p i, t i, C 1, C @, X i, T i, C a, m i, P i, i i, u i, a i, @ i, y i, C a i, C u i, C 1 i, i	1998601
+c i @									0.000	0	0	0.0		0		0	0.000		3	2	0	1	J i @, Q i @, c @	1857
+C i @									0.000	0	0	0.0		0		0	0.000		3	2	0	1	J i @, Q i @, C @	26796
+c i @ n									0.000	0	0	0.0		0		0	0.000		0	0	0	0		0
+c i @ N									0.000	0	0	0.0		0		0	0.000		1	0	0	1	, c @ N	1871
+C i @ n									0.000	0	0	0.0		0		0	0.000		1	0	0	1	, C @ n	1791
+C i @ N									0.000	0	0	0.0		0		0	0.000		1	0	0	1	, C @ N	19197
+c i @ r									0.000	0	0	0.0		0		0	0.000		4	3	0	1	t i @ r, l i @ r, c 1 @ r, i @ r	6610
+C i @ r									0.000	0	0	0.0		0		0	0.000		3	2	0	1	t i @ r, l i @ r, i @ r	6552
+c i a									0.000	0	0	0.0		0		0	0.000		8	6	0	2	X i a, J i a, Q i a, u i a, a i a, i i a, i a, c a	120243
+C i a									0.000	0	0	0.0		0		0	0.000		8	6	0	2	X i a, J i a, Q i a, u i a, a i a, i i a, i a, C a	131768
+c i a n									0.000	0	0	0.0		0		0	0.000		7	5	0	2	T i a n, c 1 a n, c u a n, l i a n, X i a n, c a n, i a n	3229
+c i a N									0.000	0	0	0.0		0		0	0.000		9	7	0	2	X i a N, l i a N, J i a N, i i a N, Q i a N, n i a N, u i a N, i a N, c a N	446158
+C i a n									0.000	0	0	0.0		0		0	0.000		7	5	0	2	C u a n, T i a n, l i a n, C a a n, X i a n, C a n, i a n	23201
+C i a N									0.000	0	0	0.0		0		0	0.000		10	8	0	2	X i a N, l i a N, J i a N, i i a N, Q i a N, C u a N, n i a N, u i a N, C a N, i a N	471010
+c i a r									0.000	0	0	0.0		0		0	0.000		0	0	0	0		0
+C i a r									0.000	0	0	0.0		0		0	0.000		0	0	0	0		0
+c i a U									0.000	0	0	0.0		0		0	0.000		14	11	1	2	l i a U, J i a U, X i a U, T i a U, t i a U, Q i a U, m i a U, P i a U, n i a U, p i a U, i i a U, c 1 i a U, i a U, c a U	1403903
+C i a U									0.000	0	0	0.0		0		0	0.000		14	11	1	2	l i a U, J i a U, X i a U, T i a U, t i a U, Q i a U, m i a U, P i a U, n i a U, p i a U, i i a U, C 1 i a U, i a U, C a U	1406742
+c i E									0.000	0	0	0.0		0		0	0.000		13	11	1	1	p i E, X i E, J i E, Q i E, T i E, l i E, t i E, u i E, m i E, n i E, P i E, c u i E, i E	297361
+C i E									0.000	0	0	0.0		0		0	0.000		14	11	2	1	p i E, X i E, J i E, Q i E, T i E, l i E, t i E, u i E, m i E, n i E, P i E, C @ i E, C a i E, i E	297443
+c i E n									0.000	0	0	0.0		0		0	0.000		16	13	2	1	Q i E n, t i E n, J i E n, T i E n, n i E n, X i E n, p i E n, l i E n, P i E n, m i E n, y i E n, i i E n, u i E n, c @ i E n, c 1 i E n, i E n	438330
+C i E n									0.000	0	0	0.0		0		0	0.000		15	13	1	1	Q i E n, t i E n, J i E n, T i E n, n i E n, X i E n, p i E n, l i E n, P i E n, m i E n, y i E n, i i E n, u i E n, C u i E n, i E n	438111
+c i n									0.000	0	0	0.0		0		0	0.000		12	11	0	1	X i n, J i n, n i n, Q i n, c a n, P i n, c u n, l i n, m i n, p i n, y i n, i n	104481
+c i N									0.000	0	0	0.0		0		0	0.000		14	13	0	1	T i N, c o N, J i N, X i N, Q i N, p i N, l i N, m i N, t i N, P i N, c a N, c @ N, n i N, i N	350008
+C i n									0.000	0	0	0.0		0		0	0.000		13	12	0	1	X i n, J i n, n i n, C u n, Q i n, P i n, C @ n, l i n, C a n, m i n, p i n, y i n, i n	107387
+C i N									0.000	0	0	0.0		0		0	0.000		14	13	0	1	T i N, J i N, X i N, Q i N, p i N, C a N, l i N, C @ N, m i N, t i N, C o N, P i N, n i N, i N	345449
+c i o n									0.000	0	0	0.0		0		0	0.000		0	0	0	0		0
+c i o N									0.000	0	0	0.0		0		0	0.000		8	6	0	2	X i o N, Q i o N, u i o N, J i o N, i i o N, y i o N, i o N, c o N	105143
+C i o n									0.000	0	0	0.0		0		0	0.000		0	0	0	0		0
+C i o N									0.000	0	0	0.0		0		0	0.000		8	6	0	2	X i o N, Q i o N, u i o N, J i o N, i i o N, y i o N, i o N, C o N	66829
+c i o U									0.000	0	0	0.0		0		0	0.000		9	7	0	2	J i o U, Q i o U, l i o U, X i o U, t i o U, n i o U, m i o U, i o U, c o U	687341
+C i o U									0.000	0	0	0.0		0		0	0.000		11	7	2	2	J i o U, Q i o U, l i o U, X i o U, t i o U, n i o U, m i o U, C 1 i o U, C u i o U, i o U, C o U	693708
+c o n									0.000	0	0	0.0		0		0	0.000		4	4	0	0	c o N, c a n, c u n, c o U	52029
+c o N									0.000	0	0	0.0		0		0	0.000		17	16	1	0	Z o N, i o N, t o N, s o N, n o N, T o N, z o N, C o N, k o N, c a N, K o N, x o N, l o N, c @ N, r o N, c o U, u c o N	212696
+C o n									0.000	0	0	0.0		0		0	0.000		5	5	0	0	C o N, C o U, C u n, C @ n, C a n	22636
+C o N									0.000	0	0	0.0		0		0	0.000		18	16	2	0	Z o N, i o N, c o N, C a N, t o N, C @ N, s o N, n o N, T o N, z o N, C o U, k o N, K o N, x o N, l o N, r o N, C o N u, C o N y	291392
+c o U									0.000	0	0	0.0		0		0	0.000		19	18	0	1	i o U, t o U, z o U, c o N, S o U, k o U, x o U, T o U, Z o U, C o U, K o U, l o U, c a U, m o U, r o U, s o U, f o U, P o U, o U	882972
+C o U									0.000	0	0	0.0		0		0	0.000		21	18	2	1	i o U, t o U, z o U, S o U, k o U, x o U, T o U, Z o U, C o N, C a U, K o U, l o U, m o U, r o U, s o U, c o U, f o U, P o U, C o U @, @ C o U, o U	841657
+c u									0.000	0	0	0.0		0		0	0.000		25	22	2	1	p u, c 1, C u, Z u, S u, f u, t u, l u, K u, r u, z u, k u, T u, x u, m u, s u, P u, c a, c @, i u, n u, u u, c u o, c u n, u	1024603
+C u									0.000	0	0	0.0		0		0	0.000		29	22	6	1	p u, Z u, C 1, C @, S u, f u, C a, t u, l u, K u, r u, z u, k u, T u, x u, m u, s u, P u, i u, n u, c u, u u, C u n, C u y, C u o, i C u, u C u, C u i, u	953351
+c u a									0.000	0	0	0.0		0		0	0.000		11	7	1	3	x u a, c u o, Z u a, k u a, S u a, c u n, K u a, c u a n, u a, c a, c u	125984
+C u a									0.000	0	0	0.0		0		0	0.000		18	9	6	3	x u a, Z u a, k u a, C u n, S u a, C u y, K u a, C u o, C u i, C u a n, C u a N, C u f a, C u a I, C u m a, C u n a, C u, C a, u a	189485
+c u a I									0.000	0	0	0.0		0		0	0.000		17	14	1	2	K u a I, x u a I, k u a I, S u a I, i u a I, c u e I, @ u a I, Z u a I, z u a I, C u a I, c u a n, c 1 a I, f u a I, m u a I, c 1 u a I, c a I, u a I	139358
+C u a I									0.000	0	0	0.0		0		0	0.000		22	13	7	2	K u a I, C u a n, x u a I, C u a N, k u a I, S u a I, i u a I, C u e I, @ u a I, Z u a I, z u a I, f u a I, m u a I, C u l a I, C u m a I, C u z a I, C u C a I, C u x a I, C u c a I, C u u a I, u a I, C a I	145962
+c u a n									0.000	0	0	0.0		0		0	0.000		20	17	0	3	x u a n, C u a n, k u a n, s u a n, t u a n, Z u a n, l u a n, T u a n, K u a n, z u a n, p u a n, i u a n, r u a n, n u a n, S u a n, c 1 a n, u u a n, u a n, c a n, c u n	265366
+c u a N									0.000	0	0	0.0		0		0	0.000		12	10	0	2	Z u a N, C u a N, S u a N, k u a N, K u a N, x u a N, i u a N, y u a N, c u a n, u u a N, u a N, c a N	55569
+C u a n									0.000	0	0	0.0		0		0	0.000		30	19	8	3	x u a n, k u a n, s u a n, t u a n, C u a N, Z u a n, l u a n, T u a n, K u a n, z u a n, p u a n, i u a n, r u a n, n u a n, S u a n, C u a I, c u a n, u u a n, C a a n, C u p a n, i C u a n, C u f a n, C u a n u, C u a n i, y C u a n, C u Z a n, C u C a n, u a n, C u n, C a n	255561
+C u a N									0.000	0	0	0.0		0		0	0.000		16	10	4	2	C u a n, Z u a N, S u a N, k u a N, K u a N, x u a N, i u a N, y u a N, C u a I, u u a N, C u f a N, C u a N i, C u C a N, C u x a N, C a N, u a N	87781
+c u e I									0.000	0	0	0.0		0		0	0.000		14	13	0	1	x u e I, t u e I, z u e I, i u e I, S u e I, s u e I, T u e I, k u e I, Z u e I, C u e I, r u e I, K u e I, u u e I, u e I	661046
+C u e I									0.000	0	0	0.0		0		0	0.000		18	14	3	1	x u e I, t u e I, z u e I, i u e I, S u e I, s u e I, T u e I, k u e I, Z u e I, r u e I, c u e I, K u e I, u u e I, C u a I, C u f e I, C @ u e I, C u p e I, u e I	664340
+c u n									0.000	0	0	0.0		0		0	0.000		16	14	1	1	c u o, x u n, t u n, k u n, C u n, l u n, Z u n, c a n, K u n, T u n, S u n, z u n, s u n, r u n, c u a n, c u	67603
+c u N									0.000	0	0	0.0		0		0	0.000		6	5	0	1	c o N, c u o, c a N, c u n, c @ N, c u	92970
+C u n									0.000	0	0	0.0		0		0	0.000		24	17	6	1	x u n, t u n, k u n, l u n, Z u n, C u y, c u n, K u n, C @ n, C a n, T u n, S u n, C u o, z u n, s u n, r u n, C u i, C u a n, y C u n, C u n y, C u n a, C u n i, i C u n, C u	107830
+C u N									0.000	0	0	0.0		0		0	0.000		9	7	1	1	C a N, C @ N, C o N, C u n, C u y, C u o, C u i, C u a N, C u	116282
+c u o									0.000	0	0	0.0		0		0	0.000		21	18	1	2	S u o, x u o, z u o, k u o, Z u o, t u o, s u o, m u o, l u o, T u o, p u o, P u o, r u o, c u n, n u o, C u o, K u o, i u o, c u o u, u o, c u	2572121
+C u o									0.000	0	0	0.0		0		0	0.000		22	20	0	2	S u o, x u o, z u o, k u o, Z u o, t u o, c u o, s u o, m u o, l u o, T u o, p u o, P u o, C u n, C u y, r u o, n u o, K u o, C u i, i u o, u o, C u	2659488
+c y									0.000	0	0	0.0		0		0	0.000		14	12	1	1	Q y, c 1, J y, n y, X y, l y, c a, c @, c u, @ y, i y, y y, c 1 y, y	300826
+C y									0.000	0	0	0.0		0		0	0.000		14	12	1	1	Q y, C u, C 1, C @, J y, C a, n y, X y, l y, @ y, i y, y y, C u y, y	365148
+c y E									0.000	0	0	0.0		0		0	0.000		9	8	0	1	Q y E, X y E, J y E, y y E, l y E, n y E, u y E, i y E, y E	48224
+C y E									0.000	0	0	0.0		0		0	0.000		10	8	1	1	Q y E, X y E, J y E, y y E, l y E, n y E, u y E, i y E, C a y E, y E	48304
+c y E n									0.000	0	0	0.0		0		0	0.000		6	5	0	1	Q y E n, X y E n, i y E n, J y E n, u y E n, y E n	53449
+c y E N									0.000	0	0	0.0		0		0	0.000		0	0	0	0		0
+C y E n									0.000	0	0	0.0		0		0	0.000		7	5	1	1	Q y E n, X y E n, i y E n, J y E n, u y E n, C u y E n, y E n	53669
+C y E N									0.000	0	0	0.0		0		0	0.000		0	0	0	0		0
+c y n									0.000	0	0	0.0		0		0	0.000		8	7	0	1	Q y n, J y n, X y n, c a n, c u n, @ y n, u y n, y n	15448
+c y N									0.000	0	0	0.0		0		0	0.000		3	3	0	0	c o N, c a N, c @ N	54061
+C y n									0.000	0	0	0.0		0		0	0.000		9	8	0	1	C u n, Q y n, J y n, X y n, C @ n, C a n, @ y n, u y n, y n	18354
+C y N									0.000	0	0	0.0		0		0	0.000		3	3	0	0	C a N, C @ N, C o N	49502
+E									0.000	0	0	0.0		0		0	0.000		7	5	2	0	i, a, y, @, u, i E, y E	619889
+e I									0.000	0	0	0.0		0		0	0.000		13	1	12	0	a I, m e I, k e I, t e I, u e I, p e I, S e I, x e I, f e I, l e I, n e I, P e I, z e I	729042
+E n									0.000	0	0	0.0		0		0	0.000		6	4	2	0	@ n, a n, i n, y n, y E n, i E n	95087
+f @									0.000	0	0	0.0		0		0	0.000		20	17	2	1	t @, Z @, k @, n @, K @, C @, x @, f u, f a, S @, r @, T @, s @, l @, z @, c @, y @, f @ n, f @ N, @	2468274
+f @ n									0.000	0	0	0.0		0		0	0.000		20	16	3	1	x @ n, r @ n, Z @ n, k @ n, m @ n, u @ n, f @ N, S @ n, f a n, p @ n, K @ n, C @ n, z @ n, P @ n, s @ n, n @ n, i f @ n, u f @ n, f @ n @, @ n	751549
+f @ N									0.000	0	0	0.0		0		0	0.000		21	20	1	0	n @ N, t @ N, Z @ N, f a N, C @ N, S @ N, f @ n, r @ N, m @ N, z @ N, P @ N, T @ N, l @ N, c @ N, x @ N, p @ N, K @ N, k @ N, u @ N, s @ N, f @ N y	343913
+f @ r									0.000	0	0	0.0		0		0	0.000		5	4	0	1	f @ n, f @ N, y @ r, i @ r, @ r	84772
+f 1									0.000	0	0	0.0		0		0	0.000		9	9	0	0	S 1, Z 1, s 1, c 1, C 1, f u, z 1, f a, r 1	1418303
+f a									0.000	0	0	0.0		0		0	0.000		28	20	7	1	T a, p a, m a, n a, t a, S a, l a, f u, i a, C a, u a, P a, x a, z a, K a, Z a, s a, c a, a a, k a, f a N, f a n, u f a, f a y, f a i, i f a, y f a, a	1955323
+f a I									0.000	0	0	0.0		0		0	0.000		25	22	1	2	z a I, l a I, T a I, t a I, c a I, k a I, x a I, K a I, m a I, f a N, P a I, f a n, f e I, p a I, u a I, s a I, n a I, f a y, C a I, Z a I, f a i, S a I, f u a I, a I, f a	1095107
+f a n									0.000	0	0	0.0		0		0	0.000		30	23	5	2	K a n, t a n, u a n, f a N, p a n, T a n, s a n, n a n, f @ n, k a n, Z a n, S a n, m a n, l a n, x a n, P a n, c a n, C a n, z a n, r a n, f a y, f a i, i a n, u f a n, i f a n, f a a n, f a i n, f a n u, f a, a n	431924
+f a N									0.000	0	0	0.0		0		0	0.000		30	23	5	2	r a N, S a N, p a N, t a N, Z a N, C a N, u a N, f @ N, f a n, k a N, m a N, T a N, i a N, c a N, l a N, P a N, z a N, f a y, K a N, f a i, s a N, x a N, n a N, f a N y, f a N u, y f a N, u f a N, i f a N, f a, a N	482204
+f a r									0.000	0	0	0.0		0		0	0.000		6	4	1	1	f a N, f a n, f a y, f a i, f a r @, f a	50450
+f a U									0.000	0	0	0.0		0		0	0.000		25	23	0	2	x a U, i a U, t a U, Z a U, k a U, f a N, z a U, l a U, P a U, f a n, p a U, S a U, K a U, T a U, C a U, m a U, c a U, n a U, r a U, f a y, s a U, f a i, f o U, f a, a U	1044171
+f E									0.000	0	0	0.0		0		0	0.000		4	4	0	0	i E, y E, f u, f a	193586
+f e I									0.000	0	0	0.0		0		0	0.000		17	11	5	1	m e I, k e I, t e I, u e I, p e I, S e I, x e I, l e I, n e I, P e I, z e I, f e I u, a f e I, f e I y, u f e I, f e I @, e I	685909
+f E n									0.000	0	0	0.0		0		0	0.000		4	4	0	0	y E n, f @ n, f a n, i E n	63678
+f i									0.000	0	0	0.0		0		0	0.000		20	17	2	1	n i, l i, J i, Q i, p i, t i, f u, X i, T i, f a, m i, P i, i i, u i, a i, @ i, y i, f a i, f u i, i	1906103
+f i @									0.000	0	0	0.0		0		0	0.000		2	2	0	0	J i @, Q i @	512
+f i @ n									0.000	0	0	0.0		0		0	0.000		1	0	0	1	, f @ n	17104
+f i @ N									0.000	0	0	0.0		0		0	0.000		1	0	0	1	, f @ N	12619
+f i @ r									0.000	0	0	0.0		0		0	0.000		3	2	0	1	t i @ r, l i @ r, i @ r	6552
+f i a									0.000	0	0	0.0		0		0	0.000		9	6	1	2	X i a, J i a, Q i a, u i a, a i a, i i a, f a i a, i a, f a	130820
+f i a n									0.000	0	0	0.0		0		0	0.000		6	4	0	2	f a a n, T i a n, l i a n, X i a n, f a n, i a n	13215
+f i a N									0.000	0	0	0.0		0		0	0.000		11	7	2	2	X i a N, l i a N, J i a N, i i a N, Q i a N, n i a N, u i a N, f u i a N, f a i a N, f a N, i a N	466716
+f i a r									0.000	0	0	0.0		0		0	0.000		0	0	0	0		0
+f i a U									0.000	0	0	0.0		0		0	0.000		13	11	1	1	l i a U, J i a U, X i a U, T i a U, t i a U, Q i a U, m i a U, P i a U, n i a U, p i a U, i i a U, f u i a U, i a U	1399347
+f i E									0.000	0	0	0.0		0		0	0.000		13	11	1	1	p i E, X i E, J i E, Q i E, T i E, l i E, t i E, u i E, m i E, n i E, P i E, f u i E, i E	297322
+f i E n									0.000	0	0	0.0		0		0	0.000		16	13	2	1	Q i E n, t i E n, J i E n, T i E n, n i E n, X i E n, p i E n, l i E n, P i E n, m i E n, y i E n, i i E n, u i E n, f a i E n, f u i E n, i E n	438537
+f i n									0.000	0	0	0.0		0		0	0.000		14	11	2	1	X i n, J i n, n i n, f @ n, f a n, Q i n, P i n, l i n, m i n, p i n, y i n, f u i n, f a i n, i n	130256
+f i N									0.000	0	0	0.0		0		0	0.000		13	12	0	1	T i N, J i N, X i N, Q i N, p i N, f a N, l i N, m i N, t i N, f @ N, P i N, n i N, i N	333154
+f i o n									0.000	0	0	0.0		0		0	0.000		0	0	0	0		0
+f i o N									0.000	0	0	0.0		0		0	0.000		8	6	1	1	X i o N, Q i o N, u i o N, J i o N, i i o N, y i o N, f u i o N, i o N	58037
+f i o U									0.000	0	0	0.0		0		0	0.000		10	7	1	2	J i o U, Q i o U, l i o U, X i o U, t i o U, n i o U, m i o U, f u i o U, i o U, f o U	687994
+f o n									0.000	0	0	0.0		0		0	0.000		3	3	0	0	f @ n, f a n, f o U	29514
+f o N									0.000	0	0	0.0		0		0	0.000		17	17	0	0	Z o N, i o N, c o N, f a N, t o N, s o N, n o N, f @ N, T o N, z o N, C o N, k o N, K o N, x o N, l o N, r o N, f o U	290699
+f o U									0.000	0	0	0.0		0		0	0.000		18	16	1	1	i o U, t o U, z o U, S o U, k o U, x o U, T o U, Z o U, C o U, K o U, l o U, m o U, r o U, s o U, c o U, P o U, y f o U, o U	831120
+f u									0.000	0	0	0.0		0		0	0.000		26	20	5	1	p u, C u, Z u, S u, t u, f a, l u, K u, r u, z u, k u, T u, x u, m u, s u, P u, i u, n u, c u, u u, i f u, f u u, f u y, f u i, y f u, u	933123
+f u a									0.000	0	0	0.0		0		0	0.000		15	8	4	3	x u a, Z u a, k u a, f u u, S u a, K u a, f u y, f u i, f u z a, f u f a, f u C a, f u a I, f u, u a, f a	120178
+f u a I									0.000	0	0	0.0		0		0	0.000		16	10	5	1	K u a I, x u a I, k u a I, S u a I, i u a I, @ u a I, Z u a I, z u a I, C u a I, m u a I, f u p a I, f u k a I, f u t a I, f u Z a I, f u s a I, u a I	91373
+f u a n									0.000	0	0	0.0		0		0	0.000		26	20	4	2	x u a n, C u a n, k u a n, s u a n, t u a n, Z u a n, l u a n, T u a n, K u a n, z u a n, p u a n, i u a n, r u a n, n u a n, S u a n, f a a n, f u i n, c u a n, u u a n, f u a I, f u t a n, f u l a n, f u S a n, f u K a n, u a n, f a n	275055
+f u a N									0.000	0	0	0.0		0		0	0.000		16	10	4	2	Z u a N, C u a N, S u a N, k u a N, K u a N, x u a N, i u a N, y u a N, u u a N, f u a I, f u i a N, f u Z a N, f u S a N, f a u a N, f a N, u a N	76213
+f u e I									0.000	0	0	0.0		0		0	0.000		22	15	5	2	x u e I, t u e I, z u e I, i u e I, S u e I, s u e I, T u e I, k u e I, Z u e I, C u e I, r u e I, c u e I, K u e I, u u e I, f u a I, f u k e I, f a u e I, f u f e I, f u u e I, f u p e I, u e I, f e I	672590
+f u n									0.000	0	0	0.0		0		0	0.000		21	18	2	1	f @ n, f a n, x u n, t u n, k u n, C u n, l u n, f u u, Z u n, c u n, K u n, T u n, S u n, f u y, z u n, f u i, s u n, r u n, f u n y, f u i n, f u	81176
+f u N									0.000	0	0	0.0		0		0	0.000		6	5	0	1	f a N, f @ N, f u u, f u y, f u i, f u	57931
+f u o									0.000	0	0	0.0		0		0	0.000		23	21	0	2	S u o, x u o, z u o, k u o, Z u o, t u o, c u o, s u o, m u o, l u o, T u o, p u o, P u o, f u u, r u o, n u o, f u y, C u o, f u i, K u o, i u o, u o, f u	2622753
+f y									0.000	0	0	0.0		0		0	0.000		13	10	2	1	Q y, J y, f u, f a, n y, X y, l y, @ y, i y, y y, f a y, f u y, y	271325
+f y E									0.000	0	0	0.0		0		0	0.000		10	8	1	1	Q y E, X y E, J y E, y y E, l y E, n y E, u y E, i y E, f u y E, y E	48276
+f y E n									0.000	0	0	0.0		0		0	0.000		8	5	2	1	Q y E n, X y E n, i y E n, J y E n, u y E n, f a y E n, f u y E n, y E n	54550
+f y E N									0.000	0	0	0.0		0		0	0.000		0	0	0	0		0
+f y n									0.000	0	0	0.0		0		0	0.000		8	7	0	1	f @ n, f a n, Q y n, J y n, X y n, @ y n, u y n, y n	40640
+f y N									0.000	0	0	0.0		0		0	0.000		2	2	0	0	f a N, f @ N	37207
+i									0.000	0	0	0.0		0		0	0.000		25	4	21	0	a, y, @, u, n i, i E, l i, J i, Q i, p i, t i, i a, X i, T i, i N, m i, P i, i n, i i, u i, i u, a i, i y, @ i, y i	2046087
+i i @									0.000	0	0	0.0		0		0	0.000		7	6	0	1	i k @, i K @, J i @, Q i @, i i a, i c @, i i	124095
+i i @ n									0.000	0	0	0.0		0		0	0.000		6	6	0	0	i f @ n, i Z @ n, i u @ n, i r @ n, i i E n, i S @ n	2416
+i i @ N									0.000	0	0	0.0		0		0	0.000		6	6	0	0	i i a N, i S @ N, i C @ N, i t @ N, i n @ N, i i o N	47235
+i i a n									0.000	0	0	0.0		0		0	0.000		17	15	0	2	i i a N, i p a n, i t a n, i x a n, i f a n, i r a n, i u a n, i C a n, i n a n, i i E n, T i a n, i i a U, l i a n, X i a n, i S a n, i a n, i i a	44080
+i i a N									0.000	0	0	0.0		0		0	0.000		23	15	6	2	X i a N, l i a N, J i a N, Q i a N, n i a N, i C a N, i u a N, i S a N, i l a N, i i a U, i P a N, i Z a N, i f a N, u i a N, i i o N, i X i a N, i l i a N, i N i a N, J i i a N, X i i a N, i n i a N, i a N, i i a	417090
+i i a r									0.000	0	0	0.0		0		0	0.000		3	2	0	1	i i a N, i i a U, i i a	29105
+i i a U									0.000	0	0	0.0		0		0	0.000		23	15	6	2	l i a U, J i a U, X i a U, i i a N, T i a U, t i a U, Q i a U, m i a U, P i a U, n i a U, p i a U, i K a U, i z a U, i Z a U, i t a U, p i i a U, i l i a U, T i i a U, i m i a U, i J i a U, i p i a U, i a U, i i a	1436075
+i i E									0.000	0	0	0.0		0		0	0.000		22	13	7	2	p i E, X i E, J i E, Q i E, T i E, l i E, t i E, u i E, m i E, n i E, P i E, i y E, i i a, i Q i E, i X i E, p i i E, i E i E, Q i i E, i i E n, i N i E, i E, i i	345574
+i i E n									0.000	0	0	0.0		0		0	0.000		26	13	12	1	Q i E n, t i E n, J i E n, T i E n, n i E n, X i E n, p i E n, l i E n, P i E n, i y E n, m i E n, y i E n, u i E n, i t i E n, i Q i E n, i p i E n, i J i E n, i m i E n, T i i E n, X i i E n, i X i E n, i n i E n, p i i E n, i l i E n, i N i E n, i E n	486487
+i i o n									0.000	0	0	0.0		0		0	0.000		2	2	0	0	i i E n, i i o N	240
+i i o N									0.000	0	0	0.0		0		0	0.000		14	9	4	1	i i a N, X i o N, i t o N, Q i o N, i k o N, i T o N, u i o N, J i o N, y i o N, l i i o N, i N i o N, i n i o N, Q i i o N, i o N	92437
+i i o U									0.000	0	0	0.0		0		0	0.000		23	13	9	1	J i o U, Q i o U, l i o U, i x o U, X i o U, t i o U, n i o U, i l o U, i i a U, i S o U, i T o U, m i o U, i i o N, l i i o U, Q i i o U, i l i o U, i n i o U, i J i o U, i N i o U, X i i o U, J i i o U, m i i o U, i o U	701757
+i u a									0.000	0	0	0.0		0		0	0.000		17	10	4	3	x u a, Z u a, k u a, S u a, K u a, i p a, i m a, i f a, i i a, i u o, i u a I, i u a n, i u a N, i x u a, i a, u a, i u	109105
+i u a I									0.000	0	0	0.0		0		0	0.000		25	21	3	1	K u a I, i u e I, x u a I, k u a I, S u a I, i l a I, i u a n, i u a N, i p a I, @ u a I, Z u a I, i t a I, z u a I, C u a I, i P a I, i z a I, i T a I, i m a I, i x a I, f u a I, m u a I, l i u a I, i K u a I, i E u a I, u a I	110495
+i u a n									0.000	0	0	0.0		0		0	0.000		35	27	6	2	x u a n, C u a n, k u a n, s u a n, t u a n, Z u a n, i p a n, l u a n, i u a I, i t a n, i x a n, T u a n, i f a n, K u a n, i r a n, z u a n, p u a n, i u a N, r u a n, i u @ n, n u a n, S u a n, i C a n, i n a n, c u a n, u u a n, i S a n, i E u a n, i C u a n, i k u a n, i t u a n, J i u a n, i u a n u, u a n, i a n	280607
+i u a N									0.000	0	0	0.0		0		0	0.000		25	17	6	2	i i a N, Z u a N, C u a N, S u a N, k u a N, i u a I, K u a N, x u a N, i C a N, i u a n, y u a N, i S a N, i l a N, i P a N, i Z a N, i f a N, u u a N, X i u a N, Q i u a N, i S u a N, t i u a N, m i u a N, i Z u a N, u a N, i a N	120093
+i u e I									0.000	0	0	0.0		0		0	0.000		28	17	10	1	x u e I, t u e I, z u e I, S u e I, s u e I, T u e I, k u e I, i u a I, Z u e I, C u e I, r u e I, c u e I, K u e I, u u e I, i n e I, i p e I, i l e I, i n u e I, i x u e I, t i u e I, Q i u e I, i k u e I, i t u e I, X i u e I, J i u e I, i s u e I, T i u e I, u e I	711059
+i u o									0.000	0	0	0.0		0		0	0.000		22	17	3	2	S u o, x u o, z u o, k u o, Z u o, t u o, c u o, s u o, m u o, l u o, T u o, p u o, P u o, r u o, n u o, C u o, K u o, i x u o, i Z u o, i k u o, u o, i u	2603386
+i y E									0.000	0	0	0.0		0		0	0.000		16	7	6	3	Q y E, X y E, J y E, y y E, l y E, n y E, u y E, i y E n, i n y E, i X y E, m i y E, Q i y E, X i y E, i E, y E, i y	204281
+i y E n									0.000	0	0	0.0		0		0	0.000		13	5	5	3	Q y E n, X y E n, J y E n, i i E n, u y E n, J i y E n, Q i y E n, X i y E n, i N y E n, i n y E n, y E n, i E n, i y E	59311
+i y E N									0.000	0	0	0.0		0		0	0.000		2	1	0	1	i y E n, i y E	7148
+i @									0.000	0	0	0.0		0		0	0.000		30	22	6	2	t @, Z @, k @, i E, n @, K @, C @, x @, i a, i N, i n, S @, i i, r @, T @, s @, l @, z @, c @, i u, i y, y @, i k @, i K @, J i @, Q i @, i @ r, i c @, i, @	2949375
+i @ n									0.000	0	0	0.0		0		0	0.000		25	18	5	2	x @ n, r @ n, Z @ n, k @ n, m @ n, u @ n, f @ n, S @ n, p @ n, i E n, K @ n, C @ n, z @ n, P @ n, s @ n, i a n, n @ n, i @ r, i f @ n, i Z @ n, i u @ n, i r @ n, i S @ n, @ n, i n	765083
+i @ N									0.000	0	0	0.0		0		0	0.000		27	22	4	1	n @ N, i o N, t @ N, Z @ N, C @ N, S @ N, f @ N, i a N, r @ N, m @ N, z @ N, P @ N, T @ N, l @ N, c @ N, x @ N, p @ N, K @ N, k @ N, u @ N, i @ r, s @ N, i S @ N, i C @ N, i t @ N, i n @ N, i N	407698
+i @ r									0.000	0	0	0.0		0		0	0.000		6	1	4	1	y @ r, t i @ r, i N @ r, l i @ r, i n @ r, @ r	62955
+i 1									0.000	0	0	0.0		0		0	0.000		21	14	6	1	S 1, i E, Z 1, s 1, c 1, C 1, i a, i N, z 1, i n, i i, r 1, i u, i y, i Z 1, i s 1, i S 1, i z 1, i c 1, i r 1, i	1863850
+i a									0.000	0	0	0.0		0		0	0.000		40	25	13	2	T a, p a, m a, n a, i E, t a, S a, l a, i N, C a, u a, f a, i n, P a, x a, i i, z a, K a, Z a, s a, c a, i u, i y, a a, k a, i a U, X i a, J i a, i a N, i a i, Q i a, i p a, i m a, i a n, u i a, i f a, a i a, i i a, i, a	2689049
+i a I									0.000	0	0	0.0		0		0	0.000		34	21	11	2	z a I, i a U, l a I, T a I, t a I, c a I, k a I, x a I, K a I, m a I, P a I, i a N, p a I, u a I, s a I, n a I, C a I, i a i, Z a I, S a I, i a n, i u a I, i l a I, i p a I, X i a I, i t a I, i P a I, i z a I, i T a I, i m a I, i x a I, n i a I, a I, i a	1355269
+i a n									0.000	0	0	0.0		0		0	0.000		39	23	13	3	i a U, K a n, t a n, u a n, p a n, T a n, s a n, n a n, k a n, Z a n, f a n, i E n, S a n, m a n, i a N, l a n, x a n, P a n, c a n, C a n, z a n, r a n, i a i, i p a n, i t a n, i x a n, i f a n, i r a n, i u a n, i C a n, i n a n, T i a n, i a y n, l i a n, X i a n, i S a n, i a, a n, i n	732951
+i a N									0.000	0	0	0.0		0		0	0.000		42	23	16	3	i a U, r a N, S a N, i o N, p a N, t a N, Z a N, f a N, C a N, u a N, k a N, m a N, T a N, c a N, l a N, P a N, z a N, K a N, i a i, s a N, x a N, i a n, n a N, X i a N, l i a N, J i a N, i i a N, Q i a N, n i a N, i C a N, i u a N, i S a N, i l a N, i a N y, i P a N, i Z a N, i f a N, u i a N, i a N i, i a, i N, a N	1269920
+i a r									0.000	0	0	0.0		0		0	0.000		6	5	0	1	i a U, i a N, i a i, i a n, i @ r, i a	313198
+i a U									0.000	0	0	0.0		0		0	0.000		40	21	17	2	x a U, i o U, t a U, Z a U, k a U, z a U, l a U, P a U, p a U, S a U, K a U, T a U, C a U, i a N, m a U, c a U, n a U, r a U, i a i, s a U, i a n, l i a U, J i a U, X i a U, T i a U, t i a U, Q i a U, m i a U, P i a U, n i a U, p i a U, i a U u, i K a U, i z a U, i i a U, i Z a U, i t a U, i a U i, i a, a U	2182383
+i E									0.000	0	0	0.0		0		0	0.000		23	7	15	1	y E, i a, i N, i n, i i, i u, i y, p i E, X i E, J i E, i E n, Q i E, T i E, l i E, t i E, u i E, m i E, n i E, i E y, i E u, P i E, i y E, i	468513
+i e I									0.000	0	0	0.0		0		0	0.000		17	12	4	1	m e I, k e I, t e I, u e I, p e I, S e I, x e I, f e I, l e I, n e I, P e I, z e I, i u e I, i n e I, i p e I, i l e I, e I	712546
+i E n									0.000	0	0	0.0		0		0	0.000		23	4	17	2	y E n, i E y, i E u, i a n, Q i E n, t i E n, J i E n, T i E n, n i E n, X i E n, p i E n, l i E n, P i E n, i y E n, m i E n, y i E n, i E n u, i E n i, i E n y, i i E n, u i E n, i E, i n	608130
+i i n									0.000	0	0	0.0		0		0	0.000		22	12	8	2	X i n, J i n, n i n, i E n, Q i n, P i n, l i n, m i n, p i n, y i n, i a n, i i a, X i i n, J i i n, i m i n, i X i n, i i E n, t i i n, Q i i n, i N i n, i n, i i	121209
+i i N									0.000	0	0	0.0		0		0	0.000		27	13	12	2	T i N, i o N, J i N, X i N, Q i N, p i N, l i N, m i N, t i N, i a N, P i N, n i N, i i a, i J i N, i i a N, i t i N, i n i N, i X i N, i E i N, l i i N, i l i N, i m i N, i p i N, i Q i N, i i o N, i N, i i	464510
+i n									0.000	0	0	0.0		0		0	0.000		22	9	12	1	i E, @ n, i a, i N, a n, i i, y n, i u, i y, X i n, J i n, n i n, i E n, Q i n, P i n, l i n, m i n, p i n, y i n, i a n, i n y, i	571234
+i N									0.000	0	0	0.0		0		0	0.000		22	7	14	1	i E, i a, i n, i i, i u, a N, i y, T i N, i o N, J i N, X i N, Q i N, p i N, l i N, m i N, t i N, i a N, P i N, i N y, n i N, i N u, i	752488
+i o n									0.000	0	0	0.0		0		0	0.000		5	4	0	1	i o U, i o N, i E n, i a n, i n	410794
+i o N									0.000	0	0	0.0		0		0	0.000		27	15	11	1	i o U, Z o N, c o N, t o N, s o N, n o N, T o N, z o N, C o N, i a N, k o N, K o N, x o N, l o N, r o N, X i o N, i t o N, i o N y, Q i o N, i k o N, i T o N, i o N i, u i o N, J i o N, i i o N, y i o N, i N	565111
+i o U									0.000	0	0	0.0		0		0	0.000		33	18	14	1	i a U, t o U, z o U, i o N, S o U, k o U, x o U, T o U, Z o U, C o U, K o U, l o U, m o U, r o U, s o U, c o U, f o U, P o U, J i o U, Q i o U, l i o U, i x o U, X i o U, t i o U, n i o U, i o U y, i o U i, i o U u, i l o U, i S o U, i T o U, m i o U, o U	1198021
+i u									0.000	0	0	0.0		0		0	0.000		45	25	18	2	p u, i E, C u, Z u, S u, f u, i a, i N, t u, l u, K u, r u, i n, z u, k u, T u, i i, x u, m u, s u, P u, n u, c u, i y, u u, i f u, l i u, i S u, t i u, i l u, i Z u, i E u, i C u, i T u, i x u, i k u, i N u, Q i u, p i u, i t u, i u o, m i u, i K u, i, u	1364819
+i u n									0.000	0	0	0.0		0		0	0.000		25	16	7	2	i E n, x u n, t u n, k u n, C u n, l u n, Z u n, c u n, K u n, T u n, S u n, z u n, i a n, s u n, r u n, i u o, i u a n, i u @ n, i x u n, i l u n, i S u n, i t u n, i C u n, i n, i u	52905
+i u N									0.000	0	0	0.0		0		0	0.000		6	3	1	2	i o N, i a N, i u o, i u a N, i N, i u	76244
+i y									0.000	0	0	0.0		0		0	0.000		29	13	14	2	Q y, i E, J y, i a, i N, n y, i n, X y, i i, l y, i u, @ y, y y, t i y, i N y, J i y, T i y, i E y, Q i y, i J y, p i y, i n y, l i y, i l y, i y E, m i y, X i y, i, y	668231
+i y n									0.000	0	0	0.0		0		0	0.000		14	8	3	3	i E n, Q y n, J y n, X y n, i a n, @ y n, i y E, u y n, i y E n, i a y n, p i y n, i n, y n, i y	39099
+i y N									0.000	0	0	0.0		0		0	0.000		5	3	0	2	i o N, i a N, i y E, i N, i y	75013
+J @									0.000	0	0	0.0		0		0	0.000		20	17	2	1	t @, Z @, k @, n @, J i, K @, C @, x @, J y, S @, r @, T @, s @, l @, z @, c @, y @, J i @, J y @, @	2490320
+J @ n									0.000	0	0	0.0		0		0	0.000		18	17	0	1	x @ n, r @ n, Z @ n, k @ n, m @ n, J i n, u @ n, f @ n, S @ n, p @ n, J y n, K @ n, C @ n, z @ n, P @ n, s @ n, n @ n, @ n	778407
+J @ N									0.000	0	0	0.0		0		0	0.000		20	20	0	0	n @ N, J i N, t @ N, Z @ N, C @ N, S @ N, f @ N, r @ N, m @ N, z @ N, P @ N, T @ N, l @ N, c @ N, x @ N, p @ N, K @ N, k @ N, u @ N, s @ N	358825
+J @ r									0.000	0	0	0.0		0		0	0.000		3	2	0	1	y @ r, i @ r, @ r	55049
+J a									0.000	0	0	0.0		0		0	0.000		24	22	1	1	T a, p a, m a, n a, t a, J i, S a, l a, J y, i a, C a, u a, f a, P a, x a, z a, K a, Z a, s a, c a, a a, k a, J i a, a	2026870
+J a I									0.000	0	0	0.0		0		0	0.000		18	17	0	1	z a I, l a I, T a I, t a I, c a I, k a I, x a I, K a I, m a I, P a I, p a I, u a I, s a I, n a I, C a I, Z a I, S a I, a I	1034822
+J a n									0.000	0	0	0.0		0		0	0.000		23	22	0	1	K a n, t a n, u a n, J i n, p a n, T a n, s a n, n a n, k a n, Z a n, f a n, S a n, m a n, l a n, x a n, P a n, J y n, c a n, C a n, z a n, r a n, i a n, a n	421363
+J a N									0.000	0	0	0.0		0		0	0.000		23	21	1	1	r a N, S a N, p a N, J i N, t a N, Z a N, f a N, C a N, u a N, k a N, m a N, T a N, i a N, c a N, l a N, P a N, z a N, K a N, s a N, x a N, n a N, J i a N, a N	546418
+J a r									0.000	0	0	0.0		0		0	0.000		0	0	0	0		0
+J a U									0.000	0	0	0.0		0		0	0.000		20	18	1	1	x a U, i a U, t a U, Z a U, k a U, z a U, l a U, P a U, p a U, S a U, K a U, T a U, C a U, m a U, c a U, n a U, r a U, s a U, J i a U, a U	1045519
+J E									0.000	0	0	0.0		0		0	0.000		6	4	2	0	i E, J i, y E, J y, J i E, J y E	275836
+J e I									0.000	0	0	0.0		0		0	0.000		13	12	0	1	m e I, k e I, t e I, u e I, p e I, S e I, x e I, f e I, l e I, n e I, P e I, z e I, e I	694810
+J E n									0.000	0	0	0.0		0		0	0.000		6	4	2	0	J i n, y E n, i E n, J y n, J i E n, J y E n	137072
+J i									0.000	0	0	0.0		0		0	0.000		26	15	10	1	n i, l i, Q i, p i, t i, J y, X i, T i, m i, P i, i i, u i, a i, @ i, y i, J i N, J i a, J i n, J i E, i J i, J i i, J i y, y J i, J i @, u J i, i	1988396
+J i @									0.000	0	0	0.0		0		0	0.000		17	8	8	1	J i N, J i a, J i n, J i E, J i i, J i y, Q i @, J y @, J i t @, J i l @, J i Z @, J i x @, J i K @, J i k @, J i n @, J i C @, J i	236519
+J i @ n									0.000	0	0	0.0		0		0	0.000		11	2	7	2	J i E n, J i i n, J i p @ n, J i f @ n, J i Z @ n, J i S @ n, J i r @ n, J i x @ n, J i C @ n, J i n, J i @	100721
+J i @ N									0.000	0	0	0.0		0		0	0.000		9	2	5	2	J i a N, J i o N, J i C @ N, J i n @ N, J i f @ N, J i S @ N, J i Z @ N, J i N, J i @	80432
+J i @ r									0.000	0	0	0.0		0		0	0.000		5	2	1	2	t i @ r, l i @ r, J i n @ r, J i @, i @ r	7110
+J i a									0.000	0	0	0.0		0		0	0.000		24	11	11	2	X i a, J i N, J i n, J i E, J i i, J i y, Q i a, J i @, u i a, a i a, i i a, J i a U, J i a N, J i T a, i J i a, J i t a, J i f a, J i a u, J i i a, J i a y, J i a i, u J i a, J i, i a	336212
+J i a n									0.000	0	0	0.0		0		0	0.000		22	10	9	3	J i E n, J i a U, J i a N, J i i n, T i a n, J i a u, l i a n, J i a y, J i a i, X i a n, J i r a n, J i t a n, J i E a n, J i a n a, J i m a n, J i T a n, J i p a n, J i Z a n, J i u a n, J i a, J i n, i a n	233427
+J i a N									0.000	0	0	0.0		0		0	0.000		22	11	8	3	X i a N, l i a N, J i a U, i i a N, Q i a N, n i a N, J i a u, J i a y, J i a i, J i o N, u i a N, J i C a N, J i Z a N, J i S a N, J i i a N, J i c a N, J i T a N, J i f a N, J i a N y, J i N, J i a, i a N	548222
+J i a r									0.000	0	0	0.0		0		0	0.000		9	5	3	1	J i a U, J i a N, J i a u, J i a y, J i a i, J i a r u, J i a r 1, J i a r @, J i a	134884
+J i a U									0.000	0	0	0.0		0		0	0.000		24	15	7	2	l i a U, J i o U, X i a U, J i a N, T i a U, t i a U, Q i a U, m i a U, P i a U, n i a U, p i a U, J i a u, i i a U, J i a y, J i a i, J i a U i, J i a U y, J i x a U, i J i a U, J i t a U, J i z a U, u J i a U, i a U, J i a	1731718
+J i E									0.000	0	0	0.0		0		0	0.000		23	17	4	2	p i E, X i E, J i N, J i a, J i n, Q i E, J y E, J i i, T i E, l i E, t i E, J i y, u i E, m i E, n i E, J i @, P i E, J i E n, J i E i, u J i E, J i E y, i E, J i	526495
+J i E n									0.000	0	0	0.0		0		0	0.000		27	16	8	3	Q i E n, t i E n, T i E n, n i E n, X i E n, p i E n, l i E n, P i E n, m i E n, J i E i, J y E n, y i E n, J i i n, i i E n, u i E n, J i E y, J i E n y, J i E n i, i J i E n, y J i E n, J i E a n, J i y E n, J i E n a, u J i E n, J i n, J i E, i E n	455455
+J i n									0.000	0	0	0.0		0		0	0.000		24	15	7	2	J i N, J i a, X i n, J i E, n i n, Q i n, J y n, J i i, P i n, l i n, J i y, m i n, p i n, y i n, J i @, J i E n, J i n y, J i i n, J i n u, u J i n, J i n @, y J i n, J i, i n	318434
+J i N									0.000	0	0	0.0		0		0	0.000		24	15	7	2	T i N, J i a, X i N, Q i N, J i n, J i E, p i N, l i N, m i N, t i N, P i N, J i i, J i y, n i N, J i @, i J i N, J i a N, J i N i, J i N y, y J i N, J i N u, J i o N, J i, i N	509295
+J i o n									0.000	0	0	0.0		0		0	0.000		5	4	0	1	J i o U, J i E n, J i i n, J i o N, J i n	399668
+J i o N									0.000	0	0	0.0		0		0	0.000		12	7	3	2	J i o U, J i a N, X i o N, Q i o N, u i o N, i i o N, y i o N, J i Z o N, J i t o N, J i k o N, i o N, J i N	442420
+J i o U									0.000	0	0	0.0		0		0	0.000		20	8	11	1	J i a U, Q i o U, l i o U, X i o U, t i o U, n i o U, m i o U, J i o N, J i r o U, J i k o U, J y i o U, J i S o U, i J i o U, J i i o U, J i m o U, J i o U i, J i C o U, J i Z o U, J i T o U, i o U	441815
+J o n									0.000	0	0	0.0		0		0	0.000		2	2	0	0	J i n, J y n	35700
+J o N									0.000	0	0	0.0		0		0	0.000		16	15	1	0	Z o N, i o N, c o N, J i N, t o N, s o N, n o N, T o N, z o N, C o N, k o N, K o N, x o N, l o N, r o N, J i o N	297418
+J o U									0.000	0	0	0.0		0		0	0.000		19	17	1	1	i o U, t o U, z o U, S o U, k o U, x o U, T o U, Z o U, C o U, K o U, l o U, m o U, r o U, s o U, c o U, f o U, P o U, J i o U, o U	1132193
+J u									0.000	0	0	0.0		0		0	0.000		23	22	0	1	p u, J i, C u, Z u, S u, J y, f u, t u, l u, K u, r u, z u, k u, T u, x u, m u, s u, P u, i u, n u, c u, u u, u	1008050
+J u a									0.000	0	0	0.0		0		0	0.000		7	6	0	1	x u a, J i a, Z u a, k u a, S u a, K u a, u a	128290
+J u a I									0.000	0	0	0.0		0		0	0.000		12	11	0	1	K u a I, x u a I, k u a I, S u a I, i u a I, @ u a I, Z u a I, z u a I, C u a I, f u a I, m u a I, u a I	90821
+k o U									0.000	0	0	0.0		0		0	0.000		21	18	2	1	i o U, t o U, z o U, S o U, k a U, x o U, T o U, Z o U, C o U, k o N, K o U, l o U, m o U, r o U, s o U, c o U, f o U, P o U, k o U u, y k o U, o U	839169
+K o U									0.000	0	0	0.0		0		0	0.000		20	18	1	1	i o U, t o U, z o U, S o U, k o U, x o U, T o U, Z o U, K a U, C o U, l o U, K o N, m o U, r o U, s o U, c o U, f o U, P o U, K o U u, o U	838870
+k u									0.000	0	0	0.0		0		0	0.000		30	21	8	1	p u, k @, C u, Z u, S u, f u, t u, l u, K u, r u, z u, T u, x u, m u, s u, P u, i u, n u, c u, k a, u u, k u o, k u a, k u n, k u i, u k u, k u u, k @ u, i k u, u	1236266
+K u									0.000	0	0	0.0		0		0	0.000		27	21	5	1	p u, K @, C u, Z u, S u, f u, t u, l u, r u, z u, k u, T u, x u, K a, m u, s u, P u, i u, n u, c u, u u, K u n, K u a, K @ u, K u o, i K u, u	984445
+k u a									0.000	0	0	0.0		0		0	0.000		16	8	5	3	k u o, x u a, Z u a, k u n, S u a, k u i, K u a, k u u, k u a n, k u a I, k u a N, k u p a, k u m a, u a, k u, k a	237078
+K u a									0.000	0	0	0.0		0		0	0.000		13	6	4	3	x u a, Z u a, k u a, S u a, K u n, K u o, K u a I, K u a N, K u a n, K u C a, u a, K u, K a	166935
+k u a I									0.000	0	0	0.0		0		0	0.000		21	13	5	3	K u a I, k u a n, x u a I, k u e I, k u a N, S u a I, i u a I, @ u a I, Z u a I, z u a I, C u a I, f u a I, m u a I, k u a I u, k u a I i, k u t a I, k @ u a I, k u P a I, k a I, k u a, u a I	159496
+K u a I									0.000	0	0	0.0		0		0	0.000		21	14	4	3	x u a I, k u a I, K @ a I, S u a I, i u a I, K u a N, K u a n, @ u a I, Z u a I, K u e I, z u a I, C u a I, f u a I, m u a I, y K u a I, i K u a I, K @ u a I, K u x a I, K a I, u a I, K u a	68737
+k u a n									0.000	0	0	0.0		0		0	0.000		29	19	6	4	x u a n, C u a n, s u a n, t u a n, Z u a n, k u a I, k u a N, l u a n, T u a n, K u a n, z u a n, p u a n, i u a n, r u a n, n u a n, S u a n, c u a n, u u a n, k @ a n, k u a n y, u k u a n, k u t a n, i k u a n, k u o a n, k u p a n, u a n, k a n, k u a, k u n	291372
+k u a N									0.000	0	0	0.0		0		0	0.000		15	10	2	3	k u a n, Z u a N, C u a N, k u a I, S u a N, K u a N, x u a N, i u a N, y u a N, u u a N, k u Z a N, k u c a N, u a N, k a N, k u a	88275
+K u a n									0.000	0	0	0.0		0		0	0.000		25	18	3	4	x u a n, K u a I, C u a n, k u a n, s u a n, t u a n, Z u a n, l u a n, K u a N, T u a n, z u a n, p u a n, i u a n, r u a n, n u a n, S u a n, c u a n, u u a n, K u n a n, K u x a n, K u a n i, K a n, u a n, K u n, K u a	432795
+K u a N									0.000	0	0	0.0		0		0	0.000		17	10	4	3	K u a I, Z u a N, C u a N, S u a N, k u a N, x u a N, K u a n, i u a N, y u a N, u u a N, K @ u a N, K u t a N, K u f a N, K u a N u, u a N, K u a, K a N	115279
+k u e I									0.000	0	0	0.0		0		0	0.000		22	14	6	2	x u e I, t u e I, z u e I, i u e I, S u e I, s u e I, T u e I, k u a I, Z u e I, C u e I, r u e I, c u e I, K u e I, u u e I, k @ u e I, k u e I i, i k u e I, u k u e I, k u e I y, @ k u e I, k e I, u e I	782878
+k u n									0.000	0	0	0.0		0		0	0.000		21	18	2	1	k u o, k @ n, k a n, x u n, k u a, t u n, C u n, l u n, Z u n, c u n, K u n, k u i, T u n, S u n, z u n, k u u, s u n, r u n, k u a n, @ k u n, k u	253815
+k u N									0.000	0	0	0.0		0		0	0.000		10	8	1	1	k u o, k a N, k o N, k u a, k u n, k u i, k u u, k @ N, k u a N, k u	153098
+K u n									0.000	0	0	0.0		0		0	0.000		18	16	1	1	K a n, x u n, t u n, k u n, C u n, l u n, K @ n, Z u n, c u n, K u a, T u n, S u n, z u n, s u n, r u n, K u o, K u a n, K u	147486
+K u N									0.000	0	0	0.0		0		0	0.000		8	6	1	1	K o N, K u n, K u a, K a N, K @ N, K u o, K u a N, K u	21240
+k u o									0.000	0	0	0.0		0		0	0.000		26	21	3	2	S u o, x u o, z u o, Z u o, t u o, c u o, s u o, m u o, l u o, T u o, p u o, k u a, P u o, k u n, r u o, k u i, n u o, C u o, k u u, K u o, i u o, @ k u o, k u o y, i k u o, u o, k u	2505843
+K u o									0.000	0	0	0.0		0		0	0.000		21	19	0	2	S u o, x u o, z u o, k u o, Z u o, t u o, c u o, s u o, m u o, l u o, T u o, p u o, P u o, r u o, K u n, n u o, K u a, C u o, i u o, u o, K u	2615239
+k y									0.000	0	0	0.0		0		0	0.000		12	11	0	1	k @, Q y, J y, n y, k u, X y, l y, @ y, i y, k a, y y, y	433505
+K y									0.000	0	0	0.0		0		0	0.000		12	11	0	1	Q y, K @, J y, K u, n y, X y, K a, l y, @ y, i y, y y, y	314934
+k y E									0.000	0	0	0.0		0		0	0.000		9	8	0	1	Q y E, X y E, J y E, y y E, l y E, n y E, u y E, i y E, y E	48224
+K y E									0.000	0	0	0.0		0		0	0.000		9	8	0	1	Q y E, X y E, J y E, y y E, l y E, n y E, u y E, i y E, y E	48224
+k y E n									0.000	0	0	0.0		0		0	0.000		7	5	1	1	Q y E n, X y E n, i y E n, J y E n, u y E n, k u y E n, y E n	53881
+k y E N									0.000	0	0	0.0		0		0	0.000		0	0	0	0		0
+K y E n									0.000	0	0	0.0		0		0	0.000		6	5	0	1	Q y E n, X y E n, i y E n, J y E n, u y E n, y E n	53449
+K y E N									0.000	0	0	0.0		0		0	0.000		0	0	0	0		0
+k y n									0.000	0	0	0.0		0		0	0.000		9	8	0	1	k @ n, k a n, k u n, Q y n, J y n, X y n, @ y n, u y n, y n	98027
+k y N									0.000	0	0	0.0		0		0	0.000		3	3	0	0	k a N, k o N, k @ N	17503
+K y n									0.000	0	0	0.0		0		0	0.000		9	8	0	1	K a n, Q y n, J y n, K @ n, X y n, K u n, @ y n, u y n, y n	119799
+K y N									0.000	0	0	0.0		0		0	0.000		3	3	0	0	K o N, K a N, K @ N	5451
+l @									0.000	0	0	0.0		0		0	0.000		23	18	4	1	t @, Z @, k @, l i, n @, K @, C @, l a, x @, l u, S @, r @, T @, s @, l y, z @, c @, y @, l @ N, l @ i, y l @, l @ y, @	2528610
+l @ n									0.000	0	0	0.0		0		0	0.000		24	21	1	2	x @ n, r @ n, Z @ n, k @ n, m @ n, u @ n, f @ n, S @ n, p @ n, l a n, l u n, l @ N, K @ n, C @ n, l @ i, l i n, z @ n, P @ n, s @ n, n @ n, l @ y, l @ a n, @ n, l @	761995
+l @ N									0.000	0	0	0.0		0		0	0.000		24	23	0	1	n @ N, t @ N, Z @ N, l i N, C @ N, S @ N, f @ N, r @ N, m @ N, z @ N, P @ N, T @ N, l a N, l o N, c @ N, l @ i, x @ N, p @ N, K @ N, l @ y, k @ N, u @ N, s @ N, l @	340846
+l @ r									0.000	0	0	0.0		0		0	0.000		8	5	1	2	l @ N, l @ i, y @ r, l @ y, i @ r, l i @ r, @ r, l @	62140
+l a									0.000	0	0	0.0		0		0	0.000		30	23	6	1	T a, p a, m a, n a, t a, l i, S a, i a, C a, u a, f a, l u, P a, x a, z a, K a, Z a, s a, l @, l y, c a, a a, k a, l a I, l a U, l a n, l a N, a l a, u l a, a	2191848
+l a I									0.000	0	0	0.0		0		0	0.000		25	20	3	2	z a I, T a I, t a I, c a I, k a I, x a I, K a I, m a I, l a U, P a I, l e I, l a n, p a I, u a I, l a N, s a I, n a I, C a I, Z a I, S a I, i l a I, u l a I, l a I i, a I, l a	911487
+l a n									0.000	0	0	0.0		0		0	0.000		29	24	3	2	l a I, K a n, t a n, u a n, p a n, l a U, T a n, s a n, n a n, k a n, Z a n, f a n, S a n, m a n, x a n, l u n, P a n, l a N, c a n, l i n, C a n, z a n, r a n, i a n, l u a n, l i a n, l @ a n, l a, a n	620031
+l a N									0.000	0	0	0.0		0		0	0.000		29	25	2	2	l a I, r a N, S a N, p a N, t a N, Z a N, f a N, C a N, l i N, l a U, u a N, k a N, m a N, T a N, i a N, l a n, c a N, l @ N, P a N, l o N, z a N, K a N, s a N, x a N, n a N, l i a N, i l a N, l a, a N	780138
+l a r									0.000	0	0	0.0		0		0	0.000		5	4	0	1	l a I, l a U, l a n, l a N, l a	239661
+l a U									0.000	0	0	0.0		0		0	0.000		26	21	3	2	x a U, i a U, l a I, t a U, Z a U, k a U, z a U, P a U, p a U, S a U, K a U, T a U, C a U, l a n, m a U, l o U, c a U, n a U, l a N, r a U, s a U, l i a U, l a U y, l a U u, l a, a U	2149478
+l E									0.000	0	0	0.0		0		0	0.000		9	7	2	0	i E, l i, l a, y E, l u, l @, l y, l i E, l y E	285860
+l e I									0.000	0	0	0.0		0		0	0.000		15	12	2	1	l a I, m e I, k e I, t e I, u e I, p e I, S e I, x e I, f e I, n e I, P e I, z e I, y l e I, i l e I, e I	873374
+l E n									0.000	0	0	0.0		0		0	0.000		6	5	1	0	y E n, i E n, l a n, l u n, l i n, l i E n	62513
+l i @									0.000	0	0	0.0		0		0	0.000		12	8	2	2	l i N, l i u, l i E, l i n, l i i, J i @, Q i @, l i y, l i K @, l i @ r, l i, l @	112764
+l i @ n									0.000	0	0	0.0		0		0	0.000		5	3	1	1	l i E n, l i a n, l i @ r, l i r @ n, l i n	17853
+l i @ N									0.000	0	0	0.0		0		0	0.000		8	3	3	2	l i a N, l i i N, l i @ r, l i Z @ N, l i C @ N, l i S @ N, l i N, l @ N	76944
+l i @ r									0.000	0	0	0.0		0		0	0.000		2	1	0	1	t i @ r, i @ r	6439
+l i a									0.000	0	0	0.0		0		0	0.000		22	12	7	3	X i a, J i a, l i N, l i u, l i E, l i n, l i i, Q i a, u i a, l i y, a i a, i i a, l i a U, l i a N, l i m a, l i f a, l i a n, l i l a, l i p a, l i, l a, i a	1254420
+l i a n									0.000	0	0	0.0		0		0	0.000		10	7	0	3	l i a U, l i a N, l i E n, l u a n, T i a n, X i a n, l @ a n, l a n, l i n, i a n	1032530
+l i a N									0.000	0	0	0.0		0		0	0.000		17	9	5	3	l i a U, X i a N, J i a N, i i a N, Q i a N, n i a N, l i a n, l i i N, u i a N, i l i a N, l i C a N, l i T a N, l i a N i, l i f a N, l i N, i a N, l a N	1359914
+l i a r									0.000	0	0	0.0		0		0	0.000		4	4	0	0	l i a U, l i a N, l i a n, l i @ r	1004130
+l i a U									0.000	0	0	0.0		0		0	0.000		19	13	4	2	l i a N, J i a U, X i a U, T i a U, t i a U, l i o U, Q i a U, m i a U, P i a U, n i a U, p i a U, i i a U, l i a n, u l i a U, i l i a U, l i m a U, y l i a U, i a U, l a U	544604
+l i E									0.000	0	0	0.0		0		0	0.000		22	16	4	2	p i E, X i E, J i E, l i N, l i u, Q i E, T i E, l i n, t i E, u i E, l i i, m i E, n i E, l y E, P i E, l i y, l i E n, l i E u, @ l i E, l y i E, i E, l i	417811
+l i E n									0.000	0	0	0.0		0		0	0.000		20	14	3	3	Q i E n, t i E n, J i E n, T i E n, n i E n, X i E n, p i E n, P i E n, m i E n, y i E n, l i E u, i i E n, u i E n, l i a n, l i E n y, i l i E n, l i E n i, i E n, l i E, l i n	426093
+l i n									0.000	0	0	0.0		0		0	0.000		23	15	6	2	X i n, J i n, l i N, n i n, l a n, l i u, l u n, Q i n, P i n, l i E, l i i, m i n, p i n, y i n, l i y, l i E n, l u i n, l i n y, l i a n, y l i n, u l i n, l i, i n	231890
+l i N									0.000	0	0	0.0		0		0	0.000		25	17	6	2	T i N, J i N, X i N, Q i N, p i N, m i N, t i N, P i N, l i u, l a N, l @ N, l o N, l i E, l i n, l i i, n i N, l i y, l i a N, l i N y, l u i N, l i i N, l i N u, i l i N, l i, i N	427163
+S u n									0.000	0	0	0.0		0		0	0.000		23	19	3	1	S u o, S @ n, S a n, x u n, t u n, k u n, C u n, l u n, S u y, S u a, Z u n, c u n, K u n, T u n, z u n, s u n, r u n, S u @, S u i, S u a n, S u n y, i S u n, S u	303730
+S u N									0.000	0	0	0.0		0		0	0.000		11	8	2	1	S u o, S a N, S @ N, S u y, S u a, S u n, S u @, S u i, S u a N, S u i N, S u	397769
+s u o									0.000	0	0	0.0		0		0	0.000		24	20	2	2	S u o, x u o, z u o, k u o, Z u o, t u o, c u o, m u o, l u o, T u o, p u o, P u o, r u o, n u o, C u o, s u n, K u o, s u @, i u o, s u y, s u o i, y s u o, u o, s u	2617676
+S u o									0.000	0	0	0.0		0		0	0.000		24	22	0	2	x u o, z u o, k u o, Z u o, t u o, c u o, s u o, m u o, l u o, T u o, p u o, P u o, S u y, S u a, r u o, n u o, S u n, C u o, K u o, S u @, S u i, i u o, u o, S u	2401243
+s y									0.000	0	0	0.0		0		0	0.000		15	12	2	1	Q y, s 1, J y, n y, X y, s @, s a, l y, s u, @ y, i y, y y, s 1 y, s u y, y	310703
+S y									0.000	0	0	0.0		0		0	0.000		16	12	3	1	S 1, Q y, S a, S u, J y, n y, X y, S @, l y, @ y, i y, y y, S u y, S a y, S 1 y, y	1409619
+s y E									0.000	0	0	0.0		0		0	0.000		10	8	1	1	Q y E, X y E, J y E, y y E, l y E, n y E, u y E, i y E, s 1 y E, y E	48352
+S y E									0.000	0	0	0.0		0		0	0.000		10	8	1	1	Q y E, X y E, J y E, y y E, l y E, n y E, u y E, i y E, S 1 y E, y E	48385
+s y E n									0.000	0	0	0.0		0		0	0.000		8	5	2	1	Q y E n, X y E n, i y E n, J y E n, u y E n, s 1 y E n, s u y E n, y E n	53548
+s y E N									0.000	0	0	0.0		0		0	0.000		0	0	0	0		0
+S y E n									0.000	0	0	0.0		0		0	0.000		7	5	1	1	Q y E n, X y E n, i y E n, J y E n, u y E n, S u y E n, y E n	53628
+S y E N									0.000	0	0	0.0		0		0	0.000		0	0	0	0		0
+s y n									0.000	0	0	0.0		0		0	0.000		9	8	0	1	s a n, Q y n, J y n, X y n, s @ n, s u n, @ y n, u y n, y n	30256
+s y N									0.000	0	0	0.0		0		0	0.000		3	3	0	0	s o N, s a N, s @ N	14941
+S y n									0.000	0	0	0.0		0		0	0.000		9	8	0	1	S @ n, S a n, Q y n, J y n, X y n, S u n, @ y n, u y n, y n	33332
+S y N									0.000	0	0	0.0		0		0	0.000		2	2	0	0	S a N, S @ N	138624
+t @									0.000	0	0	0.0		0		0	0.000		22	17	4	1	Z @, k @, t a, n @, K @, t i, C @, x @, t u, S @, r @, T @, s @, l @, z @, c @, y @, t @ N, t @ i, t @ y, t a @, @	890318
+T @									0.000	0	0	0.0		0		0	0.000		21	17	3	1	t @, T a, Z @, k @, n @, K @, C @, x @, T i, T u, S @, r @, s @, l @, z @, c @, y @, T @ N, T @ i, T @ u, @	3097399
+t @ n									0.000	0	0	0.0		0		0	0.000		22	20	0	2	x @ n, r @ n, Z @ n, t a n, k @ n, m @ n, t @ N, u @ n, f @ n, S @ n, p @ n, t u n, K @ n, C @ n, z @ n, P @ n, s @ n, t @ i, t @ y, n @ n, t @, @ n	2545562
+t @ N									0.000	0	0	0.0		0		0	0.000		26	23	2	1	n @ N, t a N, Z @ N, t o N, C @ N, S @ N, t i N, f @ N, r @ N, m @ N, z @ N, P @ N, T @ N, l @ N, c @ N, x @ N, p @ N, t @ i, K @ N, t @ y, k @ N, u @ N, s @ N, t @ N y, i t @ N, t @	2030926
+T @ N									0.000	0	0	0.0		0		0	0.000		24	23	0	1	n @ N, T i N, t @ N, Z @ N, C @ N, S @ N, f @ N, T o N, T a N, r @ N, m @ N, z @ N, P @ N, l @ N, c @ N, x @ N, p @ N, K @ N, T @ i, k @ N, u @ N, T @ u, s @ N, T @	410756
+t @ r									0.000	0	0	0.0		0		0	0.000		8	5	1	2	t @ N, t @ i, t @ y, y @ r, i @ r, t i @ r, t @, @ r	1784576
+T @ r									0.000	0	0	0.0		0		0	0.000		7	5	0	2	T @ N, T @ i, y @ r, T @ u, i @ r, @ r, T @	62951
+t a									0.000	0	0	0.0		0		0	0.000		30	22	7	1	t @, T a, p a, m a, n a, t i, S a, l a, i a, C a, u a, t u, f a, P a, x a, z a, K a, Z a, s a, c a, a a, k a, t a U, t a n, t a I, t a N, t a i, t a y, t a @, a	3868550
+T a									0.000	0	0	0.0		0		0	0.000		27	22	4	1	p a, m a, n a, t a, S a, l a, i a, T i, C a, u a, f a, P a, T u, x a, T @, z a, K a, Z a, s a, c a, a a, k a, T a I, T a n, T a U, T a N, a	1363340
+t a I									0.000	0	0	0.0		0		0	0.000		27	23	2	2	z a I, l a I, t a U, t e I, t a n, T a I, c a I, k a I, t a N, x a I, K a I, m a I, P a I, p a I, u a I, s a I, n a I, C a I, Z a I, S a I, t a i, t a y, t a @, i t a I, t a I y, t a, a I	1434518
+T a I									0.000	0	0	0.0		0		0	0.000		23	19	2	2	z a I, l a I, t a I, c a I, k a I, x a I, K a I, m a I, T a n, P a I, T a U, T a N, p a I, u a I, s a I, n a I, C a I, Z a I, S a I, u T a I, i T a I, T a, a I	1671220
+t a n									0.000	0	0	0.0		0		0	0.000		34	26	6	2	t a U, K a n, t a I, u a n, t a N, p a n, T a n, s a n, n a n, k a n, Z a n, f a n, S a n, m a n, l a n, t u n, x a n, P a n, c a n, C a n, z a n, r a n, t a i, t a y, i a n, t a @, t u a n, i t a n, t a a n, t a n u, t a i n, t a n i, t a, a n	654305
+t a N									0.000	0	0	0.0		0		0	0.000		31	28	1	2	t a U, r a N, S a N, t a n, p a N, t a I, t @ N, Z a N, f a N, C a N, t o N, u a N, t i N, k a N, m a N, T a N, i a N, c a N, l a N, P a N, z a N, K a N, t a i, s a N, x a N, t a y, n a N, t a @, t a i N, t a, a N	876042
+T a n									0.000	0	0	0.0		0		0	0.000		29	23	4	2	K a n, t a n, T a I, u a n, p a n, s a n, n a n, k a n, Z a n, f a n, S a n, m a n, T a U, T a N, l a n, x a n, P a n, c a n, C a n, z a n, r a n, T u n, i a n, T u a n, T i a n, T a n u, T a n y, T a, a n	1127237
+T a N									0.000	0	0	0.0		0		0	0.000		28	25	1	2	r a N, S a N, T i N, T a I, p a N, t a N, Z a N, f a N, C a N, T a n, u a N, T o N, k a N, m a N, T a U, i a N, c a N, T @ N, l a N, P a N, z a N, K a N, s a N, x a N, n a N, T a N i, T a, a N	1316527
+t a r									0.000	0	0	0.0		0		0	0.000		9	7	1	1	t a U, t a n, t a I, t a N, t a i, t a y, t a @, t a r u, t a	397211
+T a r									0.000	0	0	0.0		0		0	0.000		5	4	0	1	T a I, T a n, T a U, T a N, T a	776915
+t a U									0.000	0	0	0.0		0		0	0.000		32	24	6	2	x a U, i a U, t o U, t a n, Z a U, t a I, t a N, k a U, z a U, l a U, P a U, p a U, S a U, K a U, T a U, C a U, m a U, c a U, n a U, r a U, s a U, t a i, t a y, t a @, t i a U, y t a U, u t a U, t a U y, i t a U, t a U i, t a, a U	1285577
+T a U									0.000	0	0	0.0		0		0	0.000		25	21	2	2	x a U, i a U, t a U, T a I, Z a U, k a U, T o U, z a U, l a U, T a n, P a U, p a U, S a U, K a U, T a N, C a U, m a U, c a U, n a U, r a U, s a U, T i a U, T a U i, T a, a U	1799011
+t E									0.000	0	0	0.0		0		0	0.000		7	6	1	0	t @, i E, t a, t i, y E, t u, t i E	1978578
+T E									0.000	0	0	0.0		0		0	0.000		7	6	1	0	T a, i E, y E, T i, T u, T @, T i E	861413
+t e I									0.000	0	0	0.0		0		0	0.000		14	12	1	1	m e I, k e I, u e I, p e I, S e I, t a I, x e I, f e I, l e I, n e I, P e I, z e I, t u e I, e I	784698
+T e I									0.000	0	0	0.0		0		0	0.000		15	13	1	1	m e I, k e I, t e I, u e I, p e I, T a I, S e I, x e I, f e I, l e I, n e I, P e I, z e I, T u e I, e I	773654
+t E n									0.000	0	0	0.0		0		0	0.000		5	4	1	0	t a n, y E n, i E n, t u n, t i E n	198533
+T E n									0.000	0	0	0.0		0		0	0.000		5	4	1	0	y E n, T a n, i E n, T u n, T i E n	111719
+t i									0.000	0	0	0.0		0		0	0.000		29	17	11	1	t @, n i, t a, l i, J i, Q i, p i, X i, T i, t u, m i, P i, i i, u i, a i, @ i, y i, t i i, t i N, t i y, t i E, t i u, t @ i, t a i, y t i, u t i, t u i, i t i, i	3659866
+T i									0.000	0	0	0.0		0		0	0.000		25	17	7	1	n i, T a, l i, J i, Q i, p i, t i, X i, m i, P i, T u, i i, T @, u i, a i, @ i, y i, T i N, T i E, T i i, i T i, T i y, u T i, T @ i, i	2620778
+t i @									0.000	0	0	0.0		0		0	0.000		13	8	3	2	t i i, t i N, t i y, t i E, t i u, J i @, Q i @, t a @, t i @ r, t i K @, t i x @, t @, t i	1764146
+T i @									0.000	0	0	0.0		0		0	0.000		9	6	1	2	T i N, T i E, T i i, T i y, J i @, Q i @, T i k @, T i, T @	96360
+t i @ n									0.000	0	0	0.0		0		0	0.000		7	3	4	0	t i E n, t i @ r, t i i n, t i r @ n, t i Z @ n, t i u @ n, t i C @ n	93605
+t i @ N									0.000	0	0	0.0		0		0	0.000		6	1	3	2	t i @ r, t i c @ N, t i S @ N, t i n @ N, t @ N, t i N	58897
+T i @ n									0.000	0	0	0.0		0		0	0.000		4	2	2	0	T i E n, T i a n, T i u @ n, T i S @ n	58472
+T i @ N									0.000	0	0	0.0		0		0	0.000		5	0	3	2	, T i S @ N, T i n @ N, T i C @ N, T i N, T @ N	76298
+t i @ r									0.000	0	0	0.0		0		0	0.000		2	1	0	1	l i @ r, i @ r	171
+T i @ r									0.000	0	0	0.0		0		0	0.000		3	2	0	1	t i @ r, l i @ r, i @ r	6552
+t i a									0.000	0	0	0.0		0		0	0.000		19	11	5	3	X i a, J i a, t i i, t i N, t i y, t i E, t i u, Q i a, u i a, a i a, i i a, t i a U, t i p a, t i t a, t i i a, t a i a, t a, t i, i a	292917
+T i a									0.000	0	0	0.0		0		0	0.000		18	10	5	3	T i N, X i a, J i a, T i E, T i i, T i y, Q i a, u i a, a i a, i i a, T i a U, T i a n, T u i a, T i p a, T i f a, T a, i a, T i	903431
+t i a n									0.000	0	0	0.0		0		0	0.000		15	8	5	2	t i E n, t i a U, t u a n, t a a n, T i a n, l i a n, t i i n, X i a n, t i s a n, t i p a n, t i P a n, t i T a n, t i C a n, t a n, i a n	199776
+t i a N									0.000	0	0	0.0		0		0	0.000		17	8	6	3	X i a N, l i a N, J i a N, i i a N, Q i a N, t i a U, n i a N, u i a N, t i f a N, t i S a N, t i K a N, t a i a N, t i t a N, t i u a N, t a N, t i N, i a N	533458
+T i a n									0.000	0	0	0.0		0		0	0.000		7	5	0	2	T i E n, T i a U, T u a n, l i a n, X i a n, T a n, i a n	100863
+T i a N									0.000	0	0	0.0		0		0	0.000		14	9	2	3	X i a N, l i a N, J i a N, i i a N, T i a U, Q i a N, n i a N, T i a n, u i a N, T i f a N, T i C a N, T i N, T a N, i a N	545710
+t i a r									0.000	0	0	0.0		0		0	0.000		2	2	0	0	t i a U, t i @ r	25675
+T i a r									0.000	0	0	0.0		0		0	0.000		2	2	0	0	T i a U, T i a n	22906
+t i a U									0.000	0	0	0.0		0		0	0.000		19	11	6	2	l i a U, J i a U, X i a U, T i a U, Q i a U, m i a U, P i a U, t i o U, n i a U, p i a U, i i a U, t i a U y, t u i a U, t i t a U, t i l a U, y t i a U, t i C a U, i a U, t a U	1541083
+T i a U									0.000	0	0	0.0		0		0	0.000		21	11	8	2	l i a U, J i a U, X i a U, t i a U, Q i a U, m i a U, P i a U, n i a U, p i a U, T i a n, i i a U, T i a U u, T i t a U, T i i a U, T i k a U, T i c a U, T i z a U, T i p a U, T @ i a U, i a U, T a U	1391822
+t i E									0.000	0	0	0.0		0		0	0.000		18	14	2	2	p i E, X i E, J i E, t i i, t i N, Q i E, t i y, T i E, l i E, t i u, u i E, m i E, n i E, P i E, t i E n, t a i E, i E, t i	451574
+T i E									0.000	0	0	0.0		0		0	0.000		16	13	1	2	T i N, p i E, X i E, J i E, Q i E, l i E, t i E, T i i, u i E, m i E, T i y, n i E, P i E, T i E n, i E, T i	441263
+t i E n									0.000	0	0	0.0		0		0	0.000		19	13	4	2	Q i E n, J i E n, T i E n, n i E n, X i E n, p i E n, l i E n, P i E n, m i E n, y i E n, i i E n, u i E n, t i i n, i t i E n, u t i E n, t i E n u, t i E n i, i E n, t i E	375874
+T i E n									0.000	0	0	0.0		0		0	0.000		19	13	4	2	Q i E n, t i E n, J i E n, n i E n, X i E n, p i E n, l i E n, P i E n, m i E n, y i E n, i i E n, T i a n, u i E n, T i i E n, T i E n @, T i E n i, y T i E n, i E n, T i E	383736
+t i n									0.000	0	0	0.0		0		0	0.000		21	16	3	2	t a n, X i n, J i n, t i i, n i n, t i N, t u n, Q i n, t i y, P i n, l i n, t i E, t i u, m i n, p i n, y i n, t i E n, t a i n, t i i n, t i, i n	336889
+t i N									0.000	0	0	0.0		0		0	0.000		24	16	6	2	T i N, J i N, X i N, Q i N, t @ N, t a N, p i N, t o N, l i N, t i i, m i N, P i N, t i y, t i E, t i u, n i N, i t i N, t a i N, u t i N, y t i N, t i N i, t u i N, t i, i N	452924
+T i n									0.000	0	0	0.0		0		0	0.000		19	15	2	2	T i N, X i n, J i n, T a n, n i n, Q i n, T i E, P i n, l i n, T u n, T i i, m i n, T i y, p i n, y i n, T i E n, T i a n, T i, i n	268803
+T i N									0.000	0	0	0.0		0		0	0.000		19	15	2	2	J i N, X i N, Q i N, p i N, l i N, m i N, t i N, T o N, T a N, P i N, T @ N, T i E, T i i, T i y, n i N, u T i N, T u i N, T i, i N	263829
+t i o n									0.000	0	0	0.0		0		0	0.000		3	3	0	0	t i E n, t i o U, t i i n	88666
+t i o N									0.000	0	0	0.0		0		0	0.000		11	7	1	3	t i o U, X i o N, Q i o N, u i o N, J i o N, i i o N, y i o N, t i s o N, i o N, t o N, t i N	96658
+T i o n									0.000	0	0	0.0		0		0	0.000		2	2	0	0	T i E n, T i a n	57677
+T i o N									0.000	0	0	0.0		0		0	0.000		11	6	2	3	X i o N, Q i o N, u i o N, J i o N, i i o N, y i o N, T i k o N, T i Z o N, T i N, i o N, T o N	146660
+t i o U									0.000	0	0	0.0		0		0	0.000		11	7	2	2	J i o U, t i a U, Q i o U, l i o U, X i o U, n i o U, m i o U, t i T o U, t u i o U, i o U, t o U	882685
+T i o U									0.000	0	0	0.0		0		0	0.000		12	8	2	2	J i o U, T i a U, Q i o U, l i o U, X i o U, t i o U, n i o U, m i o U, T @ i o U, T i T o U, i o U, T o U	731558
+t o n									0.000	0	0	0.0		0		0	0.000		4	4	0	0	t o U, t a n, t o N, t u n	279918
+t o N									0.000	0	0	0.0		0		0	0.000		21	17	4	0	t o U, Z o N, i o N, c o N, t @ N, t a N, t i N, s o N, n o N, T o N, z o N, C o N, k o N, K o N, x o N, l o N, r o N, t o N u, i t o N, u t o N, t o N i	502073
+T o n									0.000	0	0	0.0		0		0	0.000		4	4	0	0	T o U, T a n, T o N, T u n	53969
+T o N									0.000	0	0	0.0		0		0	0.000		19	17	2	0	T i N, Z o N, i o N, c o N, T o U, t o N, s o N, n o N, z o N, C o N, T a N, k o N, K o N, x o N, T @ N, l o N, r o N, T o N i, i T o N	353170
+t o U									0.000	0	0	0.0		0		0	0.000		20	18	1	1	i o U, t a U, z o U, S o U, k o U, x o U, T o U, t o N, Z o U, C o U, K o U, l o U, m o U, r o U, s o U, c o U, f o U, P o U, t i o U, o U	830652
+T o U									0.000	0	0	0.0		0		0	0.000		21	18	2	1	i o U, t o U, z o U, S o U, k o U, x o U, T o N, Z o U, T a U, C o U, K o U, l o U, m o U, r o U, s o U, c o U, f o U, P o U, @ T o U, i T o U, o U	830053
+t u									0.000	0	0	0.0		0		0	0.000		31	22	8	1	t @, p u, t a, C u, t i, Z u, S u, f u, l u, K u, r u, z u, k u, T u, x u, m u, s u, P u, i u, n u, c u, u u, t u o, t u n, t i u, t u u, @ t u, t u i, i t u, u t u, u	2779630
+T u									0.000	0	0	0.0		0		0	0.000		27	22	4	1	p u, T a, C u, Z u, S u, f u, T i, t u, l u, K u, r u, z u, k u, T @, x u, m u, s u, P u, i u, n u, c u, u u, T u o, T u n, i T u, T @ u, u	1619063
+t u a									0.000	0	0	0.0		0		0	0.000		15	9	3	3	t u o, x u a, Z u a, k u a, t u n, S u a, K u a, t u u, t u i, t u a n, t u C a, t u t a, t a, u a, t u	253893
+T u a									0.000	0	0	0.0		0		0	0.000		14	7	4	3	x u a, Z u a, T u o, k u a, S u a, K u a, T u n, T u a n, T u S a, T u f a, T u i a, T a, u a, T u	771374
+t u a I									0.000	0	0	0.0		0		0	0.000		19	13	4	2	t u e I, K u a I, t u a n, x u a I, k u a I, S u a I, i u a I, @ u a I, Z u a I, z u a I, C u a I, f u a I, m u a I, t u x a I, t u p a I, t u c a I, t u Z a I, t a I, u a I	297774
+T u a I									0.000	0	0	0.0		0		0	0.000		16	13	1	2	K u a I, x u a I, T u e I, k u a I, S u a I, i u a I, T u a n, @ u a I, Z u a I, z u a I, C u a I, f u a I, m u a I, T u z a I, T a I, u a I	171010
+t u a n									0.000	0	0	0.0		0		0	0.000		26	17	6	3	x u a n, C u a n, k u a n, s u a n, Z u a n, l u a n, t a a n, T u a n, K u a n, z u a n, p u a n, i u a n, r u a n, n u a n, S u a n, c u a n, u u a n, t u f a n, u t u a n, i t u a n, t u Z a n, t a u a n, t u a n y, t a n, u a n, t u n	333021
+t u a N									0.000	0	0	0.0		0		0	0.000		16	11	3	2	t u a n, Z u a N, C u a N, S u a N, k u a N, K u a N, x u a N, i u a N, y u a N, t u i N, u u a N, t u C a N, t i u a N, t u n a N, t a N, u a N	95206
+T u a n									0.000	0	0	0.0		0		0	0.000		21	17	1	3	x u a n, C u a n, k u a n, s u a n, t u a n, Z u a n, l u a n, K u a n, z u a n, p u a n, i u a n, r u a n, n u a n, S u a n, T i a n, c u a n, u u a n, T u r a n, u a n, T a n, T u n	284397
+T u a N									0.000	0	0	0.0		0		0	0.000		14	11	1	2	Z u a N, C u a N, S u a N, k u a N, K u a N, x u a N, T u a n, i u a N, y u a N, T u i N, u u a N, T u r a N, u a N, T a N	60213
+t u e I									0.000	0	0	0.0		0		0	0.000		20	13	5	2	x u e I, z u e I, i u e I, S u e I, s u e I, T u e I, k u e I, Z u e I, C u e I, r u e I, c u e I, K u e I, u u e I, t u e I y, t u e I u, t i u e I, i t u e I, t a u e I, t e I, u e I	630602
+T u e I									0.000	0	0	0.0		0		0	0.000		19	13	5	1	x u e I, t u e I, z u e I, i u e I, S u e I, s u e I, k u e I, Z u e I, C u e I, r u e I, c u e I, K u e I, u u e I, T u e I i, T u e I u, T u f e I, T u u e I, T i u e I, u e I	654634
+t u n									0.000	0	0	0.0		0		0	0.000		19	16	2	1	t a n, t u o, x u n, k u n, C u n, l u n, Z u n, c u n, K u n, T u n, t u u, S u n, z u n, s u n, r u n, t u i, t u a n, i t u n, t u	183273
+t u N									0.000	0	0	0.0		0		0	0.000		10	8	1	1	t u o, t @ N, t a N, t o N, t i N, t u n, t u u, t u i, t u i N, t u	179259
+T u n									0.000	0	0	0.0		0		0	0.000		16	14	1	1	T a n, T u o, x u n, t u n, k u n, C u n, l u n, Z u n, c u n, K u n, S u n, z u n, s u n, r u n, T u a n, T u	61733
+T u N									0.000	0	0	0.0		0		0	0.000		8	6	1	1	T i N, T o N, T a N, T u o, T @ N, T u n, T u i N, T u	109505
+t u o									0.000	0	0	0.0		0		0	0.000		24	20	2	2	S u o, x u o, z u o, k u o, Z u o, c u o, s u o, m u o, l u o, T u o, p u o, P u o, t u n, r u o, n u o, t u u, C u o, K u o, t u i, i u o, t u o y, t u o i, u o, t u	2562844
+T u o									0.000	0	0	0.0		0		0	0.000		21	18	1	2	S u o, x u o, z u o, k u o, Z u o, t u o, c u o, s u o, m u o, l u o, p u o, P u o, r u o, n u o, T u n, C u o, K u o, i u o, T u o i, u o, T u	2602046
+t y									0.000	0	0	0.0		0		0	0.000		16	12	3	1	t @, Q y, t a, t i, J y, t u, n y, X y, l y, @ y, i y, y y, t i y, t a y, t @ y, y	2056486
+T y									0.000	0	0	0.0		0		0	0.000		14	12	1	1	T a, Q y, J y, T i, n y, X y, T u, T @, l y, @ y, i y, y y, T i y, y	936118
+t y E									0.000	0	0	0.0		0		0	0.000		11	9	1	1	Q y E, X y E, J y E, t i E, y y E, l y E, n y E, u y E, i y E, t a y E, y E	50808
+T y E									0.000	0	0	0.0		0		0	0.000		11	9	1	1	Q y E, X y E, J y E, T i E, y y E, l y E, n y E, u y E, i y E, T @ y E, y E	50445
+t y E n									0.000	0	0	0.0		0		0	0.000		8	6	1	1	t i E n, Q y E n, X y E n, i y E n, J y E n, u y E n, t a y E n, y E n	137969
+t y E N									0.000	0	0	0.0		0		0	0.000		0	0	0	0		0
+T y E n									0.000	0	0	0.0		0		0	0.000		7	6	0	1	T i E n, Q y E n, X y E n, i y E n, J y E n, u y E n, y E n	110921
+T y E N									0.000	0	0	0.0		0		0	0.000		0	0	0	0		0
+t y n									0.000	0	0	0.0		0		0	0.000		8	7	0	1	t a n, t u n, Q y n, J y n, X y n, @ y n, u y n, y n	91002
+t y N									0.000	0	0	0.0		0		0	0.000		4	4	0	0	t @ N, t a N, t o N, t i N	104229
+T y n									0.000	0	0	0.0		0		0	0.000		8	7	0	1	T a n, Q y n, J y n, X y n, T u n, @ y n, u y n, y n	31209
+T y N									0.000	0	0	0.0		0		0	0.000		4	4	0	0	T i N, T o N, T a N, T @ N	96176
+u									0.000	0	0	0.0		0		0	0.000		27	4	23	0	i, a, y, @, u o, p u, C u, Z u, S u, f u, u a, t u, l u, K u, r u, z u, k u, T u, x u, m u, s u, P u, u i, i u, n u, c u, u u	3025707
+u i @									0.000	0	0	0.0		0		0	0.000		7	6	0	1	u i E, J i @, Q i @, u i a, u K @, u s @, u i	2832
+u i @ n									0.000	0	0	0.0		0		0	0.000		4	3	0	1	u i E n, u f @ n, u r @ n, u @ n	28681
+u i @ N									0.000	0	0	0.0		0		0	0.000		6	5	0	1	u n @ N, u Z @ N, u i o N, u S @ N, u i a N, u @ N	903
+u i @ r									0.000	0	0	0.0		0		0	0.000		3	2	0	1	t i @ r, l i @ r, i @ r	6552
+u i a									0.000	0	0	0.0		0		0	0.000		18	10	5	3	X i a, J i a, u f a, u i E, Q i a, u l a, a i a, i i a, u S a, u C a, u X i a, T u i a, u J i a, u i a N, r u i a, i a, u a, u i	142024
+u i a n									0.000	0	0	0.0		0		0	0.000		13	10	0	3	u c a n, u f a n, u p a n, u r a n, T i a n, u u a n, u i E n, l i a n, X i a n, u i a N, u a n, i a n, u i a	45113
+u i a N									0.000	0	0	0.0		0		0	0.000		16	11	2	3	X i a N, l i a N, J i a N, i i a N, Q i a N, n i a N, u C a N, u i o N, u f a N, u S a N, u u a N, f u i a N, m u i a N, u a N, i a N, u i a	458826
+u i a r									0.000	0	0	0.0		0		0	0.000		2	1	0	1	u i a N, u i a	242
+u i a U									0.000	0	0	0.0		0		0	0.000		23	13	8	2	l i a U, J i a U, X i a U, T i a U, t i a U, Q i a U, m i a U, P i a U, n i a U, u t a U, p i a U, i i a U, u i a N, p u i a U, u l i a U, Z u i a U, u X i a U, t u i a U, f u i a U, u m i a U, u J i a U, i a U, u i a	1427315
+u i E									0.000	0	0	0.0		0		0	0.000		21	12	7	2	p i E, X i E, J i E, Q i E, T i E, l i E, t i E, m i E, n i E, u i a, P i E, u y E, u J i E, S u i E, u i E n, Z u i E, c u i E, u m i E, f u i E, i E, u i	298963
+u i E n									0.000	0	0	0.0		0		0	0.000		23	13	8	2	Q i E n, t i E n, J i E n, T i E n, n i E n, X i E n, p i E n, l i E n, P i E n, m i E n, y i E n, i i E n, u y E n, u X i E n, u t i E n, u Q i E n, x u i E n, C u i E n, f u i E n, u J i E n, u p i E n, i E n, u i E	440358
+u i o n									0.000	0	0	0.0		0		0	0.000		2	2	0	0	u i E n, u i o N	283
+u i o N									0.000	0	0	0.0		0		0	0.000		17	10	6	1	X i o N, Q i o N, u t o N, u Z o N, u c o N, u k o N, J i o N, u i a N, i i o N, y i o N, p u i o N, k u i o N, f u i o N, u Q i o N, l u i o N, z u i o N, i o N	63549
+u i o U									0.000	0	0	0.0		0		0	0.000		20	9	10	1	J i o U, Q i o U, l i o U, X i o U, t i o U, n i o U, u i o N, u x o U, m i o U, f u i o U, x u i o U, u X i o U, u l i o U, C u i o U, u o i o U, Z u i o U, t u i o U, p u i o U, k u i o U, i o U	688493
+u u a									0.000	0	0	0.0		0		0	0.000		16	10	4	2	x u a, Z u a, u f a, k u a, S u a, K u a, u i a, u l a, u S a, u C a, u a u a, u u a n, u u a N, s u u a, u a, u u	95298
+u u a I									0.000	0	0	0.0		0		0	0.000		22	19	2	1	K u a I, x u a I, k u a I, S u a I, i u a I, u T a I, @ u a I, Z u a I, z u a I, u u e I, C u a I, u l a I, u u a n, u x a I, u p a I, u n a I, u u a N, f u a I, m u a I, x u u a I, C u u a I, u a I	94070
+u u a n									0.000	0	0	0.0		0		0	0.000		24	21	2	1	x u a n, C u a n, k u a n, s u a n, t u a n, Z u a n, l u a n, u c a n, u f a n, T u a n, K u a n, z u a n, p u a n, i u a n, r u a n, n u a n, u p a n, u r a n, S u a n, c u a n, u u a N, u k u a n, u t u a n, u a n	266566
+u u a N									0.000	0	0	0.0		0		0	0.000		15	13	1	1	Z u a N, C u a N, S u a N, k u a N, K u a N, x u a N, i u a N, y u a N, u u a n, u C a N, u f a N, u S a N, u i a N, u Z u a N, u a N	51752
+u u e I									0.000	0	0	0.0		0		0	0.000		28	16	11	1	x u e I, t u e I, z u e I, i u e I, S u e I, s u e I, T u e I, k u e I, Z u e I, C u e I, r u e I, c u e I, K u e I, u z e I, u f e I, u n e I, u x u e I, u z u e I, p u u e I, u k u e I, x u u e I, Z u u e I, u S u e I, f u u e I, r u u e I, K u u e I, T u u e I, u e I	666554
+u u o									0.000	0	0	0.0		0		0	0.000		21	18	1	2	S u o, x u o, z u o, k u o, Z u o, t u o, c u o, s u o, m u o, l u o, T u o, p u o, P u o, r u o, n u o, C u o, K u o, i u o, u P u o, u o, u u	2602382
+u y E									0.000	0	0	0.0		0		0	0.000		13	9	3	1	Q y E, X y E, J y E, y y E, u i E, l y E, n y E, i y E, u y n, z u y E, f u y E, u y E n, y E	49113
+u y E n									0.000	0	0	0.0		0		0	0.000		18	5	10	3	Q y E n, X y E n, i y E n, J y E n, u i E n, Z u y E n, k u y E n, u Q y E n, f u y E n, C u y E n, S u y E n, r u y E n, z u y E n, s u y E n, m u y E n, y E n, u y E, u y n	55944
+u y E N									0.000	0	0	0.0		0		0	0.000		2	1	0	1	u y E n, u y E	207
+u @									0.000	0	0	0.0		0		0	0.000		27	19	6	2	t @, u o, Z @, k @, n @, K @, C @, x @, u a, S @, r @, T @, s @, l @, z @, c @, u i, u u, y @, u @ n, u K @, u @ N, S u @, u s @, s u @, @, u	4162905
+u @ n									0.000	0	0	0.0		0		0	0.000		23	17	5	1	x @ n, r @ n, Z @ n, k @ n, m @ n, u a n, f @ n, S @ n, p @ n, K @ n, C @ n, z @ n, P @ n, s @ n, n @ n, u @ N, u y n, i u @ n, u @ n i, u @ n u, u f @ n, u r @ n, @ n	755710
+u @ N									0.000	0	0	0.0		0		0	0.000		23	20	3	0	n @ N, t @ N, u @ n, Z @ N, C @ N, S @ N, u a N, f @ N, r @ N, m @ N, z @ N, P @ N, T @ N, l @ N, c @ N, x @ N, p @ N, K @ N, k @ N, s @ N, u n @ N, u Z @ N, u S @ N	359818
+u @ r									0.000	0	0	0.0		0		0	0.000		8	4	3	1	u @ n, y @ r, u @ N, i @ r, k u @ r, P u @ r, p u @ r, @ r	84040
+u a									0.000	0	0	0.0		0		0	0.000		37	22	13	2	u o, T a, p a, m a, n a, t a, S a, l a, i a, C a, f a, P a, x a, z a, K a, Z a, s a, c a, u i, a a, k a, u u, x u a, u a n, u a N, Z u a, u f a, k u a, u a I, S u a, K u a, u i a, u l a, u S a, u C a, a, u	3745067
+u a I									0.000	0	0	0.0		0		0	0.000		39	19	18	2	z a I, l a I, u e I, T a I, t a I, c a I, u a n, k a I, x a I, K a I, m a I, P a I, u a N, p a I, s a I, n a I, C a I, Z a I, S a I, K u a I, x u a I, k u a I, S u a I, i u a I, u T a I, u a I y, @ u a I, Z u a I, z u a I, C u a I, u l a I, u a I i, u x a I, u p a I, u n a I, f u a I, m u a I, a I, u a	1271971
+u a n									0.000	0	0	0.0		0		0	0.000		49	23	24	2	K a n, t a n, u @ n, p a n, T a n, s a n, n a n, u a N, k a n, Z a n, f a n, S a n, m a n, l a n, u a I, x a n, P a n, c a n, C a n, z a n, r a n, i a n, u y n, x u a n, C u a n, k u a n, s u a n, t u a n, Z u a n, l u a n, u a n i, u c a n, u f a n, T u a n, K u a n, z u a n, p u a n, i u a n, r u a n, n u a n, u p a n, u r a n, S u a n, u a n u, c u a n, u u a n, u a n @, u a, a n	635401
+u a N									0.000	0	0	0.0		0		0	0.000		37	22	13	2	r a N, S a N, p a N, u a n, t a N, Z a N, f a N, C a N, k a N, m a N, T a N, i a N, c a N, u a I, l a N, P a N, z a N, K a N, s a N, x a N, n a N, u @ N, Z u a N, C u a N, S u a N, k u a N, K u a N, x u a N, i u a N, y u a N, u C a N, u f a N, u S a N, u i a N, u u a N, u a, a N	543828
+u a r									0.000	0	0	0.0		0		0	0.000		4	3	0	1	u a n, u a N, u a I, u a	73638
+u a U									0.000	0	0	0.0		0		0	0.000		24	21	1	2	x a U, i a U, t a U, Z a U, u a n, k a U, z a U, l a U, u a N, P a U, p a U, S a U, K a U, T a U, C a U, m a U, c a U, u a I, n a U, r a U, s a U, u t a U, u a, a U	1070312
+u E									0.000	0	0	0.0		0		0	0.000		9	6	2	1	u o, i E, y E, u a, u i, u u, u i E, u y E, u	1890118
+u e I									0.000	0	0	0.0		0		0	0.000		33	12	20	1	m e I, k e I, t e I, p e I, S e I, x e I, f e I, l e I, n e I, P e I, u a I, z e I, x u e I, t u e I, z u e I, i u e I, S u e I, s u e I, u e I i, T u e I, k u e I, Z u e I, C u e I, r u e I, c u e I, K u e I, u e I y, u u e I, u e I u, u z e I, u f e I, u n e I, e I	1203634
+u E n									0.000	0	0	0.0		0		0	0.000		7	5	2	0	u a n, u @ n, y E n, i E n, u y n, u i E n, u y E n	103273
+u i									0.000	0	0	0.0		0		0	0.000		37	17	18	2	u o, n i, l i, J i, Q i, p i, t i, X i, T i, u a, m i, P i, i i, a i, @ i, y i, u u, Z u i, u Q i, u l i, k u i, u i E, u p i, z u i, p u i, f u i, u T i, u t i, u i a, u J i, r u i, t u i, n u i, S u i, C u i, i, u	3624041
+u i n									0.000	0	0	0.0		0		0	0.000		24	14	8	2	u a n, X i n, J i n, u @ n, n i n, Q i n, P i n, l i n, u i E, m i n, p i n, y i n, u i a, u y n, u P i n, l u i n, f u i n, u J i n, u i E n, u X i n, u l i n, Z u i n, i n, u i	173571
+u i N									0.000	0	0	0.0		0		0	0.000		27	14	11	2	T i N, J i N, X i N, Q i N, p i N, l i N, u a N, m i N, t i N, P i N, u i E, n i N, u i a, u @ N, u t i N, u Q i N, l u i N, t u i N, u T i N, u X i N, u i o N, u m i N, S u i N, T u i N, u i a N, i N, u i	316651
+u n									0.000	0	0	0.0		0		0	0.000		26	8	17	1	u o, @ n, u a, a n, i n, y n, u i, u u, u a n, u @ n, x u n, t u n, k u n, C u n, l u n, Z u n, c u n, K u n, T u n, S u n, z u n, u n y, s u n, r u n, u y n, u	1884932
+u N									0.000	0	0	0.0		0		0	0.000		9	6	2	1	u o, i N, u a, u i, a N, u u, u a N, u @ N, u	1755474
+u o									0.000	0	0	0.0		0		0	0.000		22	3	18	1	u a, u i, u u, S u o, x u o, z u o, k u o, Z u o, t u o, c u o, s u o, m u o, l u o, T u o, p u o, P u o, r u o, n u o, C u o, K u o, i u o, u	959611
+u o n									0.000	0	0	0.0		0		0	0.000		4	3	0	1	u a n, u @ n, u y n, u o	1752515
+u o N									0.000	0	0	0.0		0		0	0.000		22	16	5	1	Z o N, i o N, c o N, t o N, u a N, s o N, n o N, T o N, z o N, C o N, k o N, K o N, x o N, l o N, r o N, u @ N, u t o N, u Z o N, u i o N, u c o N, u k o N, u o	1953980
+u o U									0.000	0	0	0.0		0		0	0.000		21	17	2	2	i o U, t o U, z o U, S o U, k o U, x o U, T o U, Z o U, C o U, K o U, l o U, m o U, r o U, s o U, c o U, f o U, P o U, m u o U, u x o U, u o, o U	2515175
+u u									0.000	0	0	0.0		0		0	0.000		36	22	13	1	u o, p u, C u, Z u, S u, f u, u a, t u, l u, K u, r u, z u, k u, T u, x u, m u, s u, P u, u i, i u, n u, c u, f u u, u k u, u S u, t u u, u r u, u p u, k u u, u Z u, m u u, u C u, r u u, u x u, u t u, u	2633010
+u u n									0.000	0	0	0.0		0		0	0.000		20	16	3	1	u a n, u @ n, x u n, t u n, k u n, C u n, l u n, Z u n, c u n, K u n, T u n, S u n, z u n, s u n, r u n, u y n, u l u n, u u a n, u s u n, u u	101933
+u u N									0.000	0	0	0.0		0		0	0.000		4	2	1	1	u a N, u @ N, u u a N, u u	16376
+u y									0.000	0	0	0.0		0		0	0.000		27	12	13	2	u o, Q y, J y, u a, n y, X y, l y, u i, @ y, i y, u u, y y, S u y, C u y, f u y, r u y, u n y, u X y, u y E, m u y, p u y, u Q y, u y n, s u y, l u y, y, u	1972471
+u y n									0.000	0	0	0.0		0		0	0.000		10	7	2	1	u a n, u @ n, Q y n, J y n, X y n, u y E, @ y n, u y E n, p u y n, y n	80144
+u y N									0.000	0	0	0.0		0		0	0.000		4	4	0	0	u a N, u y E, u @ N, u y n	16447
+x @									0.000	0	0	0.0		0		0	0.000		22	16	5	1	t @, Z @, k @, n @, K @, C @, S @, x a, r @, T @, x u, s @, l @, z @, c @, y @, x @ n, x @ N, y x @, x @ i, x @ u, @	2604706
+X @									0.000	0	0	0.0		0		0	0.000		18	17	0	1	t @, Z @, k @, n @, K @, C @, x @, X i, X y, S @, r @, T @, s @, l @, z @, c @, y @, @	2430455
+x @ n									0.000	0	0	0.0		0		0	0.000		22	19	1	2	r @ n, Z @ n, k @ n, m @ n, u @ n, f @ n, S @ n, p @ n, x u n, x a n, K @ n, C @ n, x @ N, z @ n, P @ n, s @ n, n @ n, x @ i, x @ u, x @ a n, @ n, x @	570070
+x @ N									0.000	0	0	0.0		0		0	0.000		25	23	1	1	x @ n, n @ N, t @ N, Z @ N, C @ N, S @ N, f @ N, r @ N, m @ N, z @ N, P @ N, x o N, T @ N, l @ N, c @ N, p @ N, x a N, K @ N, k @ N, u @ N, x @ i, x @ u, s @ N, x @ i N, x @	543098
+X @ n									0.000	0	0	0.0		0		0	0.000		18	17	0	1	x @ n, r @ n, Z @ n, k @ n, m @ n, X i n, u @ n, f @ n, S @ n, p @ n, K @ n, X y n, C @ n, z @ n, P @ n, s @ n, n @ n, @ n	778946
+X @ N									0.000	0	0	0.0		0		0	0.000		20	20	0	0	n @ N, X i N, t @ N, Z @ N, C @ N, S @ N, f @ N, r @ N, m @ N, z @ N, P @ N, T @ N, l @ N, c @ N, x @ N, p @ N, K @ N, k @ N, u @ N, s @ N	357453
+x @ r									0.000	0	0	0.0		0		0	0.000		9	6	1	2	x @ n, x @ N, y @ r, x @ i, x @ u, i @ r, x @ @ r, @ r, x @	282505
+X @ r									0.000	0	0	0.0		0		0	0.000		3	2	0	1	y @ r, i @ r, @ r	55049
+x 1									0.000	0	0	0.0		0		0	0.000		10	10	0	0	S 1, Z 1, s 1, c 1, C 1, x @, z 1, x a, x u, r 1	1419622
+x a									0.000	0	0	0.0		0		0	0.000		27	21	5	1	T a, p a, m a, n a, t a, S a, l a, x @, i a, C a, u a, f a, P a, x u, z a, K a, Z a, s a, c a, a a, k a, x a U, x u a, x a I, x a n, x a N, a	2360077
+X a									0.000	0	0	0.0		0		0	0.000		24	22	1	1	T a, p a, m a, n a, t a, S a, l a, i a, X i, C a, u a, f a, P a, X y, x a, z a, K a, Z a, s a, c a, a a, k a, X i a, a	1982563
+x a I									0.000	0	0	0.0		0		0	0.000		28	20	6	2	z a I, x a U, l a I, T a I, t a I, c a I, x e I, k a I, K a I, m a I, P a I, p a I, u a I, x a n, s a I, n a I, C a I, Z a I, S a I, x a N, x u a I, y x a I, u x a I, x @ a I, x a I y, i x a I, a I, x a	1417418
+X a I									0.000	0	0	0.0		0		0	0.000		19	17	1	1	z a I, l a I, T a I, t a I, c a I, k a I, x a I, K a I, m a I, P a I, p a I, u a I, s a I, n a I, C a I, Z a I, S a I, X i a I, a I	1035306
+x a n									0.000	0	0	0.0		0		0	0.000		31	24	5	2	x a U, x @ n, K a n, t a n, u a n, x a I, p a n, T a n, s a n, n a n, k a n, Z a n, f a n, S a n, m a n, l a n, x u n, P a n, c a n, C a n, z a n, r a n, x a N, i a n, x u a n, i x a n, x a n i, x @ a n, x a n y, a n, x a	1116567
+x a N									0.000	0	0	0.0		0		0	0.000		28	24	2	2	x a U, r a N, S a N, p a N, t a N, x a I, Z a N, f a N, C a N, u a N, k a N, m a N, T a N, i a N, c a N, x a n, x o N, l a N, P a N, z a N, x @ N, K a N, s a N, n a N, x u a N, y x a N, x a, a N	860618
+X a n									0.000	0	0	0.0		0		0	0.000		24	22	1	1	K a n, t a n, u a n, X i n, p a n, T a n, s a n, n a n, k a n, Z a n, f a n, S a n, m a n, l a n, x a n, P a n, X y n, c a n, C a n, z a n, r a n, i a n, X i a n, a n	421977
+X a N									0.000	0	0	0.0		0		0	0.000		23	21	1	1	r a N, S a N, p a N, X i N, t a N, Z a N, f a N, C a N, u a N, k a N, m a N, T a N, i a N, c a N, l a N, P a N, z a N, K a N, s a N, x a N, n a N, X i a N, a N	802909
+x a r									0.000	0	0	0.0		0		0	0.000		5	4	0	1	x a U, x a I, x a n, x a N, x a	386250
+X a r									0.000	0	0	0.0		0		0	0.000		0	0	0	0		0
+x a U									0.000	0	0	0.0		0		0	0.000		26	21	3	2	i a U, t a U, Z a U, x a I, k a U, x o U, z a U, l a U, P a U, p a U, S a U, K a U, T a U, C a U, m a U, c a U, x a n, n a U, r a U, s a U, x a N, x a U u, x a U i, @ x a U, x a, a U	711526
+X a U									0.000	0	0	0.0		0		0	0.000		20	18	1	1	x a U, i a U, t a U, Z a U, k a U, z a U, l a U, P a U, p a U, S a U, K a U, T a U, C a U, m a U, c a U, n a U, r a U, s a U, X i a U, a U	1037039
+x E									0.000	0	0	0.0		0		0	0.000		5	5	0	0	i E, y E, x @, x a, x u	194905
+X E									0.000	0	0	0.0		0		0	0.000		6	4	2	0	i E, y E, X i, X y, X i E, X y E	239457
+x e I									0.000	0	0	0.0		0		0	0.000		15	12	2	1	m e I, k e I, t e I, u e I, p e I, S e I, x a I, f e I, l e I, n e I, P e I, z e I, x u e I, x e I i, e I	981195
+X e I									0.000	0	0	0.0		0		0	0.000		13	12	0	1	m e I, k e I, t e I, u e I, p e I, S e I, x e I, f e I, l e I, n e I, P e I, z e I, e I	694810
+x E n									0.000	0	0	0.0		0		0	0.000		5	5	0	0	x @ n, y E n, i E n, x u n, x a n	248440
+X E n									0.000	0	0	0.0		0		0	0.000		6	4	2	0	X i n, y E n, i E n, X y n, X i E n, X y E n	102665
+x i									0.000	0	0	0.0		0		0	0.000		20	18	1	1	n i, l i, J i, Q i, p i, t i, x @, X i, T i, m i, P i, x a, i i, x u, u i, a i, @ i, y i, x @ i, i	1906710
+X i									0.000	0	0	0.0		0		0	0.000		25	15	9	1	n i, l i, J i, Q i, p i, t i, T i, m i, P i, X y, i i, u i, a i, @ i, y i, X i a, X i E, X i N, X i n, X i i, X y i, i X i, X i y, @ X i, i	2047354
+x i @									0.000	0	0	0.0		0		0	0.000		3	2	0	1	J i @, Q i @, x @	21342
+X i @									0.000	0	0	0.0		0		0	0.000		12	8	3	1	X i a, X i E, X i N, X i n, X i i, J i @, Q i @, X i y, X i E @, X i t @, X i a @, X i	200326
+x i @ n									0.000	0	0	0.0		0		0	0.000		1	0	0	1	, x @ n	204657
+x i @ N									0.000	0	0	0.0		0		0	0.000		1	0	0	1	, x @ N	1546
+X i @ n									0.000	0	0	0.0		0		0	0.000		7	3	3	1	X i E n, X i i n, X i a n, X i E @ n, X i m @ n, X i r @ n, X i n	60611
+X i @ N									0.000	0	0	0.0		0		0	0.000		6	2	3	1	X i a N, X i o N, X i S @ N, X i t @ N, X i C @ N, X i N	340429
+x i @ r									0.000	0	0	0.0		0		0	0.000		4	3	0	1	t i @ r, x @ @ r, l i @ r, i @ r	6826
+X i @ r									0.000	0	0	0.0		0		0	0.000		3	2	0	1	t i @ r, l i @ r, i @ r	6552
+x i a									0.000	0	0	0.0		0		0	0.000		9	7	0	2	X i a, x u a, J i a, Q i a, u i a, a i a, i i a, i a, x a	180551
+X i a									0.000	0	0	0.0		0		0	0.000		26	10	14	2	X i E, J i a, X i N, X i n, Q i a, X i i, u i a, X i y, a i a, i i a, X i a N, X i a U, i X i a, X i a u, X i l a, X i a I, X i a y, u X i a, y X i a, X i a n, X i i a, X i a @, X i f a, X i m a, i a, X i	568993
+x i a n									0.000	0	0	0.0		0		0	0.000		7	5	0	2	x u a n, T i a n, l i a n, X i a n, x @ a n, x a n, i a n	143400
+x i a N									0.000	0	0	0.0		0		0	0.000		10	8	0	2	X i a N, l i a N, J i a N, i i a N, Q i a N, x u a N, n i a N, u i a N, i a N, x a N	444204
+X i a n									0.000	0	0	0.0		0		0	0.000		16	10	3	3	X i a N, X i a U, X i E n, X i a u, X i i n, X i a I, X i a y, T i a n, l i a n, X i a @, X i n a n, X i x a n, X i E a n, X i a, X i n, i a n	459184
+X i a N									0.000	0	0	0.0		0		0	0.000		23	13	7	3	l i a N, X i a U, J i a N, i i a N, Q i a N, X i o N, X i a u, n i a N, X i a I, X i a y, X i a n, X i a @, u i a N, X i u a N, i X i a N, X i a N y, X i f a N, y X i a N, X i i a N, X i z a N, X i a, X i N, i a N	328129
+x i a r									0.000	0	0	0.0		0		0	0.000		0	0	0	0		0
+X i a r									0.000	0	0	0.0		0		0	0.000		9	7	1	1	X i a N, X i a U, X i a u, X i a I, X i a y, X i a n, X i a @, X i a r 1, X i a	398234
+x i a U									0.000	0	0	0.0		0		0	0.000		13	11	0	2	l i a U, J i a U, X i a U, T i a U, t i a U, Q i a U, m i a U, P i a U, n i a U, p i a U, i i a U, x a U, i a U	1746473
+X i a U									0.000	0	0	0.0		0		0	0.000		27	17	8	2	l i a U, X i a N, J i a U, T i a U, t i a U, Q i a U, X i o U, m i a U, P i a U, n i a U, X i a u, p i a U, X i a I, X i a y, i i a U, X i a n, X i a @, X y i a U, X i z a U, X i p a U, X i a U u, u X i a U, X i x a U, X i a U y, X i a U i, i a U, X i a	1763556
+x i E									0.000	0	0	0.0		0		0	0.000		12	11	0	1	p i E, X i E, J i E, Q i E, T i E, l i E, t i E, u i E, m i E, n i E, P i E, i E	297293
+X i E									0.000	0	0	0.0		0		0	0.000		23	16	5	2	p i E, X i a, X i N, X i n, J i E, X y E, Q i E, T i E, l i E, t i E, u i E, m i E, n i E, X i i, P i E, X i y, X i E n, i X i E, X i E @, X i E i, X i y E, i E, X i	454886
+x i E n									0.000	0	0	0.0		0		0	0.000		16	13	2	1	Q i E n, t i E n, J i E n, T i E n, n i E n, X i E n, p i E n, l i E n, P i E n, m i E n, y i E n, i i E n, u i E n, x u i E n, x @ i E n, i E n	438161
+X i E n									0.000	0	0	0.0		0		0	0.000		31	17	11	3	Q i E n, t i E n, J i E n, T i E n, n i E n, p i E n, l i E n, P i E n, X y E n, m i E n, y i E n, X i E @, X i E i, X i i n, i i E n, u i E n, X i a n, u X i E n, X i i E n, X i E n i, y X i E n, X i E n y, i X i E n, X i y E n, X i E i n, X i E n @, X i E @ n, X i E a n, X i E, X i n, i E n	508204
+x i n									0.000	0	0	0.0		0		0	0.000		13	12	0	1	x @ n, X i n, J i n, n i n, x u n, x a n, Q i n, P i n, l i n, m i n, p i n, y i n, i n	314435
+x i N									0.000	0	0	0.0		0		0	0.000		15	13	1	1	T i N, J i N, X i N, Q i N, p i N, l i N, m i N, t i N, P i N, x o N, x @ N, n i N, x a N, x @ i N, i N	301720
+X i n									0.000	0	0	0.0		0		0	0.000		25	14	9	2	X i a, X i E, X i N, J i n, n i n, Q i n, X y n, P i n, l i n, m i n, p i n, X i i, y i n, X i y, X i E n, @ X i n, X i i n, X i n i, i X i n, X i n y, u X i n, X i a n, X i n u, X i, i n	262141
+X i N									0.000	0	0	0.0		0		0	0.000		24	14	8	2	T i N, X i a, X i E, J i N, Q i N, X i n, p i N, l i N, m i N, t i N, P i N, n i N, X i i, X i y, X i a N, X i o N, i X i N, X i N y, u X i N, X i N i, @ X i N, X i N u, X i, i N	704969
+x i o n									0.000	0	0	0.0		0		0	0.000		0	0	0	0		0
+x i o N									0.000	0	0	0.0		0		0	0.000		8	6	0	2	X i o N, Q i o N, u i o N, J i o N, i i o N, y i o N, i o N, x o N	61367
+X i o n									0.000	0	0	0.0		0		0	0.000		6	5	0	1	X i E n, X i o U, X i o N, X i i n, X i a n, X i n	69963
+X i o N									0.000	0	0	0.0		0		0	0.000		13	7	4	2	X i a N, X i o U, Q i o N, u i o N, J i o N, i i o N, y i o N, X i T o N, X i l o N, X i o N @, X i k o N, i o N, X i N	400132
+x i o U									0.000	0	0	0.0		0		0	0.000		10	7	1	2	J i o U, Q i o U, l i o U, X i o U, t i o U, n i o U, m i o U, x u i o U, i o U, x o U	710905
+X i o U									0.000	0	0	0.0		0		0	0.000		13	8	4	1	J i o U, X i a U, Q i o U, l i o U, t i o U, n i o U, X i o N, m i o U, X i S o U, X i i o U, u X i o U, X i o U u, i o U	728457
+x o n									0.000	0	0	0.0		0		0	0.000		5	5	0	0	x @ n, x o U, x u n, x a n, x o N	241647
+x o N									0.000	0	0	0.0		0		0	0.000		17	16	1	0	Z o N, i o N, c o N, x o U, t o N, s o N, n o N, T o N, z o N, C o N, k o N, K o N, l o N, x @ N, r o N, x a N, x o N i	275239
+X o n									0.000	0	0	0.0		0		0	0.000		2	2	0	0	X i n, X y n	36239
+X o N									0.000	0	0	0.0		0		0	0.000		16	15	1	0	Z o N, i o N, c o N, X i N, t o N, s o N, n o N, T o N, z o N, C o N, k o N, K o N, x o N, l o N, r o N, X i o N	299344
+x o U									0.000	0	0	0.0		0		0	0.000		22	18	3	1	x a U, i o U, t o U, z o U, S o U, k o U, T o U, Z o U, C o U, K o U, l o U, x o N, m o U, r o U, s o U, c o U, f o U, P o U, i x o U, x o U i, u x o U, o U	1167272
+X o U									0.000	0	0	0.0		0		0	0.000		19	17	1	1	i o U, t o U, z o U, S o U, k o U, x o U, T o U, Z o U, C o U, K o U, l o U, m o U, r o U, s o U, c o U, f o U, P o U, X i o U, o U	837241
+x u									0.000	0	0	0.0		0		0	0.000		28	21	6	1	p u, C u, Z u, x @, S u, f u, t u, l u, K u, r u, z u, k u, T u, x a, m u, s u, P u, i u, n u, c u, u u, x u o, x u a, x u n, i x u, u x u, x @ u, u	1187124
+X u									0.000	0	0	0.0		0		0	0.000		24	22	1	1	p u, C u, Z u, S u, f u, X i, t u, l u, K u, r u, z u, k u, X y, T u, x u, m u, s u, P u, i u, n u, c u, u u, X y u, u	948654
+x u a									0.000	0	0	0.0		0		0	0.000		16	6	7	3	x u o, Z u a, x u n, k u a, S u a, K u a, x u a n, x u a I, x u a N, @ x u a, x u a y, x u l a, i x u a, u a, x a, x u	371205
+X u a									0.000	0	0	0.0		0		0	0.000		7	6	0	1	X i a, x u a, Z u a, k u a, S u a, K u a, u a	143469
+x u a I									0.000	0	0	0.0		0		0	0.000		21	15	3	3	x u e I, x u a n, K u a I, k u a I, S u a I, i u a I, x u a N, @ u a I, Z u a I, z u a I, C u a I, x u a y, x @ a I, f u a I, m u a I, x u a I i, x u u a I, x u l a I, x u a, x a I, u a I	615276
+X u a I									0.000	0	0	0.0		0		0	0.000		13	12	0	1	K u a I, x u a I, k u a I, S u a I, i u a I, @ u a I, X i a I, Z u a I, z u a I, C u a I, f u a I, m u a I, u a I	91305
+x u a n									0.000	0	0	0.0		0		0	0.000		30	20	6	4	C u a n, k u a n, s u a n, t u a n, x u a I, Z u a n, l u a n, x u a N, T u a n, K u a n, z u a n, p u a n, i u a n, r u a n, n u a n, S u a n, c u a n, u u a n, x u a y, x @ a n, x u r a n, x u a n a, x u x a n, x u n a n, x u a n y, x u l a n, x u a, u a n, x u n, x a n	199713
+x u a N									0.000	0	0	0.0		0		0	0.000		15	11	1	3	x u a n, Z u a N, x u a I, C u a N, S u a N, k u a N, K u a N, i u a N, y u a N, x u a y, u u a N, x u a N u, x u a, u a N, x a N	252777
+X u a N									0.000	0	0	0.0		0		0	0.000		12	10	1	1	X i a N, Z u a N, C u a N, S u a N, k u a N, K u a N, x u a N, i u a N, y u a N, u u a N, X i u a N, u a N	370268
+x u e I									0.000	0	0	0.0		0		0	0.000		22	14	6	2	t u e I, z u e I, i u e I, S u e I, s u e I, x u a I, T u e I, k u e I, Z u e I, C u e I, r u e I, c u e I, K u e I, u u e I, x u e I i, u x u e I, i x u e I, x u e I u, x u u e I, y x u e I, u e I, x e I	421318
+X u e I									0.000	0	0	0.0		0		0	0.000		17	14	2	1	x u e I, t u e I, z u e I, i u e I, S u e I, s u e I, T u e I, k u e I, Z u e I, C u e I, r u e I, c u e I, K u e I, u u e I, X i u e I, X y u e I, u e I	662220
+x u n									0.000	0	0	0.0		0		0	0.000		19	16	2	1	x @ n, x u o, x u a, t u n, k u n, C u n, x a n, l u n, Z u n, c u n, K u n, T u n, S u n, z u n, s u n, r u n, x u a n, i x u n, x u	609111
+x u N									0.000	0	0	0.0		0		0	0.000		8	6	1	1	x u o, x u a, x u n, x o N, x @ N, x a N, x u a N, x u	250577
+X u n									0.000	0	0	0.0		0		0	0.000		15	15	0	0	X i n, x u n, t u n, k u n, C u n, l u n, X y n, Z u n, c u n, K u n, T u n, S u n, z u n, s u n, r u n	66355
+X u N									0.000	0	0	0.0		0		0	0.000		1	1	0	0	X i N	42672
+x u o									0.000	0	0	0.0		0		0	0.000		24	19	3	2	S u o, z u o, k u o, Z u o, t u o, x u a, c u o, s u o, m u o, l u o, T u o, p u o, x u n, P u o, r u o, n u o, C u o, K u o, i u o, i x u o, x u o u, x u o i, u o, x u	2493125
+X u o									0.000	0	0	0.0		0		0	0.000		19	18	0	1	S u o, x u o, z u o, k u o, Z u o, t u o, c u o, s u o, m u o, l u o, T u o, p u o, P u o, r u o, n u o, C u o, K u o, i u o, u o	2602029
+x y									0.000	0	0	0.0		0		0	0.000		12	11	0	1	Q y, x @, J y, n y, X y, x a, x u, l y, @ y, i y, y y, y	271180
+X y									0.000	0	0	0.0		0		0	0.000		15	8	6	1	Q y, J y, X i, n y, l y, @ y, i y, y y, X y E, X y n, u X y, X y i, X y u, X i y, y	260777
+x y E									0.000	0	0	0.0		0		0	0.000		10	8	1	1	Q y E, X y E, J y E, y y E, l y E, n y E, u y E, i y E, x @ y E, y E	48683
+X y E									0.000	0	0	0.0		0		0	0.000		17	11	4	2	X i E, Q y E, J y E, X y n, y y E, l y E, n y E, X y i, u y E, i y E, X y u, X y E n, i X y E, X i y E, X y E y, y E, X y	103344
+x y E n									0.000	0	0	0.0		0		0	0.000		6	5	0	1	Q y E n, X y E n, i y E n, J y E n, u y E n, y E n	53449
+x y E N									0.000	0	0	0.0		0		0	0.000		0	0	0	0		0
+X y E n									0.000	0	0	0.0		0		0	0.000		12	6	3	3	X i E n, Q y E n, i y E n, J y E n, u y E n, X y E y, X y y E n, X i y E n, y X y E n, y E n, X y E, X y n	81152
+X y E N									0.000	0	0	0.0		0		0	0.000		3	2	0	1	X y E n, X y E y, X y E	14970
+x y n									0.000	0	0	0.0		0		0	0.000		9	8	0	1	x @ n, x u n, x a n, Q y n, J y n, X y n, @ y n, u y n, y n	225402
+x y N									0.000	0	0	0.0		0		0	0.000		3	3	0	0	x o N, x @ N, x a N	5673
+X y n									0.000	0	0	0.0		0		0	0.000		12	8	2	2	X i n, X y E, Q y n, J y n, X y i, @ y n, X y u, u y n, X y E n, X y n i, X y, y n	63989
+X y N									0.000	0	0	0.0		0		0	0.000		6	5	0	1	X i N, X y E, X y n, X y i, X y u, X y	58519
+y									0.000	0	0	0.0		0		0	0.000		16	4	12	0	i, a, @, u, Q y, y E, J y, n y, X y, y n, l y, @ y, i y, y i, y @, y y	656369
+y E									0.000	0	0	0.0		0		0	0.000		16	5	10	1	i E, y n, y i, y @, y y, y E n, Q y E, X y E, J y E, y y E, y E y, l y E, n y E, u y E, i y E, y	227227
+y E n									0.000	0	0	0.0		0		0	0.000		13	3	8	2	i E n, y i n, y E y, Q y E n, y E n i, X y E n, i y E n, J y E n, y i E n, y E n y, u y E n, y E, y n	79628
+y E N									0.000	0	0	0.0		0		0	0.000		3	2	0	1	y E n, y E y, y E	44286
+y n									0.000	0	0	0.0		0		0	0.000		17	7	9	1	@ n, y E, a n, i n, y i, y @, y y, y E n, Q y n, J y n, X y n, y i n, @ y n, y n y, u y n, y n i, y	143185
+y N									0.000	0	0	0.0		0		0	0.000		8	7	0	1	y E, i N, y n, a N, y i, y @, y y, y	71367
+z @									0.000	0	0	0.0		0		0	0.000		20	17	2	1	t @, Z @, k @, n @, K @, C @, x @, z 1, z u, S @, r @, T @, z a, s @, l @, c @, y @, z @ N, z @ n, @	2436381
+z @ n									0.000	0	0	0.0		0		0	0.000		19	17	0	2	x @ n, r @ n, Z @ n, k @ n, m @ n, u @ n, f @ n, S @ n, p @ n, z @ N, K @ n, C @ n, z a n, P @ n, s @ n, z u n, n @ n, @ n, z @	750421
+z @ N									0.000	0	0	0.0		0		0	0.000		24	21	2	1	n @ N, t @ N, Z @ N, C @ N, S @ N, f @ N, z o N, r @ N, m @ N, P @ N, T @ N, l @ N, c @ N, z a N, x @ N, z @ n, p @ N, K @ N, k @ N, u @ N, s @ N, z @ N u, z @ N y, z @	325241
+Z @ n									0.000	0	0	0.0		0		0	0.000		22	17	3	2	x @ n, r @ n, k @ n, m @ n, u @ n, Z @ N, f @ n, Z a n, S @ n, p @ n, K @ n, Z u n, C @ n, z @ n, P @ n, s @ n, n @ n, Z @ n @, i Z @ n, Z @ n i, Z @, @ n	981846
+Z @ N									0.000	0	0	0.0		0		0	0.000		25	21	3	1	n @ N, Z @ n, Z o N, t @ N, Z a N, C @ N, S @ N, f @ N, r @ N, m @ N, z @ N, P @ N, T @ N, l @ N, c @ N, x @ N, p @ N, K @ N, k @ N, u @ N, s @ N, Z @ N i, Z @ N u, u Z @ N, Z @	776024
+z @ r									0.000	0	0	0.0		0		0	0.000		6	4	0	2	z @ N, z @ n, y @ r, i @ r, @ r, z @	63639
+Z @ r									0.000	0	0	0.0		0		0	0.000		8	4	2	2	Z @ n, Z @ N, y @ r, i @ r, Z @ @ r, Z 1 @ r, Z @, @ r	514359
+z 1									0.000	0	0	0.0		0		0	0.000		12	9	3	0	S 1, Z 1, s 1, c 1, C 1, z u, r 1, z a, z @, u z 1, i z 1, z 1 y	1391771
+Z 1									0.000	0	0	0.0		0		0	0.000		16	9	7	0	S 1, Z @, s 1, c 1, Z u, C 1, z 1, r 1, Z a, i Z 1, Z 1 i, Z 1 y, u Z 1, Z 1 u, y Z 1, @ Z 1	1644352
+z a									0.000	0	0	0.0		0		0	0.000		28	22	5	1	T a, p a, m a, n a, t a, S a, l a, i a, C a, u a, z 1, f a, P a, z u, x a, K a, Z a, s a, z @, c a, a a, k a, z a I, z a U, z a N, z a n, z a u, a	2431873
+Z a									0.000	0	0	0.0		0		0	0.000		29	22	6	1	T a, p a, Z @, m a, n a, Z 1, t a, S a, Z u, l a, i a, C a, u a, f a, P a, x a, z a, K a, s a, c a, a a, k a, Z a U, Z a N, Z a n, Z u a, Z a I, Z a y, a	2453057
+z a I									0.000	0	0	0.0		0		0	0.000		27	21	4	2	l a I, T a I, t a I, c a I, k a I, x a I, K a I, m a I, z a U, P a I, p a I, u a I, s a I, n a I, z a N, z a n, C a I, z e I, Z a I, S a I, z a u, z a I y, z a I i, z u a I, i z a I, a I, z a	577055
+Z a I									0.000	0	0	0.0		0		0	0.000		25	20	3	2	z a I, l a I, T a I, Z a U, t a I, c a I, k a I, x a I, K a I, Z a N, m a I, P a I, Z a n, p a I, u a I, s a I, n a I, C a I, S a I, Z a y, Z u a I, Z a I u, Z 1 a I, a I, Z a	1135505
+z a n									0.000	0	0	0.0		0		0	0.000		30	25	3	2	z a I, K a n, t a n, u a n, p a n, z a U, T a n, s a n, n a n, k a n, Z a n, f a n, S a n, m a n, l a n, x a n, P a n, c a n, z a N, C a n, z @ n, r a n, z u n, i a n, z a u, z u a n, z a n y, z a i n, a n, z a	901329
+z a N									0.000	0	0	0.0		0		0	0.000		28	25	1	2	z a I, r a N, S a N, p a N, t a N, Z a N, f a N, C a N, z a U, u a N, k a N, z o N, m a N, T a N, i a N, z @ N, c a N, l a N, P a N, z a n, K a N, s a N, x a N, n a N, z a u, z a N u, z a, a N	996107
+Z a n									0.000	0	0	0.0		0		0	0.000		30	25	3	2	Z @ n, K a n, t a n, Z a U, u a n, Z a N, p a n, T a n, s a n, n a n, k a n, f a n, S a n, m a n, l a n, x a n, P a n, Z u n, c a n, C a n, z a n, r a n, Z a I, i a n, Z a y, Z u a n, Z 1 a n, Z a n i, a n, Z a	575144
+Z a N									0.000	0	0	0.0		0		0	0.000		31	25	4	2	r a N, S a N, Z a U, Z o N, p a N, t a N, Z @ N, f a N, C a N, u a N, Z a n, k a N, m a N, T a N, i a N, c a N, l a N, P a N, z a N, K a N, Z a I, s a N, x a N, n a N, Z a y, Z u a N, Z a N y, i Z a N, Z a i N, Z a, a N	607499
+z a r									0.000	0	0	0.0		0		0	0.000		6	5	0	1	z a I, z a U, z a N, z a n, z a u, z a	515886
+Z a r									0.000	0	0	0.0		0		0	0.000		6	5	0	1	Z a U, Z a N, Z a n, Z a I, Z a y, Z a	101081
+z a U									0.000	0	0	0.0		0		0	0.000		29	22	5	2	z a I, x a U, i a U, t a U, z o U, Z a U, k a U, l a U, P a U, p a U, S a U, K a U, T a U, C a U, m a U, c a U, n a U, z a N, z a n, r a U, s a U, z a u, z a U y, i z a U, z a U i, z a U u, z 1 a U, z a, a U	1536139
+Z a U									0.000	0	0	0.0		0		0	0.000		26	22	2	2	x a U, i a U, t a U, k a U, Z a N, z a U, l a U, P a U, Z a n, p a U, S a U, Z o U, K a U, T a U, C a U, m a U, c a U, n a U, r a U, s a U, Z a I, Z a y, y Z a U, i Z a U, Z a, a U	993955
+z E									0.000	0	0	0.0		0		0	0.000		6	6	0	0	i E, y E, z 1, z u, z a, z @	188724
+Z E									0.000	0	0	0.0		0		0	0.000		6	6	0	0	Z @, i E, Z 1, Z u, y E, Z a	614906
+z e I									0.000	0	0	0.0		0		0	0.000		15	12	2	1	z a I, m e I, k e I, t e I, u e I, p e I, S e I, x e I, f e I, l e I, n e I, P e I, z u e I, u z e I, e I	1242729
+Z e I									0.000	0	0	0.0		0		0	0.000		15	13	1	1	m e I, k e I, t e I, u e I, p e I, S e I, x e I, f e I, l e I, n e I, P e I, z e I, Z a I, Z u e I, e I	698618
+z E n									0.000	0	0	0.0		0		0	0.000		5	5	0	0	y E n, i E n, z a n, z @ n, z u n	37418
+Z E n									0.000	0	0	0.0		0		0	0.000		5	5	0	0	Z @ n, y E n, Z a n, i E n, Z u n	157453
+z i @									0.000	0	0	0.0		0		0	0.000		3	2	0	1	J i @, Q i @, z @	2478
+Z i @									0.000	0	0	0.0		0		0	0.000		3	2	0	1	J i @, Q i @, Z @	300190
+z i @ n									0.000	0	0	0.0		0		0	0.000		1	0	0	1	, z @ n	1321
+z i @ N									0.000	0	0	0.0		0		0	0.000		1	0	0	1	, z @ N	5303
+Z i @ n									0.000	0	0	0.0		0		0	0.000		1	0	0	1	, Z @ n	106502
+Z i @ N									0.000	0	0	0.0		0		0	0.000		1	0	0	1	, Z @ N	28267
+z i @ r									0.000	0	0	0.0		0		0	0.000		3	2	0	1	t i @ r, l i @ r, i @ r	6552
+Z i @ r									0.000	0	0	0.0		0		0	0.000		5	4	0	1	Z @ @ r, t i @ r, l i @ r, Z 1 @ r, i @ r	31415
+z i a									0.000	0	0	0.0		0		0	0.000		8	6	0	2	X i a, J i a, Q i a, u i a, a i a, i i a, i a, z a	122688
+Z i a									0.000	0	0	0.0		0		0	0.000		9	7	0	2	X i a, J i a, Z u a, Q i a, u i a, a i a, i i a, i a, Z a	130659
+z i a n									0.000	0	0	0.0		0		0	0.000		6	4	0	2	z u a n, T i a n, l i a n, X i a n, z a n, i a n	2773
+z i a N									0.000	0	0	0.0		0		0	0.000		10	7	1	2	X i a N, l i a N, J i a N, i i a N, Q i a N, n i a N, u i a N, z 1 i a N, i a N, z a N	443192
+Z i a n									0.000	0	0	0.0		0		0	0.000		7	5	0	2	Z u a n, Z 1 a n, T i a n, l i a n, X i a n, Z a n, i a n	23115
+Z i a N									0.000	0	0	0.0		0		0	0.000		11	8	1	2	X i a N, l i a N, J i a N, i i a N, Q i a N, Z u a N, n i a N, u i a N, Z @ i a N, Z a N, i a N	542912
+z i a r									0.000	0	0	0.0		0		0	0.000		0	0	0	0		0
+Z i a r									0.000	0	0	0.0		0		0	0.000		0	0	0	0		0
+z i a U									0.000	0	0	0.0		0		0	0.000		14	12	0	2	l i a U, J i a U, X i a U, T i a U, t i a U, Q i a U, m i a U, P i a U, n i a U, p i a U, i i a U, z 1 a U, i a U, z a U	1419823
+Z i a U									0.000	0	0	0.0		0		0	0.000		16	11	3	2	l i a U, J i a U, X i a U, T i a U, t i a U, Q i a U, m i a U, P i a U, n i a U, p i a U, i i a U, Z 1 i a U, Z u i a U, Z a i a U, i a U, Z a U	1466824
+z i E									0.000	0	0	0.0		0		0	0.000		12	11	0	1	p i E, X i E, J i E, Q i E, T i E, l i E, t i E, u i E, m i E, n i E, P i E, i E	297293
+Z i E									0.000	0	0	0.0		0		0	0.000		14	11	2	1	p i E, X i E, J i E, Q i E, T i E, l i E, t i E, u i E, m i E, n i E, P i E, Z 1 i E, Z u i E, i E	299399
+z i E n									0.000	0	0	0.0		0		0	0.000		15	13	1	1	Q i E n, t i E n, J i E n, T i E n, n i E n, X i E n, p i E n, l i E n, P i E n, m i E n, y i E n, i i E n, u i E n, z 1 i E n, i E n	438099
+Z i E n									0.000	0	0	0.0		0		0	0.000		17	13	3	1	Q i E n, t i E n, J i E n, T i E n, n i E n, X i E n, p i E n, l i E n, P i E n, m i E n, y i E n, i i E n, u i E n, Z a i E n, Z 1 i E n, Z @ i E n, i E n	438514
+z i n									0.000	0	0	0.0		0		0	0.000		14	12	1	1	X i n, J i n, n i n, Q i n, P i n, l i n, z a n, z @ n, m i n, p i n, z u n, y i n, z a i n, i n	103446
+z i N									0.000	0	0	0.0		0		0	0.000		14	13	0	1	T i N, J i N, X i N, Q i N, p i N, l i N, m i N, t i N, z o N, z @ N, P i N, z a N, n i N, i N	313573
+Z i n									0.000	0	0	0.0		0		0	0.000		15	12	2	1	Z @ n, X i n, J i n, n i n, Z a n, Q i n, Z u n, P i n, l i n, m i n, p i n, y i n, Z 1 i n, Z u i n, i n	223877
+Z i N									0.000	0	0	0.0		0		0	0.000		15	13	1	1	T i N, Z o N, J i N, X i N, Q i N, Z @ N, p i N, Z a N, l i N, m i N, t i N, P i N, n i N, Z a i N, i N	405936
+z i o n									0.000	0	0	0.0		0		0	0.000		0	0	0	0		0
+z i o N									0.000	0	0	0.0		0		0	0.000		9	6	1	2	X i o N, Q i o N, u i o N, J i o N, i i o N, y i o N, z u i o N, i o N, z o N	68343
+Z i o n									0.000	0	0	0.0		0		0	0.000		0	0	0	0		0
+Z i o N									0.000	0	0	0.0		0		0	0.000		9	6	1	2	X i o N, Q i o N, u i o N, J i o N, i i o N, y i o N, Z 1 i o N, Z o N, i o N	112277
+z i o U									0.000	0	0	0.0		0		0	0.000		10	7	1	2	J i o U, Q i o U, l i o U, X i o U, t i o U, n i o U, m i o U, z 1 i o U, i o U, z o U	757533
+Z i o U									0.000	0	0	0.0		0		0	0.000		11	7	2	2	J i o U, Q i o U, l i o U, X i o U, t i o U, n i o U, m i o U, Z 1 i o U, Z u i o U, i o U, Z o U	704011
+z o n									0.000	0	0	0.0		0		0	0.000		5	5	0	0	z o U, z o N, z a n, z @ n, z u n	80410
+z o N									0.000	0	0	0.0		0		0	0.000		18	16	2	0	z o U, Z o N, i o N, c o N, t o N, s o N, n o N, T o N, C o N, k o N, z @ N, K o N, x o N, l o N, z a N, r o N, z o N @, z o N i	316224
+Z o n									0.000	0	0	0.0		0		0	0.000		5	5	0	0	Z @ n, Z o N, Z a n, Z o U, Z u n	187668
+Z o N									0.000	0	0	0.0		0		0	0.000		21	16	5	0	i o N, c o N, Z @ N, Z a N, t o N, s o N, n o N, T o N, z o N, Z o U, C o N, k o N, K o N, x o N, l o N, r o N, Z o N y, Z o N u, u Z o N, Z o N i, y Z o N	269435
+z o U									0.000	0	0	0.0		0		0	0.000		19	18	0	1	i o U, t o U, S o U, k o U, x o U, T o U, z a U, z o N, Z o U, C o U, K o U, l o U, m o U, r o U, s o U, c o U, f o U, P o U, o U	795765
+Z o U									0.000	0	0	0.0		0		0	0.000		23	18	4	1	i o U, t o U, z o U, Z a U, Z o N, S o U, k o U, x o U, T o U, C o U, K o U, l o U, m o U, r o U, s o U, c o U, f o U, P o U, y Z o U, Z o U u, Z o U y, Z o U i, o U	933639
+z u									0.000	0	0	0.0		0		0	0.000		27	22	4	1	p u, C u, Z u, S u, f u, z 1, t u, l u, K u, r u, k u, T u, x u, z a, m u, s u, P u, z @, i u, n u, c u, u u, z u o, z u i, z u n, z a u, u	1086243
+Z u									0.000	0	0	0.0		0		0	0.000		30	22	7	1	p u, Z @, Z 1, C u, S u, f u, t u, l u, K u, r u, z u, k u, T u, x u, m u, Z a, s u, P u, i u, n u, c u, u u, Z u o, Z u i, Z u a, Z u n, Z 1 u, i Z u, u Z u, u	1439679
+z u a									0.000	0	0	0.0		0		0	0.000		13	8	2	3	z u o, x u a, Z u a, k u a, S u a, K u a, z u i, z u n, z u a n, z u a I, u a, z u, z a	244084
+Z u a									0.000	0	0	0.0		0		0	0.000		14	7	4	3	Z u o, x u a, Z u i, k u a, S u a, Z u n, K u a, Z u a N, Z u a n, Z u a I, Z u Z a, Z u, u a, Z a	249191
+z u a I									0.000	0	0	0.0		0		0	0.000		15	12	1	2	K u a I, z u e I, x u a I, k u a I, S u a I, i u a I, z u a n, @ u a I, Z u a I, C u a I, f u a I, m u a I, z u o a I, z a I, u a I	640838
+Z u a I									0.000	0	0	0.0		0		0	0.000		23	14	6	3	K u a I, Z u a N, x u a I, Z u a n, k u a I, S u a I, i u a I, Z u e I, @ u a I, z u a I, C u a I, Z 1 a I, f u a I, m u a I, Z 1 u a I, Z u z a I, Z u Z a I, Z u P a I, Z u T a I, Z u c a I, Z u a, u a I, Z a I	121907
+z u a n									0.000	0	0	0.0		0		0	0.000		22	17	2	3	x u a n, C u a n, k u a n, s u a n, t u a n, Z u a n, l u a n, T u a n, K u a n, p u a n, i u a n, r u a n, n u a n, S u a n, z u a I, c u a n, u u a n, z u o a n, z u l a n, u a n, z a n, z u n	263079
+z u a N									0.000	0	0	0.0		0		0	0.000		15	11	2	2	Z u a N, C u a N, S u a N, k u a N, K u a N, x u a N, z u a n, i u a N, y u a N, z u a I, u u a N, z u t a N, z u Z a N, u a N, z a N	53789
+Z u a n									0.000	0	0	0.0		0		0	0.000		30	20	6	4	x u a n, C u a n, k u a n, s u a n, t u a n, Z u a N, l u a n, T u a n, K u a n, z u a n, Z 1 a n, p u a n, i u a n, r u a n, Z u a I, n u a n, S u a n, c u a n, u u a n, Z u i n, Z u a n i, Z u f a n, Z u r a n, Z u p a n, Z u C a n, Z u k a n, u a n, Z a n, Z u a, Z u n	291454
+Z u a N									0.000	0	0	0.0		0		0	0.000		20	10	7	3	C u a N, Z u a n, S u a N, k u a N, K u a N, x u a N, i u a N, y u a N, Z u a I, u u a N, Z 1 u a N, u Z u a N, Z u Z a N, Z u c a N, Z u f a N, Z u C a N, i Z u a N, Z a N, u a N, Z u a	86287
+z u e I									0.000	0	0	0.0		0		0	0.000		19	14	3	2	x u e I, t u e I, i u e I, S u e I, s u e I, T u e I, k u e I, Z u e I, C u e I, r u e I, c u e I, K u e I, z u a I, u u e I, z 1 u e I, u z u e I, z u e I @, u e I, z e I	604466
+Z u e I									0.000	0	0	0.0		0		0	0.000		17	14	2	1	x u e I, t u e I, z u e I, i u e I, S u e I, s u e I, T u e I, k u e I, C u e I, r u e I, c u e I, Z u a I, K u e I, u u e I, Z 1 u e I, Z u u e I, u e I	659897
+z u n									0.000	0	0	0.0		0		0	0.000		19	16	2	1	z u o, x u n, t u n, k u n, C u n, l u n, Z u n, c u n, K u n, z a n, z @ n, T u n, S u n, z u i, s u n, r u n, z u a n, z u n y, z u	186540
+z u N									0.000	0	0	0.0		0		0	0.000		7	6	0	1	z u o, z o N, z @ N, z a N, z u i, z u n, z u	171306
+Z u n									0.000	0	0	0.0		0		0	0.000		20	17	2	1	Z @ n, Z u o, Z a n, Z u i, Z u a, x u n, t u n, k u n, C u n, l u n, c u n, K u n, T u n, S u n, z u n, s u n, r u n, Z u a n, Z u i n, Z u	313110
+Z u N									0.000	0	0	0.0		0		0	0.000		9	7	1	1	Z u o, Z o N, Z @ N, Z a N, Z u i, Z u a, Z u n, Z u a N, Z u	279191
+z u o									0.000	0	0	0.0		0		0	0.000		24	19	3	2	S u o, x u o, k u o, Z u o, t u o, c u o, s u o, m u o, l u o, T u o, p u o, P u o, r u o, n u o, z u i, C u o, z u n, K u o, i u o, z 1 u o, z u o i, z u o @, u o, z u	2465245
+Z u o									0.000	0	0	0.0		0		0	0.000		23	20	1	2	S u o, x u o, z u o, k u o, t u o, c u o, s u o, Z u i, Z u a, m u o, l u o, T u o, p u o, P u o, Z u n, r u o, n u o, C u o, K u o, i u o, i Z u o, u o, Z u	2558388
+z y									0.000	0	0	0.0		0		0	0.000		14	12	1	1	Q y, J y, z 1, n y, z u, X y, z a, l y, z @, @ y, i y, y y, z 1 y, y	265052
+Z y									0.000	0	0	0.0		0		0	0.000		15	12	2	1	Z @, Q y, Z 1, Z u, J y, n y, X y, Z a, l y, @ y, i y, y y, Z 1 y, Z a y, y	692607
+z y E									0.000	0	0	0.0		0		0	0.000		10	8	1	1	Q y E, X y E, J y E, y y E, l y E, n y E, u y E, i y E, z u y E, y E	48301
+Z y E									0.000	0	0	0.0		0		0	0.000		10	8	1	1	Q y E, X y E, J y E, y y E, l y E, n y E, u y E, i y E, Z 1 y E, y E	48250
+z y E n									0.000	0	0	0.0		0		0	0.000		8	5	2	1	Q y E n, X y E n, i y E n, J y E n, u y E n, z 1 y E n, z u y E n, y E n	54679
+z y E N									0.000	0	0	0.0		0		0	0.000		0	0	0	0		0
+Z y E n									0.000	0	0	0.0		0		0	0.000		8	5	2	1	Q y E n, X y E n, i y E n, J y E n, u y E n, Z 1 y E n, Z u y E n, y E n	55018
+Z y E N									0.000	0	0	0.0		0		0	0.000		0	0	0	0		0
+z y n									0.000	0	0	0.0		0		0	0.000		9	8	0	1	Q y n, J y n, X y n, z a n, z @ n, z u n, @ y n, u y n, y n	14380
+z y N									0.000	0	0	0.0		0		0	0.000		3	3	0	0	z o N, z @ N, z a N	17626
+Z y n									0.000	0	0	0.0		0		0	0.000		9	8	0	1	Z @ n, Z a n, Q y n, J y n, X y n, Z u n, @ y n, u y n, y n	134415
+Z y N									0.000	0	0	0.0		0		0	0.000		3	3	0	0	Z o N, Z @ N, Z a N	109943
