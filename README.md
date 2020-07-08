@@ -1,6 +1,8 @@
 # Mandarin-Neighborhood-Statistics
 Database of Mandarin neighborhood statistics 
 
+***This database is no longer being maintained. For the updated version of this database please see the github files https://github.com/karlneergaard/Database_of_word-level_statistics, or go to the website http://dowls.site/, where you can access lexical information on Mandarin phonology through an convenient interface.
+
 This database provides statistics for words and nonwords of Mandarin, Chinese. Lexical statistics include subtitle corpus frequency, phonological neighborhood density, neighborhood frequency, and homophone density. The accompanying word descriptors include pinyin, ascii phonetic transcription, tone, syllable structure, dominant PoS, and syllable, segment and pinyin lengths for each word. It is designed for researchers particularly concerned with language processing of isolated words. The database is divided into multiple files according to the desired search criteria: 1) the syllable segmentation schema used to calculate density measures, and 2) whether the search is for words or nonwords.
 
 The database is made of 28 files, organized according to words with tone, words without tone,
